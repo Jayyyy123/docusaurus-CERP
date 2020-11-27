@@ -12,21 +12,21 @@ You can track incoming queries from your email using Support Tickets. You can ke
 
 ### 1. Issues
 
-1. Issue
-1. Issue Type and Priority
-1. Service Level Agreement
+1. [Issue](/docs/coreModules/support/issue)
+1. [Issue Type and Priority](/docs/coreModules/support/issueType)
+1. [Service Level Agreement](/docs/coreModules/support/serviceLev)
 
 ### 2. Maintenance
 
-1. Serial Number
-1. Warranty Claim
-1. Maintenance Visit
-1. Maintenance Schedule
+1. [Serial Number](/docs/coreModules/support/serialN)
+2. [Warranty Claim](/docs/coreModules/support/warrantyClaim)
+3. [Maintenance Visit](/docs/coreModules/support/mainteVisit)
+4. [Maintenance Schedule](/docs/coreModules/support/mainteSche)
 
 ### 3. Settings
 
-1. Support Settings
+1. [Support Settings](/docs/coreModules/support/supportSett)
 
 ### 4. Reports
 
-1. Support Reports
+1. [Support Reports](/docs/coreModules/support/supportRep)

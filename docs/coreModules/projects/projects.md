@@ -12,24 +12,24 @@ CERP helps any company effectively manage business aspects like project manageme
 
 ### 1.1. Project Management
 
-1. Project
-1. Tasks
-1. Project Template
-1. Project Type
-1. Project Update
-1. Project Views
+1. [Project](/docs/coreModules/projects/project)
+1. [Tasks](/docs/coreModules/projects/tasks)
+1. [Project Template](/docs/coreModules/projects/proTemp)
+1. [Project Type](/docs/coreModules/projects/proType)
+1. [Project Update](/docs/coreModules/projects/proUpdate)
+1. [Project Views](/docs/coreModules/projects/proViews)
 
 ### 1.2. Time Tracking
 
-1. Timesheet
-1. Sales Invoice From Timesheet
-1. Salary Slip From Timesheet
-1. Activity Type
-1. Activity Cost
+1. [Timesheet](/docs/coreModules/projects/timesheet)
+1. [Sales Invoice From Timesheet](/docs/coreModules/projects/salesIno)
+1. [Salary Slip From Timesheet](/docs/coreModules/projects/salarySlip)
+1. [Activity Type](/docs/coreModules/projects/activType)
+1. [Activity Cost](/docs/coreModules/projects/activCost)
 
 ### 1.3. Reports
 
-1. Project Reports
+1. [Project Reports](/docs/coreModules/projects/proReports)
 
 ## 2. Articles
 

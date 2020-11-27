@@ -1,0 +1,21 @@
+---
+id: medCodeStd
+title: Medical Code Standard
+sidebar_label: Medical Code Standard
+---
+
+Medical Coding is required in many countries for regulatory compliance and many of the Medical Insurance companies manage eligibility and coverage based on Medical Code Standards. CERP Healthcare helps encode diagnosis and assessments recorded as part of Patient Encounters. You can also codify Clinical Procedures. You can configure Medical Code Standards and related Medical Codes - which usually can be easily done by Data Import as the code data tends to be quite large. You can create as many Medical Code Standards as you wish if you need to comply with multiple Coding Standards.
+
+In order to create Medical Code Standards, go to:
+
+:::note
+Home > Healthcare > Masters > Medical Code Standard
+:::
+
+~~CERP Healthcare~~
+
+Two common medical coding classification systems are in use — the International Classification of Diseases (ICD) and the Current Procedural Terminology (CPT).
+
+## Related Topics
+
+1. Medical Code

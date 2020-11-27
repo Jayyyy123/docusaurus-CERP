@@ -201,14 +201,6 @@ const industryModules = [
     ),
     description5: (
       <>
-        <h4>Non Profit</h4>
-        <p>
-          Track members, memberships, volunteers, grants for your non profit
-        </p>
-      </>
-    ),
-    description6: (
-      <>
         <h4>Hospitality</h4>
         <p>
           Management multiple restaurants and hotels with table and room booking
@@ -220,86 +212,7 @@ const industryModules = [
     featuresUrl2: "docs/industryModule/education/education",
     featuresUrl3: "docs/industryModule/healthcare/healthcare",
     featuresUrl4: "docs/industryModule/agri/agri",
-    featuresUrl5: "docs/industryModule/nonProfit/nonProfit",
-    featuresUrl6: "docs/industryModule/hospitality/hospitality",
-  },
-];
-
-const customIntegrations = [
-  {
-    title: "Customization and Integration",
-    description: (
-      <>
-        <h4>Customize CERP</h4>
-        <p>
-          Learn how to customize CERP with custom fields, print formats, custom
-          scripts etc
-        </p>
-      </>
-    ),
-    description2: (
-      <>
-        <h4>Regional</h4>
-        <p>
-          CERP has built-in integration support for many regions like India,
-          United States, UAE, Italy
-        </p>
-      </>
-    ),
-    description3: (
-      <>
-        <h4>Integrations</h4>
-        <p>
-          Learn how to leverage built-in integrations to payment gateways,
-          Google, AWS and more
-        </p>
-      </>
-    ),
-    description4: (
-      <>
-        <h4>Translations</h4>
-        <p>Learn how to contribute translations in CERP</p>
-      </>
-    ),
-    description5: (
-      <>
-        <h4>Developer</h4>
-        <p>
-          Learn how to extend and contribute to CERP or build your own extension
-        </p>
-      </>
-    ),
-    featuresUrl: "docs/customIntegrations/customIntegrations/customCERP",
-    featuresUrl2: "docs/customIntegrations/regional/regional",
-    featuresUrl3: "docs/customIntegrations/integrations/integrations",
-    featuresUrl4: "docs/customIntegrations/translations/translations",
-    featuresUrl5: "https://v2.docusaurus.io/docs/",
-  },
-];
-
-const webPortals = [
-  {
-    title: "Website and Portals",
-    description: (
-      <>
-        <h4>Website</h4>
-        <p>
-          Manage your website pages, product catalog, shopping cart, web forms
-          and more with the built-in portal
-        </p>
-      </>
-    ),
-    description2: (
-      <>
-        <h4>Portals</h4>
-        <p>
-          Let your customers and vendors directly shop online, submit bids etc
-          with CERP Portals
-        </p>
-      </>
-    ),
-    featuresUrl: "docs/webPortals/website/website",
-    featuresUrl2: "docs/webPortals/portals/portals",
+    featuresUrl5: "docs/industryModule/hospitality/hospitality",
   },
 ];
 
@@ -475,79 +388,6 @@ function IndustryModules({
   description3,
   description4,
   description5,
-  description6,
-  featuresUrl,
-  featuresUrl2,
-  featuresUrl3,
-  featuresUrl4,
-  featuresUrl5,
-  featuresUrl6,
-}) {
-  return (
-    <div className={clsx("col col--4", styles.feature)}>
-      <h1>{title}</h1>
-      <div className={clsx("flex__content", styles.flex__content)}>
-        <Link
-          style={{ textDecoration: "none" }}
-          className={clsx("description", styles.description)}
-          to={featuresUrl}
-        >
-          <div>{description}</div>
-        </Link>
-
-        <Link
-          style={{ textDecoration: "none" }}
-          className={clsx("description", styles.description)}
-          to={featuresUrl2}
-        >
-          <div>{description2}</div>
-        </Link>
-
-        <Link
-          style={{ textDecoration: "none" }}
-          className={clsx("description", styles.description)}
-          to={featuresUrl3}
-        >
-          <div>{description3}</div>
-        </Link>
-      </div>
-
-      <div className={clsx("flex__content", styles.flex__content)}>
-        <Link
-          style={{ textDecoration: "none" }}
-          className={clsx("description", styles.description)}
-          to={featuresUrl4}
-        >
-          <div>{description4}</div>
-        </Link>
-
-        <Link
-          style={{ textDecoration: "none" }}
-          className={clsx("description", styles.description)}
-          to={featuresUrl5}
-        >
-          <div>{description5}</div>
-        </Link>
-
-        <Link
-          style={{ textDecoration: "none" }}
-          className={clsx("description", styles.description)}
-          to={featuresUrl6}
-        >
-          <div>{description6}</div>
-        </Link>
-      </div>
-    </div>
-  );
-}
-
-function CustomIntegrations({
-  title,
-  description,
-  description2,
-  description3,
-  description4,
-  description5,
   featuresUrl,
   featuresUrl2,
   featuresUrl3,
@@ -598,37 +438,6 @@ function CustomIntegrations({
           to={featuresUrl5}
         >
           <div>{description5}</div>
-        </Link>
-      </div>
-    </div>
-  );
-}
-
-function WebPortals({
-  title,
-  description,
-  description2,
-  featuresUrl,
-  featuresUrl2,
-}) {
-  return (
-    <div className={clsx("col col--4", styles.feature)}>
-      <h1>{title}</h1>
-      <div className={clsx("flex__content", styles.flex__content)}>
-        <Link
-          style={{ textDecoration: "none" }}
-          className={clsx("description", styles.description)}
-          to={featuresUrl}
-        >
-          <div>{description}</div>
-        </Link>
-
-        <Link
-          style={{ textDecoration: "none" }}
-          className={clsx("description", styles.description)}
-          to={featuresUrl2}
-        >
-          <div>{description2}</div>
         </Link>
       </div>
     </div>
@@ -685,36 +494,6 @@ function Home() {
               <div className={clsx("row", styles.row)}>
                 {industryModules.map((props, idx) => (
                   <IndustryModules
-                    className="content__feature2"
-                    key={idx}
-                    {...props}
-                  />
-                ))}
-              </div>
-            </div>
-          </section>
-        )}
-        {customIntegrations && customIntegrations.length > 0 && (
-          <section className={styles.features}>
-            <div className="container">
-              <div className={clsx("row", styles.row)}>
-                {customIntegrations.map((props, idx) => (
-                  <CustomIntegrations
-                    className="content__feature2"
-                    key={idx}
-                    {...props}
-                  />
-                ))}
-              </div>
-            </div>
-          </section>
-        )}
-        {webPortals && webPortals.length > 0 && (
-          <section className={styles.features}>
-            <div className="container">
-              <div className={clsx("row", styles.row)}>
-                {webPortals.map((props, idx) => (
-                  <WebPortals
                     className="content__feature2"
                     key={idx}
                     {...props}

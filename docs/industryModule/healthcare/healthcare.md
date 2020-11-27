@@ -14,58 +14,59 @@ The following are the detailed guides on each of the functionalities ready to us
 
 ### 1. Basics
 
-1. Introduction
-1. Patient
-1. Healthcare Practitioner
-1. Practitioner Schedule
-1. Medical Department
-1. Healthcare Service Unit Type
-1. Healthcare Service Unit
-1. Medical Code Standards
-1. Medical Code
+1. [Introduction](/docs/industryModule/healthcare/intro)
+1. [Patient](/docs/industryModule/healthcare/patient)
+1. [Healthcare Practitioner](/docs/industryModule/healthcare/healthPrac)
+1. [Practitioner Schedule](/docs/industryModule/healthcare/pracSch)
+1. [Medical Department](/docs/industryModule/healthcare/medDep)
+1. [Healthcare Service Unit Type](/docs/industryModule/healthcare/healthServUnitType)
+1. [Healthcare Service Unit](/docs/industryModule/healthcare/healthServUnit)
+1. [Medical Code Standards](/docs/industryModule/healthcare/medCodeStd)
+1. [Medical Code](/docs/industryModule/healthcare/medCode)
 
 ### 2. Consultation Setup
 
-1. Appointment Type
-1. Clinical Procedure Template
-1. Prescription Dosage and Duration
+1. [Appointment Type](/docs/industryModule/healthcare/appType)
+1. [Clinical Procedure Template](/docs/industryModule/healthcare/clinProTemp)
+1. [Prescription Dosage and Duration](/docs/industryModule/healthcare/prescription)
 
 ### 3. Consultation
 
-1. Patient Appointment
-1. Clinical Procedure
-1. Patient Encounter
-1. Vital Signs
-1. Complaints and Diagnosis
-1. Fee Validity
+1. [Patient Appointment](/docs/industryModule/healthcare/patApp)
+1. [Clinical Procedure](/docs/industryModule/healthcare/clinPro)
+1. [Patient Encounter](/docs/industryModule/healthcare/patEnc)
+1. [Vital Signs](/docs/industryModule/healthcare/vital)
+1. [Complaints and Diagnosis](/docs/industryModule/healthcare/compl)
+1. [Fee Validity](/docs/industryModule/healthcare/feeVali)
 
 ### 4. Inpatient
 
-1. Inpatient Record
-1. Inpatient Medication Order
-1. Inpatient Medication Entry
+1. [Inpatient Record](/docs/industryModule/healthcare/inpaRec)
+1. [Inpatient Medication Order](/docs/industryModule/healthcare/inpaMedOrder)
+1. [Inpatient Medication Entry](/docs/industryModule/healthcare/inpaMedEnt)
 
 ### 5. Rehabilitation and Physiotherapy
 
-1. Exercise Type
-1. Therapy Type
-1. Therapy Plan Template
-1. Therapy Plan
-1. Therapy Session
-1. Patient Assessment Template
-1. Patient Assessment
+1. [Exercise Type](/docs/industryModule/healthcare/excType)
+1. [Therapy Type](/docs/industryModule/healthcare/therType)
+1. [Therapy Plan Template](/docs/industryModule/healthcare/therPlanTemp)
+1. [Therapy Plan](/docs/industryModule/healthcare/therPlan)
+1. [Therapy Session](/docs/industryModule/healthcare/therSession)
+1. [Patient Assessment Template](/docs/industryModule/healthcare/patAssTemp)
+1. [Patient Assessment](/docs/industryModule/healthcare/patAss)
 
 ### 6. Settings
 
-1. Healthcare Settings
+1. [Healthcare Settings](/docs/industryModule/healthcare/healthSett)
 
 ### 7. Laboratory
 
-1. Lab Test Template
-1. Lab Test
-1. Sample Collection
+1. [Lab Test Template](/docs/industryModule/healthcare/labTTemp)
+1. [Lab Test](/docs/industryModule/healthcare/labT)
+1. [Sample Collection](/docs/industryModule/healthcare/sample)
 
 ### 8. Records, History and Reports
 
-1. Patient History
-1. Patient Appointment Analytics
+1. [Patient History](/docs/industryModule/healthcare/patHist)
+1. [Patient Appointment Analytics](/docs/industryModule/healthcare/patAppAna)
+2. [Inpatient Medication Orders Report](/docs/industryModule/healthcare/inpaMedOrderRep)

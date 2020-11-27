@@ -14,8 +14,8 @@ The Restaurant module in CERP will help you manage a chain of restaurants. You c
 
 The Hotels module in CERP will help you manage creating Hotel Rooms, create Hotel Room Reservation. It will also help in creating Invoice from hotel room reservation
 
-1. Restaurant
-1. Restaurant Menu
-1. Reservations
-1. Order Entry
-1. Hotel Room
+1. [Restaurant](/docs/industryModule/hospitality/restaurant)
+1. [Restaurant Menu](/docs/industryModule/hospitality/intro)
+1. [Reservations](/docs/industryModule/hospitality/intro)
+1. [Order Entry](/docs/industryModule/hospitality/intro)
+1. [Hotel Room](/docs/industryModule/hospitality/intro)

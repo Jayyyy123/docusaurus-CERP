@@ -16,66 +16,66 @@ The Stock or Inventory module in CERP helps you to:
 
 ### 1.1 Basics
 
-1. Introduction
-1. Warehouse
-1. Item
-1. Opening Stock
-1. Accounting Of Inventory Stock
-1. Price Lists
-1. Stock Settings
+1. [Introduction](/docs/coreModules/stock/intro)
+1. [Warehouse](/docs/coreModules/stock/warehouse)
+1. [Item](/docs/coreModules/stock/item)
+1. [Opening Stock](/docs/coreModules/stock/openStock)
+1. [Accounting Of Inventory Stock](/docs/coreModules/stock/accOfInvent)
+1. [Price Lists](/docs/coreModules/stock/priceLists)
+1. [Stock Settings](/docs/coreModules/stock/stockSett)
 
 ### 1.2 Item Variants
 
-1. Item Variants
-1. Item Attribute
+1. [Item Variants](/docs/coreModules/stock/itemVar)
+1. [Item Attribute](/docs/coreModules/stock/itemAttr)
 
 ### 1.3 Setup
 
-1. Item Price
-1. Item Group
-1. Unit of Measure (UoM)
-1. Manufacturer
+1. [Item Price](/docs/coreModules/stock/itemPr)
+1. [Item Group](/docs/coreModules/stock/itemGrp)
+1. [Unit of Measure (UoM)](/docs/coreModules/stock/uom)
+1. [Manufacturer](/docs/coreModules/stock/manufact)
 
 ### 1.4 Stock Transactions
 
-1. Material Request
-1. Purchase Receipt
-1. Delivery Note
-1. Stock Entry
-1. Packing Slip
-1. Retaining Sample Stock
-1. Landed Cost Voucher
-1. Pick List
+1. [Material Request](/docs/coreModules/stock/matReq)
+1. [Purchase Receipt](/docs/coreModules/stock/purcRecp)
+1. [Delivery Note](/docs/coreModules/stock/delivNote)
+1. [Stock Entry](/docs/coreModules/stock/stockEnt)
+1. [Packing Slip](/docs/coreModules/stock/packingSlip)
+1. [Retaining Sample Stock](/docs/coreModules/stock/retSample)
+1. [Landed Cost Voucher](/docs/coreModules/stock/landedCost)
+1. [Pick List](/docs/coreModules/stock/pickList)
 
 ### 1.5 Serial and Batch Number
 
-1. Serial Number
-1. Batch
-1. Installation Note
+1. [Serial Number](/docs/coreModules/stock/serialN)
+1. [Batch](/docs/coreModules/stock/batch)
+1. [Installation Note](/docs/coreModules/stock/installNote)
 
 ### 1.6 Tools
 
-1. Quality Inspection
-1. Stock Reconciliation
-1. Quick Stock Balance
+1. [Quality Inspection](/docs/coreModules/stock/quaInspec)
+1. [Stock Reconciliation](/docs/coreModules/stock/stockRec)
+1. [Quick Stock Balance](/docs/coreModules/stock/quickStock)
 
 ### 1.7 Return
 
-1. Sales Return
-1. Purchase Return
+1. [Sales Return](/docs/coreModules/stock/salesRet)
+1. [Purchase Return](/docs/coreModules/stock/purcRet)
 
 ### 1.8 Advanced
 
-1. Delivery Trip
-1. Projected Quantity
-1. Perpetual Inventory
+1. [Delivery Trip](/docs/coreModules/stock/delivTrip)
+1. [Projected Quantity](/docs/coreModules/stock/projectedQu)
+1. [Perpetual Inventory](/docs/coreModules/stock/perpetualInv)
 
 ### 1.9 Stock Reports
 
-1. Stock Ledger Report
-1. Stock Level Report
-1. BOM Explorer
-1. Stock Value and Account Value Comparision
+1. [Stock Ledger Report](/docs/coreModules/stock/stockLed)
+1. [Stock Level Report](/docs/coreModules/stock/stockLevel)
+1. [BOM Explorer](/docs/coreModules/stock/bomEx)
+1. [Stock Value and Account Value Comparision](/docs/coreModules/stock/stockVal)
 
 ## 2. Articles
 

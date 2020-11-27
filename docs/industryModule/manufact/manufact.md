@@ -14,52 +14,52 @@ Different types of manufacturing like make to stock, make to order, and engineer
 
 ### 1.1 Basic and Setup
 
-1. Onboarding
-1. Manufacturing Settings
-1. Manufacturing Dashboard
+1. [Onboarding](/docs/industryModule/manufact/onboard)
+1. [Manufacturing Settings](/docs/industryModule/manufact/manuSett)
+1. [Manufacturing Dashboard](/docs/industryModule/manufact/manuDash)
 
 ### 1.2 Bill of Materials
 
-1. Bill Of Materials
-1. Operation
-1. Workstation
-1. Routing
+1. [Bill Of Materials](/docs/industryModule/manufact/billMate)
+1. [Operation](/docs/industryModule/manufact/op)
+1. [Workstation](/docs/industryModule/manufact/workstation)
+1. [Routing](/docs/industryModule/manufact/routing)
 
 ### 1.3 Production and Material Planning
 
-1. Work Order
-1. Job Card
-1. Production Plan
-1. Downtime Entry
+1. [Work Order](/docs/industryModule/manufact/workOrder)
+1. [Job Card](/docs/industryModule/manufact/jobCard)
+1. [Production Plan](/docs/industryModule/manufact/productPlan)
+1. [Downtime Entry](/docs/industryModule/manufact/downtimeEnt)
 
 ### 1.4 Advanced
 
-1. Item Alternative
-1. Subcontracting
-1. BOM Update Tool
-1. BOM Comparison Tool
+1. [Item Alternative](/docs/industryModule/manufact/itemAlt)
+1. [Subcontracting](/docs/industryModule/manufact/subcon)
+1. [BOM Update Tool](/docs/industryModule/manufact/bomUp)
+1. [BOM Comparison Tool](/docs/industryModule/manufact/bomComp)
 
 ## 2. Manufacturing Reports
 
 ### 2.1 Planning
 
-1. Demand Driven Forecasting
-1. Production Planning Report
+1. [Demand Driven Forecasting](/docs/industryModule/manufact/demandDriv)
+1. [Production Planning Report](/docs/industryModule/manufact/productPlanRep)
 
 ### 2.2 Work Order, Quality Inspection & Job Card
 
-1. Work Order Summary
-1. Consumed Materials in Production
-1. Job Card Summary
-1. Quality Inspction Summary
-1. Production Analytics
+1. [Work Order Summary](/docs/industryModule/manufact/workOrderSum)
+1. [Consumed Materials in Production](/docs/industryModule/manufact/consMat)
+1. [Job Card Summary](/docs/industryModule/manufact/jobCardSum)
+1. [Quality Inspction Summary](/docs/industryModule/manufact/qualityInsp)
+1. [Production Analytics](/docs/industryModule/manufact/productAna)
 
 ### 2.3 BOM, Operations, and Maintenance
 
-1. BOM Search
-1. BOM Stock Report
-1. BOM Operations Time
-1. Downtime Analysis
+1. [BOM Search](/docs/industryModule/manufact/bomSear)
+1. [BOM Stock Report](/docs/industryModule/manufact/bomStock)
+1. [BOM Operations Time](/docs/industryModule/manufact/bomOp)
+1. [Downtime Analysis](/docs/industryModule/manufact/downAna)
 
 ## 3. Articles
 

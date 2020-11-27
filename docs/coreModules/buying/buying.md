@@ -4,7 +4,7 @@ title: Buying
 sidebar_label: Buying
 ---
 
-If your business involves physical goods, buying is one of your core business activities. Your suppliers are as important as your customers and they must be provided with accurate information.
+**If your business involves physical goods, buying is one of your core business activities. Your suppliers are as important as your customers and they must be provided with accurate information.**
 
 Buying the right quantities in right amounts can affect your cash flow and profitability positively. CERP contains a set of transactions that will make your buying process as efficient and seamless as possible.
 
@@ -12,20 +12,20 @@ Buying the right quantities in right amounts can affect your cash flow and profi
 
 ### 1.1 Purchase Cycle
 
-1. Request For Quotation
-1. Purchase Order
-1. Purchase Taxes and Charges Template
+1. [Request For Quotation](/docs/coreModules/buying/reqQuot)
+1. [Purchase Order](/docs/coreModules/buying/purcOrder)
+1. [Purchase Taxes and Charges Template](/docs/coreModules/buying/purcTaxes)
 
 ### 1.2 Supplier
 
-1. Supplier
-1. Supplier Quotation
-1. Supplier Scorecard
+1. [Supplier](/docs/coreModules/buying/supplier)
+1. [Supplier Quotation](/docs/coreModules/buying/supplierQuot)
+1. [Supplier Scorecard](/docs/coreModules/buying/supplierScore)
 
 ### 1.3 Setup
 
-1. Buying Settings
-1. Supplier Group
+1. [Buying Settings](/docs/coreModules/buying/buyingSett)
+1. [Supplier Group](/docs/coreModules/buying/supplierGrp)
 
 ## 2. Articles
 

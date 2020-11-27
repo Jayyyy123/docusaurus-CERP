@@ -19,77 +19,77 @@ You'll find the global configuration options here, for module-wise setup, visit 
 3. [Setting Company Sales Goal](/docs/basics/settingUp/salesGoal)
 4. [Global Defaults](/docs/basics/settingUp/globalDefault)
 5. [System Settings](/docs/basics/settingUp/systemSettings)
-6. [Letterhead](/docs/basics/settingUp/salesGoal)
+6. [Letterhead](/docs/basics/settingUp/letterHead)
 
 ### 1.2 Data Import
 
-1. [Data Import]
-2. [Data Export]
-3. [Charts Of Accounts Importer]
-4. [Download Backup]
+1. [Data Import](/docs/basics/settingUp/dataImport)
+2. [Data Export](/docs/basics/settingUp/dataExport)
+3. [Charts Of Accounts Importer](/docs/basics/settingUp/coAImporter)
+4. [Download Backup](/docs/basics/settingUp/dlBackup)
 
 ### 1.3 User and Permissions
 
-1. [Users and Permissions]
-2. [Adding Users]
-3. [Role and Role Profile]
-4. [Role Based Permissions]
-5. [User Permissions]
-6. [Role Permission For Page And Report]
-7. [Sharing]
-8. [Administrator]
+1. [Users and Permissions](/docs/basics/settingUp/userAndPerm)
+2. [Adding Users](/docs/basics/settingUp/addUser)
+3. [Role and Role Profile](/docs/basics/settingUp/roleProfile)
+4. [Role Based Permissions](/docs/basics/settingUp/roleBasedPerm)
+5. [User Permissions](/docs/basics/settingUp/userPerm)
+6. [Role Permission For Page And Report](/docs/basics/settingUp/rolePermPageReport)
+7. [Sharing](/docs/basics/settingUp/sharing)
+8. [Administrator](/docs/basics/settingUp/adminstrator)
 
 ### 1.4 Printing
 
-1. [Print Settings]
-2. [Print Format]
-3. [Print Format Builder]
-4. [Print Style]
-5. [Print Headings]
-6. [Address Template]
-7. [Terms and Conditions Template]
-8. [Cheque Print Template]
-9. [Custom Translations]
-10. [Raw Printing]
+1. [Print Settings](/docs/basics/settingUp/printSettings)
+2. [Print Format](/docs/basics/settingUp/printFormat)
+3. [Print Format Builder](/docs/basics/settingUp/printFormatBuilder)
+4. [Print Style](/docs/basics/settingUp/printStyle)
+5. [Print Headings](/docs/basics/settingUp/printHeadings)
+6. [Address Template](/docs/basics/settingUp/addressTemp)
+7. [Terms and Conditions Template](/docs/basics/settingUp/tCTemp)
+8. [Cheque Print Template](/docs/basics/settingUp/chequePrint)
+9. [Custom Translations](/docs/basics/settingUp/customTranslations)
+10. [Raw Printing](/docs/basics/settingUp/rawPrint)
 
 ### 1.5 Workflows
 
-1. [Workflows]
-2. [Workflow Actions]
-3. [Workflow State]
-4. [Assignment Rule]
+1. [Workflows](/docs/basics/settingUp/workflows)
+2. [Workflow Actions](/docs/basics/settingUp/workflowsAct)
+3. [Workflow State](/docs/basics/settingUp/workflowState)
+4. [Assignment Rule](/docs/basics/settingUp/assigmentRule)
 
 ### 1.6 Email and SMS
 
-1. [Email Domain]
-2. [Email Account]
-3. [Email Inbox]
-4. [Email Template]
-5. [Sending Email from any Document]
-6. [Linking Emails to Document]
-7. [Email Digest]
-8. [Auto Email Reports]
-9. [SMS Settings]
-10. [Notification]
-11. [Document Follow]
-12. [Email Dropbox]
+1. [Email Domain](/docs/basics/settingUp/emailDomain)
+2. [Email Account](/docs/basics/settingUp/emailAcc)
+3. [Email Inbox](/docs/basics/settingUp/emailInbox)
+4. [Email Template](/docs/basics/settingUp/emailTemp)
+5. [Sending Email from any Document](/docs/basics/settingUp/sendingEmail)
+6. [Linking Emails to Document](/docs/basics/settingUp/linkEmail)
+7. [Email Digest](/docs/basics/settingUp/emailDigest)
+8. [Auto Email Reports](/docs/basics/settingUp/autoEmail)
+9. [SMS Settings](/docs/basics/settingUp/smsSettings)
+10. [Notification](/docs/basics/settingUp/notification)
+11. [Document Follow](/docs/basics/settingUp/documentFollow)
+12. [Email Dropbox](/docs/basics/settingUp/emailDropbox)
 
 ### 1.7 System Configuration
 
-1. [Show or Hide Modules]
-2. [Naming Series]
-3. [Session Defaults]
-4. [Bulk Rename]
-5. [Bulk Update]
-6. [Milestone Tracking]
-7. [Auto Repeat]
-8. [Domain Settings]
-9. [Energy Point System]
+1. [Show or Hide Modules](/docs/basics/settingUp/showHideModules)
+2. [Naming Series](/docs/basics/settingUp/naming)
+3. [Session Defaults](/docs/basics/settingUp/sessionDefaults)
+4. [Bulk Rename](/docs/basics/settingUp/bulkRename)
+5. [Bulk Update](/docs/basics/settingUp/bulkUpdate)
+6. [Milestone Tracking](/docs/basics/settingUp/milestone)
+7. [Auto Repeat](/docs/basics/settingUp/autoRepeat)
+8. [Domain Settings](/docs/basics/settingUp/domainSettings)
+9. [Energy Point System](/docs/basics/settingUp/energyPoint)
 
 ### 1.8 Data Privacy
 
-1. [Personal Data Request]
-2. [Personal Data Deletion]
+1. [Personal Data Request](/docs/basics/settingUp/personalDataReq)
+2. [Personal Data Deletion](/docs/basics/settingUp/personalDataDel)
 
 ## 2. Articles
 

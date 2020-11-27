@@ -10,23 +10,23 @@ Selling is the communication that happens with the customer prior to and during 
 
 ### 1.1 Sales
 
-1. Quotation
-1. Sales Order
-1. Brand
-1. Blanket Order
-1. Sales Analytics
-1. Sales Partner
-1. Territory
-1. Coupon Code
+1. [Quotation](/docs/coreModules/selling/quotation)
+1. [Sales Order](/docs/coreModules/selling/salesOrder)
+1. [Brand](/docs/coreModules/selling/brand)
+1. [Blanket Order](/docs/coreModules/selling/blanket)
+1. [Sales Analytics](/docs/coreModules/selling/salesAnaly)
+1. [Sales Partner](/docs/coreModules/selling/salesPartner)
+1. [Territory](/docs/coreModules/selling/terr)
+1. [Coupon Code](/docs/coreModules/selling/coupon)
 
 ### 1.2 Setup
 
-1. Selling Settings
-1. Item Price
-1. Shipping Rule
-1. Product Bundle
-1. Sales Person Target Allocation
-1. Sales Taxes and Charges Template
+1. [Selling Settings](/docs/coreModules/selling/sellingSett)
+1. [Item Price](/docs/coreModules/selling/itemPri)
+1. [Shipping Rule](/docs/coreModules/selling/shippinRule)
+1. [Product Bundle](/docs/coreModules/selling/productBund)
+1. [Sales Person Target Allocation](/docs/coreModules/selling/salesPerAllo)
+1. [Sales Taxes and Charges Template](/docs/coreModules/selling/salesTaxesChrg)
 
 ## 2. Articles
 

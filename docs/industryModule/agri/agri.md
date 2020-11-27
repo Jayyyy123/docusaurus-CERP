@@ -10,16 +10,16 @@ The Agriculture Domain of CERP comes with features to record crops and land, tra
 
 ### 1. Crops and Land
 
-1. Introduction
-1. Land Unit
-1. Crop
-1. Crop Cycle
+1. [Introduction](/docs/industryModule/agri/intro)
+1. [Land Unit](/docs/industryModule/agri/land)
+1. [Crop](/docs/industryModule/agri/crop)
+1. [Crop Cycle](/docs/industryModule/agri/cropCycle)
 
 ### 2. Disease and Fertilizer
 
-1. Disease
-1. Fertilizer
+1. [Disease](/docs/industryModule/agri/disease)
+1. [Fertilizer](/docs/industryModule/agri/fertili)
 
 ### 3. Analytics
 
-1. Analytics
+1. [Analytics](/docs/industryModule/agri/analy)

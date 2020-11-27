@@ -12,29 +12,31 @@ These tools are integrated into all aspects of the product so that you can effec
 
 ## 1. Tools
 
-1. To Do
-1. Notes
-1. Video
-1. Calendar
-1. Chat
-1. Dashboard
-1. Global Search
-1. Desktop
+1. [To Do](/docs/basics/usingCERP/toDo)
+1. [Notes](/docs/basics/usingCERP/notes)
+1. [Video](/docs/basics/usingCERP/video)
+1. [Calendar](/docs/basics/usingCERP/calendar)
+1. [Chat](/docs/basics/usingCERP/chat)
+1. [Dashboard](/docs/basics/usingCERP/dashboard)
+1. [Global Search](/docs/basics/usingCERP/globalSearch)
+1. [Desktop](/docs/basics/usingCERP/desktop)
 
 ## 2. Collaboration Tools
 
-1. Assignment
-1. Tags
-1. Kanban Board
-1. Filter By
-1. Save Filter
-1. Search Filter
-1. Collaborating Around Forms
+1. [Assignment](/docs/basics/usingCERP/assignment)
+1. [Tags](/docs/basics/usingCERP/tags)
+1. [Kanban Board](/docs/basics/usingCERP/kanban)
+1. [Filter By](/docs/basics/usingCERP/filterBy)
+1. [Save Filter](/docs/basics/usingCERP/saveFilter)
+1. [Search Filter](/docs/basics/usingCERP/searchFilter)
+1. [Collaborating Around Forms](/docs/basics/usingCERP/collaboratingAroundForms)
 
 ## 3. Navigation Guidance
 
-1. Keyboard Shortcuts
-1. Articles
+1. [Keyboard Shortcuts](/docs/basics/usingCERP/keyShort)
+
+## Articles
+
 1. Check Link Between Documents
 1. Access Log
 1. Duplicate Record

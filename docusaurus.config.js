@@ -24,7 +24,7 @@ module.exports = {
           position: "left",
         },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/Jayyyy123/docusaurus-CERP",
           label: "GitHub",
           position: "right",
         },
@@ -72,8 +72,16 @@ module.exports = {
           title: "Docs",
           items: [
             {
-              label: "Introduction",
+              label: "Basics",
               to: "docs/basics/introduction/introduction",
+            },
+            {
+              label: "Core Modules",
+              to: "docs/coreModules/accounts/accounts",
+            },
+            {
+              label: "Industry Modules",
+              to: "docs/industryModule/manufact/manufact",
             },
           ],
         },
@@ -98,12 +106,8 @@ module.exports = {
           title: "More",
           items: [
             {
-              label: "Blog",
-              to: "blog",
-            },
-            {
               label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://github.com/Jayyyy123/docusaurus-CERP",
             },
           ],
         },
@@ -119,8 +123,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl:
-            "https://github.com/facebook/docusaurus/edit/master/website/",
+          editUrl: "https://github.com/Jayyyy123/docusaurus-CERP",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
