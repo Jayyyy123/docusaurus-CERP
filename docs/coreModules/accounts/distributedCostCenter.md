@@ -20,7 +20,7 @@ In CERP you can create Distributed Cost Center and use them in transactions and 
 1. Enable the checkbox, Enable Distributed Cost Center: On enabling this, the distributed Cost Center table will show. Here, select the Cost Centers and allocate the corresponding percentage.
 1. Once you are done click on Save.
 
-~~Distributed Cost Center~~
+![image](images/image.jpg)
 
 The following reports will be automatically updated when Cost Center filter is added:
 

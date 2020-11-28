@@ -21,7 +21,7 @@ It can also be accessed from: Home > CRM > Settings > Sales Person
 1. Select the Employee for the Sales Person.
 1. Tick 'Group Node' checkbox, if you would like to add more Sales Person under this Sales Person.
 1. Click on 'Create New'.
-   ~~Sales Person Tree~~
+   ![image](images/image.jpg)
 
 ## 2. Features
 

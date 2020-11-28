@@ -12,4 +12,4 @@ To access the Minutes to First Response for Issues report, go to:
 Home > Support > Reports > Minutes to First Response for Issues
 :::
 
-~~Maintenance Visit~~
+![image](images/image.jpg)

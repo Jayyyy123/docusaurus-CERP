@@ -27,7 +27,7 @@ Before creating and using Asset Value Adjustment, it is advised to create the fo
 1. Select a date.
 1. Enter the current and new value of the asset.
 1. Save and Submit.
-   ~~Asset~~
+   ![image](images/image.jpg)
 
 On saving the system will book a "Gain/Loss on asset revaluation" and adjust the valuation of the asset. You can change the cost center and add a finance book.
 

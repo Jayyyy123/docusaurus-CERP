@@ -47,7 +47,7 @@ Let's take two sites for explaining the process. http://testsite:8000 (Consumer 
 1. Save.
 1. After saving, an Event Consumer is created on the producer site (http://testsiteproducer:8000). The keys of the user on the consumer site are automatically copied to the Event Consumer document on the producer site in this process.
 
-~~Event Producer~~
+![image](images/image.jpg)
 
 :::note
 Note: If at all the API Secret is changed for the users on any of these sites, you will have to manually update the keys in the Event Producer as well as the Event Consumer on both the sites.
@@ -60,7 +60,7 @@ Note: If at all the API Secret is changed for the users on any of these sites, y
 1. Once you open the Event Consumer document you will see all the Document Types that the consumer has subscribed to. Change the status from 'Pending' to 'Approved' for all the Document Types that you want to approve to be consumed. You can change the status to 'Rejected' if you do not want the documents of that Document Type to be consumed.
 1. Save.
 
-~~Event Consumer~~
+![image](images/image.jpg)
 
 :::note
 Note: Document updates for Subscribed Document Types won't be synced unless they are Approved.

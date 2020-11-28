@@ -10,7 +10,7 @@ sidebar_label: Buying Settings
 Home > Buying > Settings > Buying Settings
 :::
 
-~~Buying Settings~~
+![image](images/image.jpg)
 
 Let us look at the various options that can be configured:
 
@@ -42,7 +42,7 @@ If this option is configured "Yes", CERP will prevent you from creating a Purcha
 
 This configuration can be overridden for a particular supplier by enabling the "Allow Purchase Invoice Creation Without Purchase Order" checkbox in supplier master
 
-~~Purchase Order Required~~
+![image](images/image.jpg)
 
 ### 2.3 Purchase Receipt Required
 
@@ -50,7 +50,7 @@ If this option is configured "Yes", CERP will prevent you from creating a Purcha
 
 This configuration can be overridden for a particular supplier by enabling the "Allow Purchase Receipt Creation Without Purchase Receipt" checkbox in supplier master
 
-~~Purchase Receipt Required~~
+![image](images/image.jpg)
 
 ### 2.4 Maintain Same Rate Throughout Purchase Cycle
 

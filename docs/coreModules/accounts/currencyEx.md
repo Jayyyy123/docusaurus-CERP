@@ -19,7 +19,7 @@ Home > Accounting > Multi Currency > Currency Exchange
 1. Select whether the exchange rate applies to selling, buying, or both transactions.
 1. Save.
 
-~~Currency Exchange~~
+![image](images/image.jpg)
 
 ## 2. Related Topics 
 1. Exchange Rate Revaluation

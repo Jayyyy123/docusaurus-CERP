@@ -18,11 +18,11 @@ Home > Healthcare > Reports > Patient Appointment Analytics
 :::
 Appointment Analytics according to Healthcare Practitioner is the default view:
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 According to Medical Department:
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 The toolbar provides filters to select what data is to be used. Using the dropdown selections, the data displayed can be refined. As the selections are made, data is reflected in the data window as well as the graph window. The various filters available are:
 
@@ -31,7 +31,7 @@ The toolbar provides filters to select what data is to be used. Using the dropdo
 - Appointment Status
 - Medical Department
 
-~~Appointment Analytics Filters~~
+![image](images/image.jpg)
 
 You can use the checkboxes on the Left Hand Side to choose what rows you want to see in the chart:
 

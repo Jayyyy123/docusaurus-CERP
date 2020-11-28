@@ -13,7 +13,7 @@ Home > Education > Settings > Academic Term
 
 The Academic term form in CERP enables you to create academic terms within in an Academic Year. Based on the term schedule enter the start and end date for the schedule and generate the Academic Term.
 
-~~Academic Term~~
+![image](images/image.jpg)
 
 If the Academic Term has been specified in the Education Settings then it will become the default Academic Term in all the forms and will be editable if required.
 

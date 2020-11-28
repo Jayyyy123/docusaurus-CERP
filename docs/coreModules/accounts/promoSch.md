@@ -39,7 +39,7 @@ Before creating and using a Promotional Scheme, it is advisable to create the fo
 1. In the Price Discount Slabs table, set the price discount, product discount.
 1. Users can also apply the discount on the other Item Code / Item Group / Brand by selecting the value for Apply Rule On Other field.
 
-~~Promotional Scheme~~
+![image](images/image.jpg)
 
 8. Save.
 
@@ -133,13 +133,13 @@ Rate: An Item may be offered free of cost by the Supplier but there may be some 
 
 In this type of promotional scheme, the user gets an option to set the discount in terms of percentage or amount based on the min quantity, max quantity, min amount and max amount on the products. Users can also configure the scheme where they can set the flat rate for the product based on the quantity or the amount of the product.
 
-~~Promotional Scheme~~
+![image](images/image.jpg)
 
 ### 4.2 Product Discount
 
 In this type of promotional scheme, the user gets an option to give a free product on purchase of the same or different product with conditions like min quantity, max quantity, min amount, max amount.
 
-~~Promotional Scheme~~
+![image](images/image.jpg)
 
 ## 5. How to configure a Promotional Scheme (Examples)
 
@@ -158,7 +158,7 @@ To configure this in CERP the steps are as follows:
 1. Enable the "Mixed Conditions" field.
 1. In the price discount table, set the min qty, max qty as 15.
 1. Set the discount type as Discount Percentage and rate as 10.
-   ~~Promotional Scheme~~
+   ![image](images/image.jpg)
 
 ### 5.2 To apply a discount on other Item
 
@@ -173,7 +173,7 @@ To configure this in CERP the steps are as follows
 1. Apply Rule On Other as Item Code and set Item Code as Britannia Cake 15 Rs.
 1. In the price discount table, set the min qty as 30.
 1. Set the discount type as Rate and rate as 12.
-   ~~Promotional Scheme~~
+   ![image](images/image.jpg)
 
 ## 6. Related Topics
 

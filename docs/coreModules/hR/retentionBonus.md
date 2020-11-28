@@ -29,7 +29,7 @@ Before creating a Retention Bonus, it is advisable to create the following:
 1. Save and Submit.
 1. On submit, 'Additional Salary' document of the specified 'Salary Component' is created. This will be fetched while running Payroll Entry.
 
-~~Retention Bonus~~
+![image](images/image.jpg)
 
 ## 3. Related Topics
 

@@ -31,7 +31,7 @@ Home > Manufacturing > Bill of Materials > Routing
 1. The Operating Cost will be calculated based on the Hourly Rate and the Operation Time.
 1. Save.
 
-~~Routing~~
+![image](images/image.jpg)
 
 Once created, a Routing can be selected in a BOM to fetch the Operations stored in the Routing. Routing BOM
 
@@ -39,7 +39,7 @@ Once created, a Routing can be selected in a BOM to fetch the Operations stored 
 
 Routing Sequence ID Sequence ID enforces the users to complete the operations sequentially via Job Card. In case a user tries to complete an operation before completing any of its precedent operations as per the Sequence ID, the system throws a validation error as shown in the screenshot below.
 
-~~Error~~
+![image](images/image.jpg)
 
 ## 2. Related Topics
 

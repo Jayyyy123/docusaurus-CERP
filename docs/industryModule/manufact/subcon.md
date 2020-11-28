@@ -18,7 +18,7 @@ Create separate Items for the unprocessed and the processed product. For example
 Create a Warehouse for your Supplier so that you can keep track of Items supplied. (you may supply a month's worth of Items in one go).
 For the processed Item, in the Item master, enable “Is Sub Contracted Item”.
 
-~~Sub-Contracting~~
+![image](images/image.jpg)
 
 ### 1.1 Creating a BOM
 
@@ -26,7 +26,7 @@ Make a Bill Of Materials for the processed Item, with the unprocessed Items as s
 
 This BOM will be without Operations if all of the production work is done by the third party.
 
-~~Sub-Contracting~~
+![image](images/image.jpg)
 
 ### 1.2 Creating a Purchase Order
 
@@ -34,7 +34,7 @@ Make a Purchase Order for the processed Item, the one for which you've created a
 
 The costs involved with the subcontracting process should be recorded in the Rate field of the Items table in the Purchase Order shown as follows:
 
-~~Sub-Contracting~~
+![image](images/image.jpg)
 
 In the previous image, we are providing the subcontractor with 2 boxes of each of the 3 materials to manufacture 240 pens. The cost involved with one pen is 27 and the total cost for all pens is hence 6,480
 
@@ -42,11 +42,11 @@ You need to set 'Supply Raw Materials' as Yes since this Purchase Order is for s
 
 From a Purchase Order, select the raw materials to transfer to subcontractor:
 
-~~Sub-Contracting~~
+![image](images/image.jpg)
 
 Once the Purchase Order is submitted, you can view the reserved quantity of the item from the item dashboard as well.
 
-~~Sub-Contracting~~
+![image](images/image.jpg)
 
 ### 1.3 Creating Stock Entry to Transfer Raw Materials
 
@@ -54,7 +54,7 @@ Now that the raw materials are reserved, make a Stock Entry to deliver the raw m
 
 In the Purchase Order, click on Transfer > Material to Supplier. Set the Source and Target Warehouses. The Stock Entry will be of type 'Send to Subcontractor' where you transfer from one Warehouse to another. Tick 'From BOM' and select the BOM, enter the quantity, and click on the Get Items button.
 
-~~Sub-Contracting~~
+![image](images/image.jpg)
 
 ### 1.4 Creating a Purchase Receipt to receive the finished items
 
@@ -62,7 +62,7 @@ Receive the Items from your Supplier using a Purchase Receipt. You need to enter
 
 Click on Create > Purchase Receipt from the Purchase Order. Set the Accepted and Supplier Warehouses. Make sure to check the “Consumed Quantity” in the “Raw Materials” table so that the correct stock is maintained at the Supplier’s end. You need to select the Supplier's Warehouse where you'll receive the finished goods.
 
-~~Sub-Contracting~~
+![image](images/image.jpg)
 
 ### 1.5 Supplier Sourced Raw Material
 

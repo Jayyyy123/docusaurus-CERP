@@ -20,7 +20,7 @@ Before creating a Patient Appointment, these need to be created first:
 - Practitioner Schedule
 - You can book appointments for a registered Patient by searching for Patient by Patient ID, Name, Email or Mobile number. It is also possible to register a new Patient from the - Appointment screen itself by selecting "Create a new Patient" in the Patient field.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ## 2. How to Create a Patient Appointment
 
@@ -33,9 +33,9 @@ Before creating a Patient Appointment, these need to be created first:
 1. Then click on the Check Availability button. It will allow you to select the Medical Department, Healthcare Practitioner and Date for which the appointment is to be booked. On selecting the details, all the available time slots for the practitioner will be fetched from the Practitioner Schedule and displayed with status indicators for the selected date. You can select a time slot and hit Book.
 1. Once booked, the scheduled time of the Appointment and the Service Unit as per the Practitioner and appropriate Status will be set in the document.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ## 3. Features
 
@@ -43,13 +43,13 @@ Before creating a Patient Appointment, these need to be created first:
 
 You can click on "Calendar" view from the Patient Appointment list view. Types of Appointments can be differentiated by setting the "Color" field in Appointment Type
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ### 3.2 Appointment Rescheduling
 
 You can reschedule the Patient Appointment by clicking on the Reschedule button in the document and following the same steps.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ### 3.3 Managing Schedules
 
@@ -61,21 +61,21 @@ While booking it also checks for Appointment Overlaps and restricts the booking 
 
 In the "More Info" section of the Patient Appointment document, the user can add "Notes" and also select a "Referring Practitioner" to help track referrals.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ### 3.5 Out Patient SMS Alerts
 
 Optionally, you can configure Healthcare Settings in CERP to automatically send an SMS alert to the Patients about the booking confirmation via "Out-Patient SMS Alerts".
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ### 3.6 Automate Appointment Invoicing
 
-~~CERP Healthcare~~ automatically creates a Sales Invoice as soon as you book a Patient Appointment. To enable this, you can check "Automate Appointment Invoicing" in Healthcare Settings.
+![image](images/image.jpg) automatically creates a Sales Invoice as soon as you book a Patient Appointment. To enable this, you can check "Automate Appointment Invoicing" in Healthcare Settings.
 
 If enabled, the Patient Appointment will prompt you to select the Mode of Payment and enter the Amount collected as the Consultation Charge.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 Note: If you have not enabled this, you can always use Get Items From > Healthcare Services in Sales Invoice
 
@@ -89,7 +89,7 @@ Status indicates the state of the Patient Appointment. The various Statuses are:
 - Expired: When the Appointment date has passed and no Patient Encounter or Clinical Procedure has been created against it.
 - Cancelled: When the Appointment is Cancelled.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ## 4. Actions
 

@@ -26,18 +26,18 @@ The following option shows up if you check "Allow Appointments":
 - Allow Overlap: Check this if the unit type can be used by more than one patient or for more than one appointment at once.
   For example, Physical Activity Centres will allow Appointments with overlap:
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 However, Consultation rooms will only allow Appointments without overlap:
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 The following option shows up if you check "Inpatient Occupancy":
 
 - Is Billable: Check this if the unit type for IPD is billable like Hospital Beds.
   For example, Operation Theatres will have Inpatient Occupancy which will be billed. If you check "Inpatient Occupancy" and "Is Billable" the system asks for Item Details to create an item for the Service Unit Type which will be used for billing:
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 The item is automatically created and linked to the document on save.
 
@@ -45,7 +45,7 @@ If the Healthcare Service Unit Type is not being used, you can disable it. Disab
 
 If you want to change the Item Code of the item created for the billable Healthcare Service Unit Type, click on Change Item Code button.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 :::note
 This Form has been Changed in Version 13

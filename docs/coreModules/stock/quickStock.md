@@ -17,13 +17,13 @@ Home > Stock > Tools > Quick Stock Balance
 
 Item and Warehouse are the basic fields required to fully utilize Quick Stock Balance. Item Barcode can also be used to fetch stock details.
 
-Quick Stock Balance
+![image](images/image.jpg)
 
 You can opt to select a different warehouse or date. The stock value and quantity, will be fetched real-time according to the specified values.
 
 You can also view the Stock Balance report by clicking on 'Stock Balance Report' . It will redirect you to the report with the Item and Warehouse filters populated.
 
-Stock Balance Report
+![image](images/image.jpg)
 
 ## 2. Related Topics
 

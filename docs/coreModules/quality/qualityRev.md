@@ -30,7 +30,7 @@ Before creating and using a Quality Review it is advised to create the following
 1. In the Review section of the Reviews table, leave a review about a Quality Objective.
 1. Save.
 
-~~Quality management~~
+![image](images/image.jpg)
 
 :::note
 Note: If the Quality Procedure is linked to the Quality Goal, the Quality Procedure will be fetched in the Quality Review.

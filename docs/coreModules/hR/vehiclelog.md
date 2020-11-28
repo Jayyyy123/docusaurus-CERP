@@ -25,11 +25,11 @@ Before creating a Vehicle Log, it is necessary that you create the following doc
 1. Enter Odometer Reading information such as Date and Odometer (reading).
 1. Enter Refueling Details [optional] such as Fuel Qty, Fuel Price, Supplier and Invoice Ref.
 
-~~Vehicle Log~~
+![image](images/image.jpg)
 
 Additionally, Vehicle Service Details can also be added as shown (optional).
 
-~~Vehicle Log~~
+![image](images/image.jpg)
 
 Save. Once the information is saved, the Model and Make values will be automatically fetched.
 
@@ -40,7 +40,7 @@ Fleet Management in CERP allows you to automatically create an Expense Claim aga
 ### 3.1 Make Expense Claim against Vehicle Expenses
 Click on Make Expense Claim button. This button appears only in case of Submitted Vehicle Logs.
 
-~~Expense Claim Button~~
+![image](images/image.jpg)
 
 When you click on 'Make Expense Claim',
 
@@ -48,7 +48,7 @@ The Date, Employee, Expense total are fetched over to the created Expense Claim.
 The sum of Fuel Expenses and Service Expenses is calculated and fetched over to Expense Claim Amount.
 Employee can submit the Expense Claim for further processing.
 
-~~Vehicle Log~~
+![image](images/image.jpg)
 
 ## 4. Related Topics
 

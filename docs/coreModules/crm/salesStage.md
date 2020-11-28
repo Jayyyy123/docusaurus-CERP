@@ -19,4 +19,4 @@ Home > CRM > Settings > Sales Stage
 
 1. Go to the Sales Stage and click on New.
 1. Enter the Stage Name.
-   ~~Sales Stage~~
+   ![image](images/image.jpg)

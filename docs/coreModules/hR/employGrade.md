@@ -25,11 +25,11 @@ Before creating an Employee Grade, it is advisable you create the following docu
 1. Enter the Default Leave Policy and Default Salary Structure for that Grade.
 1. Save.
 
-~~Employee Grade~~
+![image](images/image.jpg)
 
 Shown below are the different Employee Grades created.
 
-~~New Employee Grade~~
+![image](images/image.jpg)
 
 You also can access Employee, Leave Period, Employee Onboarding Template and Employee Separation Template.
 

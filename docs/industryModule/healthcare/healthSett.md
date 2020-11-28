@@ -14,7 +14,7 @@ Note: Ensure that you have the "Healthcare Administrator" role enabled for your 
 
 ## 1. Out-Patient Settings
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 - Patient Name By: By default Patient document uses naming series for naming but you can also opt to change this to "Patient Name" if required.
 
@@ -34,7 +34,7 @@ Note: Ensure that you have the "Healthcare Administrator" role enabled for your 
 
 CERP Healthcare utilizes the Accounts module for billing Patients. You can configure default "Items" for billing consultation charges, procedure consumption items, etc. here. Make sure that the "Inpatient Visit Charge Item" and "Out-Patient Consulting Charge Item" are service items i.e they have Maintain Stock checkbox disabled.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ## 3. Default Accounts
 
@@ -44,7 +44,7 @@ If you wish to override default accounts settings and configure the Income and R
 
 - Receivable Account: Default Receivable Accounts to be used to book Appointment charges.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ## 4. Out-Patient SMS Alerts
 
@@ -60,7 +60,7 @@ You can enable sending SMS alerts on Patient appointment Booking, Patient Regist
 
 - Remind Before: You can configure the time before all reminder messages should be sent.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ## 4. Laboratory Settings
 
@@ -72,13 +72,13 @@ Employee Name and Designation in Print: Enable this option if you want the name 
 
 Do not print or email Lab Tests without Approval: Checking this will restrict printing and emailing of Lab Tests unless they have the status as Approved. You can use this flag to ensure that every Test result leaves your facility after verification.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ## 5. Laboratory SMS ALerts
 
 You can configure CERP Healthcare to alert Patients via SMS when the Lab Test result gets ready (Submit) and when you Email the result. You can configure the templates for the SMS as registered with your provider here.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 :::note
 This Form has been Changed in Version 13

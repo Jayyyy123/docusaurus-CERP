@@ -10,7 +10,7 @@ The Timesheet can also be used to calculate the billable towards an employee, to
 
 In CERP, a Timesheet can have an account of a particular employee working on multiple Tasks or Projects in a tabular format.
 
-~~Timesheet~~
+![image](images/image.jpg)
 
 To access Timesheet, go to,
 
@@ -38,7 +38,7 @@ Go to the Task for which you want to create a new Timesheet.
 Go to 'Timesheet' under the Activity section on the Dashboard. The plus icon '+' here would re-direct you to the Timesheet creation page.
 Follow the steps to create a Time Sheet.
 
-~~Timesheet~~
+![image](images/image.jpg)
 
 ### 1.2. Timer in Timesheet
 
@@ -73,7 +73,7 @@ The Time Sheet when expanded, allows you to enter the following details to it:
 - Billing Amount: The billing amount gets auto-calculated based on the billable number of hours and the billing Rate.
 - Costing Amount: The costing amount gets auto-calculated based on the number of hours and the costing rate.
 
-~~Timesheet~~
+![image](images/image.jpg)
 
 ## 2. Features
 
@@ -86,7 +86,7 @@ The Time Sheet when expanded, allows you to enter the following details to it:
 - Total Costing Amount: Based on the Timesheet, the Total Costing Amount, as specified by the Employee gets tagged here.
 - % Amount Billed: Once the Timesheet is submitted, and a Sales Invoice is created from the Timesheet, the percentage of the Amount out of the Total - Billable Amount which has been amounted for the Total Billed Amount gets calculated and is reflected here.
 
-~~Timesheet~~
+![image](images/image.jpg)
 
 ## 3. After Saving the Time Sheet
 

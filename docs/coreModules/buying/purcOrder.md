@@ -128,7 +128,7 @@ Make sure to mark all your taxes in the Taxes and Charges table correctly for an
 Shipping Rule
 A Shipping Rule helps set the cost of shipping an Item. The cost will usually increase with the distance of shipping. To know more, visit the Shipping Rule page.
 
-~~Purchase Order Taxes~~
+![image](images/image.jpg)
 
 For example, you buy Items worth X and sell them for 1.3X. So your Customer pays 1.3 times the tax you pay your Supplier. Since you have already paid tax to your Supplier for X, what you owe your government is only the tax on 0.3X.
 

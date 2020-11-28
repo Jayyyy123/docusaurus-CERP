@@ -24,7 +24,7 @@ Company
 1. Go to the Branch list, click on New.
 1. Enter the name of the Branch.
 1. Save.
-   ~~Branch~~
+  ![image](images/image.jpg)
 
 You can link the Branch to the Employee master.
 

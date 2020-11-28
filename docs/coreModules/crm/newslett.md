@@ -24,11 +24,11 @@ Home > Settings > Email > Newsletter
 1. Enter 'Subject'.
 1. Enter 'Message'.
 1. Tick 'Send Unsubscribe Link' if you would like to include unsubscribe link in the email.
-   ~~Newsletter~~
+   ![image](images/image.jpg)
 
 Below is the screenshot of the email received with link to unsubscribe.
 
-~~Lead~~
+![image](images/image.jpg)
 
 ## 2. Features
 
@@ -42,7 +42,7 @@ You can select multiple email groups in the 'RECIPIENT' tables in the newsletter
 
 You can choose to send your newsletter at any future datetime by specifying time in hourly steps.
 
-~~Scheduled Newsletter~~
+![image](images/image.jpg)
 
 ### 2.3 Test Newsletter Before Sending to Subscribers
 
@@ -50,4 +50,4 @@ Once the newsletter is ready you can provide a 'Test Email Address' and click on
 
 You can review the newsletter received in the test email, verify it and then send it to all subscribers by clicking on 'Send'.
 
-~~Newsletter Test~~
+![image](images/image.jpg)

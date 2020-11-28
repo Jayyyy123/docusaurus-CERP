@@ -37,7 +37,7 @@ Before creating an Employee Separation, it is advisable that you create the foll
 1. Additionally, you can also enter the Exit Interview Summary.
 1. Save and Submit.
 
-~~Separation Template~~
+![image](images/image.jpg)
 
 Note 1: If an Employee Separation Template isn't created, you can directly fill the separation information in the Employee Separation doctype itself.
 
@@ -55,7 +55,7 @@ Go to: Human Resources > Employee Lifecycle > Employee Separation Template > New
 Enter the Department, Designation and Employee Grade (optional).
 Mention the Activities for separation. For each Activity, you can also mention the User or Role, or one of it, to whom this Activity will be assigned.
 
-~~Onboarding Template~~
+![image](images/image.jpg)
 
 ### 3.2 Tasks and Assignments
 
@@ -65,7 +65,7 @@ You can view the created Projects and Tasks through View > Project/ Tasks.
 
 Additionally, each Activity can be assigned weights based on its importance.
 
-~~Tasks and Assignments~~
+![image](images/image.jpg)
 
 Based on the progress on the Tasks, progress can be updated in the Employee Separation process.
 

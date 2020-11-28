@@ -21,7 +21,7 @@ Home > Education > Settings > Education Settings
 1. Select how you want the Instructor Records to be created, using Full Name, using Naming series or using Employee Number.
 1. Instructor Record to be created by: You can select how you want the Instructor Records to be created in your CERP system, whether it should be by Full Name, by Naming series, or by Employee Code.
 
-~~Education Settings~~
+![image](images/image.jpg)
 
 ### 1.1. Configuring Properties
 
@@ -39,6 +39,6 @@ Once you Enable LMS for your CERP Education module, the following settings would
 - LMS Title: Enter the Title for your LMS. It could be the name of your Institute.
 - Description: You can add the description of the course for your LMS.
 
-~~Education Settings~~
+![image](images/image.jpg)
 
 You can further go to LMS Activity to add the courses, articles or quizzes for your LMS. To access your LMS portal, you may go to the URL, {yourdomainname}.CERP.com/lms

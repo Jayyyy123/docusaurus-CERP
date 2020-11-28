@@ -8,7 +8,7 @@ sidebar_label: Activity Cost
 
 The system pulls this rate while making Timesheets. It is used to determine the Project Cost.
 
-~~Activity Cost~~
+![image](images/image.jpg)
 
 To access Activity Cost, go to,
 :::note
@@ -24,4 +24,4 @@ Home > Projects > Time Tracking > Activity Cost
 
 lternatively, an Activity Cost can also be created via the Activity List.
 
-~~Activity Cost~~
+![image](images/image.jpg)

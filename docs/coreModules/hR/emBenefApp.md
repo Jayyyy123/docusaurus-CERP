@@ -10,7 +10,7 @@ To create a new Employee Benefit Application,
 :::note
 Human Resources > Payroll > Employee Benefit Application > New Employee Benefit Application
 :::
-~~Employee Benefit Application~~
+![image](images/image.jpg)
 
 Here, Employee can view the Max Benefits as per the Salary Structure Assignment and then chose from the Earning Components which are part of the employee's assigned Salary Structure. They can also enter the amount which they wish to receive as part of their Salary Slip.
 

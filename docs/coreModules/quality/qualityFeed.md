@@ -33,4 +33,4 @@ The Parameters table has the following columns:
 
 1. Save.
 
-~~Quality mangement~~
+![image](images/image.jpg)

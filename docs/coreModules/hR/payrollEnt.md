@@ -26,7 +26,7 @@ Home > Human Resources > Payroll > Payroll Entry
 
 1. Once the list of Employees is fetched, click on the Create Salary Slips button to generate Salary Slips.
 
-~~Payroll Entry~~
+![image](images/image.jpg)
 
 Note: If the Salary Slips are already created, the system will not create any more Salary Slips. You can also just save the form as Draft and create the Salary Slips later.
 
@@ -36,7 +36,7 @@ Note: If the Salary Slips are already created, the system will not create any mo
 
 After verifying the Salary Slips, you can Submit them all together by clicking on the Submit Salary Slip button.
 
-~~Payroll Entry~~
+![image](images/image.jpg)
 
 This will also book the default Payroll Payable account against respective Expense Heads (as configured in Salary Components) to record the accrual of salary to employees.
 
@@ -44,7 +44,7 @@ Cost Center: You can select Cost Center in the Payroll Entry against which the e
 
 If you want to book expenses against multiple cost centers based on Employee/Department, you can do so by setting Payroll Cost Center in Employee/Department master. Cost Center assigned in Employee/Department master will get priority over the selected Cost Center in Payroll Entry.
 
-~~Payroll Entry~~
+![image](images/image.jpg)
 
 Note: Submitting Salary Slips one by one manually will not create the Journal Entry to record salary accrual.
 
@@ -62,7 +62,7 @@ To generate your salary payment voucher from Payroll Entry, click on the Make Ba
 
 Payroll Entry will route you to Journal Entry with relevant filters to view the draft Journal Vouchers created. You will have to set the reference number and date for the transactions and Submit the Journal Entry.
 
-~~Payroll Entry~~
+![image](images/image.jpg)
 
 Note: For Salary Components which are Flexible Benefits and has Create Separate Payment Entry Against Benefit Claim checked, CERP will book separate draft Journal Entries.
 

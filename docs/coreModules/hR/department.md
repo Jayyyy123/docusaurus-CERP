@@ -14,7 +14,7 @@ Home > Human Resources > Employee > Department
 :::
 Department is a tree-structured master, which means you can create parent departments and sub-departments as shown below:
 
-~~Department Tree~~
+![image](images/image.jpg)
 
 Note: The 'Is Group' checkbox needs to be checked if the Department is a parent department.
 
@@ -33,7 +33,7 @@ Before creating a Department, it is advisable you create the following documents
 1. Select Leave Block List (optional) applicable for this department.
 1. Save.
 
-~~Department~~
+![image](images/image.jpg)
 
 ## 3. Features
 
@@ -41,7 +41,7 @@ Before creating a Department, it is advisable you create the following documents
 
 You can set Leave and Expense Approvers for a particular Department in the 'Leave Approver' and 'Expense Approver' table respectively.
 
-~~Leave and Expense Approver~~
+![image](images/image.jpg)
 
 Note: Multiple Leave and Expense Approvers can be set for a particular Department. However, the first Approver in the list will be set as the default Approver.
 

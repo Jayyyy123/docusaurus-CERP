@@ -29,7 +29,7 @@ Before you create Fees record, it is advisable that you create the following fir
 1. Add the Due Date of the payment of the Fees.
 1. Save.
 
-~~Fees~~
+![image](images/image.jpg)
 
 ### 2.1. Additional Options while Creating Fees
 
@@ -42,19 +42,19 @@ The Student can be notified of their Fee Payment Due Date by checking on the box
 
 Add all the relevant details of the student which includes Program Enrollment, Program, Academic Term and Academic Year. The Student Email ID gets fetched from the Student details given earlier.
 
-~~Fees~~
+![image](images/image.jpg)
 
 ### 3.2. Fee Structure
 
 You can select a Fee Structure for the given Fees Record. The moment you do so, all the Fee Components will be auto-populated from the Fee Structure.
 
-~~Fees~~
+![image](images/image.jpg)
 
 ### 3.3. Fee Components
 
 You can also add the Fee Components by selecting and adding the Fee Category, Description and Fee Amount.
 
-~~Fees~~
+![image](images/image.jpg)
 
 ### 3.4. Printing Settings
 
@@ -75,7 +75,7 @@ To facilitate that smoothly, you can add your Accounts details in the fee struct
 
 - Cost Center: Select and add the name of the Cost Center of your Institute for Accounting Dimensions.
 
-~~Fees~~
+![image](images/image.jpg)
 
 ### Payment
 

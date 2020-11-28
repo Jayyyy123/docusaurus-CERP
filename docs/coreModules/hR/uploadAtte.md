@@ -22,14 +22,14 @@ Before uploading bulk Attendance record, it is advised that you create the follo
 1. Enter Attendance From Date and Attendance To Date.
 1. Click on 'Get Template' button. It will download a csv file with the Employee Details as shown.
 
-~~Attendance Template~~
+![image](images/image.jpg)
 
 1. Enter the Status (Present / Absent) of the Employee for the selected dates.
 
 1. Save the file.
 1. Upload the saved file.
 
-~~Attendance upload~~
+![image](images/image.jpg)
 
 Once the bulk attendance is uploaded, respective attendance records will be created.
 

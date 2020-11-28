@@ -12,4 +12,4 @@ You can also add Latitude and Longitude of the location. When an asset is moved 
 
 Map of the location is also shown:
 
-~~Asset~~
+![image](images/image.jpg)

@@ -69,4 +69,4 @@ The following are the detailed guides on each of the functionalities ready to us
 
 1. [Patient History](/docs/industryModule/healthcare/patHist)
 1. [Patient Appointment Analytics](/docs/industryModule/healthcare/patAppAna)
-2. [Inpatient Medication Orders Report](/docs/industryModule/healthcare/inpaMedOrderRep)
+1. [Inpatient Medication Orders Report](/docs/industryModule/healthcare/inpaMedOrderRep)

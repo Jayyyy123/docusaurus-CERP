@@ -14,40 +14,40 @@ A Kanban Board helps to visualize, control and optimize work-flow while collabor
 
 To create a Kanban board in CERP click the Kanban dropdown on the sidebar, and select New Kanban Board.
 
-~~Add New Kanban Board~~
+![image](images/image.jpg)
 
 ### Adding new Card/Document
 
 To add Cards on Kanban Board click Add Tasks. You can Edit card details by click on the card and it will take you to the Task Doctype where you can further add and edit card details.
 
-~~Add card in Kanban Board~~
+![image](images/image.jpg)
 
 ### Update Cards/Document Status
 
 Based on the Task status you can drag and drop the cards in the respective column. For example, if the task is work in progress you can move the card for the task from the status Open to Working.
 
-~~Move Cards on Kanban Board~~
+![image](images/image.jpg)
 
 ### Manage Columns
 
 To add more columns in the Kanban board click on Add columns.
 
-~~Add New column in Kanban Board~~
+![image](images/image.jpg)
 
 You can move the columns as per your priority.
 
-~~Add New column in Kanban Board~~
+![image](images/image.jpg)
 
 You can also assign colors to columns.
 
-~~Add color to cards in Kanban Board~~
+![image](images/image.jpg)
 
 You can also Archive and Restore the columns added in a Kanban board. To do so click Archive in the drop-down menu on the card. Once archived you can restore the column from the list of the archived columns in the Kanban board.
 
-~~Archive and Restore in Kanban Board~~
+![image](images/image.jpg)
 
 ### Filters
 
 You can create multiple Kanban Boards based on different filters. To save filters for a Kanban Board, click on Menu and then "Save filters".
 
-~~Save filters in Kanban Board~~
+![image](images/image.jpg)

@@ -6,7 +6,7 @@ sidebar_label: Introduction
 
 **CERP comes batteries included for all requirements of a manufacturing business like maintaining Warehouses, Workstation / Machine, Operations, Finished Goods, Raw Materials, Bill of Materials tracking, Work Order planning and execution, procurement, and a lot more.**
 
-~~BOM~~
+![image](images/image.jpg)
 
 ## 1. Master Data
 
@@ -50,4 +50,4 @@ Work order status is dependent upon the stock transactions made against it. In C
 
 Check out the following video to know about features in the manufacturing module.
 
-~~Task~~
+![image](images/image.jpg)

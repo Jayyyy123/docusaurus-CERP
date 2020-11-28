@@ -20,7 +20,7 @@ Home > Human Resources > Leaves > Holiday List
 1. Enter Holiday List Name. It can be based on the Fiscal Year or Location or Department as per the requirement.
 1. Select From Date and To Date for the Holiday List.
 
-~~Holiday List~~
+![image](images/image.jpg)
 
 ## 2. Features
 
@@ -38,11 +38,11 @@ In the 'Add Weekly Holidays' section, select the day in the Weekly Off field.
 
 Note: You can add multiple days in the Weekly Offs.
 
-~~Holiday List~~
+![image](images/image.jpg)
 
 You can also add specific days (like festival holidays) manually by clicking on the 'Add row' option in the Holidays table.
 
-~~Holiday List~~
+![image](images/image.jpg)
 
 Note: Each time a new holiday is updated in the Holidays table, the Total Holidays field gets updated.
 
@@ -50,7 +50,7 @@ Note: Each time a new holiday is updated in the Holidays table, the Total Holida
 
 You can set a default Holiday List at the company-level in the Company master in the 'Default Holiday List' field.
 
-~~Holiday List~~
+![image](images/image.jpg)
 
 ### 2.3 Holiday List in Employee
 
@@ -64,7 +64,7 @@ Note: If you have specified a Holiday List in the Employee master, then that Hol
 
 You can also set a Holiday List at workstation-level as shown in the screenshot below.
 
-~~Holiday List~~
+![image](images/image.jpg)
 
 The dates in the Holiday List tagged in the Workstation master will be considered as the days the Workstation will remain closed.
 

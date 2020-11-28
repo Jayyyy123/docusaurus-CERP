@@ -25,7 +25,7 @@ Before creating an Attendance Request, it is advised that you create the followi
 1. Select Reason and enter Explanation (optional).
 1. Save and Submit.
 
-~~Attendance Request~~
+![image](images/image.jpg)
 
 Note 1: You can check the 'Half Day' checkbox and enter the Date in case the attendance is for Half Day.
 
@@ -33,15 +33,15 @@ Note 2: On submission of the same, Attendance documents will be created for the 
 
 Note 3: You can submit Attendance Request of only unmarked Attendance.
 
-~~Attendance Request Submit~~
+![image](images/image.jpg)
 
 As seen below, respective Attendance records are linked with the submitted Attendance Request.
 
-~~Attendance Request Linked~~
+![image](images/image.jpg)
 
 If you cancel the Attendance Request, the linked Attendance documents created will be cancelled as well.
 
-~~Attendance Request Cancelled~~
+![image](images/image.jpg)
 
 ## 3. Related Topics
 

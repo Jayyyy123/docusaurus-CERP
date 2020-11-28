@@ -8,7 +8,7 @@ Manufacturing Settings can be found at:
 :::note
 Home > Manufacturing > Settings > Manufacturing Settings
 :::
-~~Manufacturing Settings~~
+![image](images/image.jpg)
 
 ### Capacity Planning
 
@@ -26,7 +26,7 @@ The Stock Entry of type 'Manufacture' is known as backflush. Raw materials being
 
 When creating Manufacture Entry, raw-material items are backflushed based on BOM of production item. If you want raw-material items to be backflushed based on Material Transfer entry made against that Work Order instead, then you can set it under this field.
 
-~~Manufacturing Settings~~
+![image](images/image.jpg)
 
 ### Default Work In Progress Warehouse
 

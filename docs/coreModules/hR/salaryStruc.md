@@ -19,7 +19,7 @@ Home > Human Resources > Payroll > Salary Structure
 
 Before you create a Salary Structure, it is advisable you have the following:
 
-~~Salary Component~~
+![image](images/image.jpg)
 
 ## 2. How to create a Salary Structure
 
@@ -38,7 +38,7 @@ Note: Only Salary Components set as 'Earnings' will be shown in the Earnings tab
 
 To create Earnings and Deductions, select the Salary Component in the Component column. Enter the Formula/Condition if not previously specified while creating the Salary Component. Additionally, you can also enter a pre-defined amount in the Amount column.
 
-~~Salary Structure~~
+![image](images/image.jpg)
 
 Note: Make sure to click on the downward arrow and enable the 'Amount based on formula' checkbox in case the Salary Component is calculated using a formula.
 
@@ -58,7 +58,7 @@ Steps for creating Salary Structure based on Timesheets:
 1. Enter the Hour Rate. Based on the Rate entered, the amount for Working hours for the selected Salary Component will be calculated accordingly.
 1. Save and Submit.
 
-~~Create Salary Slip based on Timesheets~~
+![image](images/image.jpg)
 
 ### 2.4 Leave Encashment Amount Per Day
 

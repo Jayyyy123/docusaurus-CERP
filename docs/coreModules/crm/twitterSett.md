@@ -20,7 +20,7 @@ Create App by link https://developer.twitter.com/ and check that the App has Rea
 1. Then go to Edit and click Edit Details.
 1. Add your website URL in Callback URLs like: https://{yoursite}/api/method/erpnext.crm.doctype.twitter_settings.twitter_settings.callback
 1. Click Save to make changes.
-   ~~Twitter App Callback URL~~
+   ![image](images/image.jpg)
 
 ## 2. How to set up Twitter Settings
 
@@ -29,7 +29,7 @@ To access Twitter Settings, go to:
 Home > CRM > Settings > Twitter Settings
 :::
 
-~~Twitter Settings~~
+![image](images/image.jpg)
 
 ### 2.1 API Key and API Key Secret
 
@@ -37,6 +37,6 @@ You get API Key and API Key Secret from your Twitter Developer account go to:
 
 https://developer.twitter.com/ > My Apps > {Your App} > Keys and tokens
 
-~~Twitter Keys Tokens~~
+![image](images/image.jpg)
 
 Once you save the doc by filling API Key and API Key Secret it will redirect to Twitter's sign-in page by providing valid Twitter credentials and clicking Authorize app, the member approves your application's request to access their member data and interact with Twitter. Twitter Authorize App

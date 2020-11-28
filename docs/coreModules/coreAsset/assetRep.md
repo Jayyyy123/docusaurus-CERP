@@ -30,7 +30,7 @@ Asset
 1. Change the Repair Status from 'Pending', 'Completed', or 'Canceled'.
 1. Save and Submit.
 
-~~Asset~~
+![image](images/image.jpg)
 
 ## 3. Related Topics
 

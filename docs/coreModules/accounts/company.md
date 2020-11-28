@@ -25,7 +25,7 @@ The abbreviation also appears in various accounts, cost centers, taxes templates
 
 You can also attach a company logo and add a description for the company.
 
-~~Company Master~~
+![image](images/image.jpg)
 
 ### 1.1 Multi Company Structure
 
@@ -37,7 +37,7 @@ A parent company is a larger organization which consists of one or more child co
 
 The company tree view displays the overall structure of your companies.
 
-~~Company Tree~~
+![image](images/image.jpg)
 
 Once you build a company tree, CERP will validate if the accounts of the child companies match the accounts in the parent company. All the accounts can be combined in a consolidated chart of accounts statement.
 
@@ -51,13 +51,13 @@ Once you build a company tree, CERP will validate if the accounts of the child c
 
 For each Company, the master for Chart of Accounts is maintained separately. This allows you to maintain separate accounting for each company as per the legal requirements. You can also import chart of accounts using the Charts Of Accounts Importer.
 
-~~Company Chart of Accounts~~
+![image](images/image.jpg)
 
 CERP has localized Chart of Accounts readily available for some countries. When creating a new Company, you can choose to set up the Chart of Account for it from one of the following options.
 
 - Standard Chart of Accounts
 - Based on Existing Company's Chart of Account
-  ~~Company Chart of Accounts~~
+  ![image](images/image.jpg)
 
 Note that, if the Parent Company is selected when creating a new Company, the Chart of Accounts will be created based on the existing Parent Company.
 
@@ -117,7 +117,7 @@ Perpetual Inventory feature would lead to Stock transactions impacting the compa
 - Stock Received But Not Billed
 - Expenses Included In Valuation
 
-~~Stock Settings in Company~~
+![image](images/image.jpg)
 
 ### 2.4 Fixed Asset Depreciation Settings
 
@@ -132,7 +132,7 @@ For managing fixed assets in a company, the following accounts are needed. Most 
 - Capital Work In Progress Account
 - Asset Received But Not Billed
 
-~~Fixed Asset Depreciation~~
+![image](images/image.jpg)
 
 ### 2.5 HRA Settings
 
@@ -176,13 +176,13 @@ For reference, the following details of your company can be saved in CERP:
 Note: When setting the address here, it is important to tick the 'Is Your Company Address' checkbox.
 :::
 
-~~Company Address~~
+![image](images/image.jpg)
 
 For India, different addresses can be added with different GSTIN numbers if the company has multiple locations. For example, if your company has offices in Mumbai, Delhi, and Bangalore, you'll have to add different addresses with different GSTIN numbers.
 
 On saving a company, the following details/actions will be visible in the dashboard:
 
-~~Company after Save~~
+![image](images/image.jpg)
 
 Registration Details: Here you can save various tax/cheque/bank number for reference.
 
@@ -201,7 +201,7 @@ You can delete all transactions (Orders, Invoices) of a Company. Use with cautio
 1. Verify your password
 1. Enter Company name for confirmation
 
-~~Company after Save~~
+![image](images/image.jpg)
 
 And you're done. The master data like Item, Account, Employee, BOM etc. will remain as it is.
 

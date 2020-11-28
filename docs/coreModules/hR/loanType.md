@@ -10,7 +10,7 @@ Introduced in Version 13
 
 A Loan Type is where you can define various loan types and their properties like rate of interest, loan account details, etc.
 
-~~Make Loan Type~~
+![image](images/image.jpg)
 
 To access the Loan Type list, go to:
 
@@ -26,7 +26,7 @@ Home > Loan Management > Loan > Loan Type
 1. Enter Mode Of Payment and account details.
 1. Click "Save" to save the draft of the loan type.
 1. Click "Submit" to submit the loan type
-   ~~Loan Type~~
+   ![image](images/image.jpg)
 
 ## 2. Feature
 

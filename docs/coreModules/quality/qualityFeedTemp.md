@@ -18,8 +18,7 @@ Home > Quality > Quality Feedback Template
 1. In the Parameters table, list down the various processes/parameters on which you want the user to rate and give the feedback.
 1. Save.
 
-~~Quality mangement~~
-
+![image](images/image.jpg)
 ## 2. Related Topics
 
 1. Quality Feedback

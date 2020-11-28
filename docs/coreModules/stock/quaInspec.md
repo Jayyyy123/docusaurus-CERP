@@ -27,19 +27,19 @@ The Quality Inspection Template set in the Item master will be fetched.
 You can change who it's inspected by and also add who it's verified by.
 Any additional Remarks about the Inspection can be added.
 Save. Set the Status. Submit.
-Quality Inspection
+![image](images/image.jpg)
 
 ## 3. Features 
 ### 3.1 Formula Based Quality Checks 
 The acceptance of a parameter/check, in a Quality Inspection, can depend on a certain formula in many cases. The Readings table has a field called Acceptance Criteria Formula where you can specify a formula that determines whether a certain check is Accepted or Rejected.
 
-Acceptance Criteria Formula
+![image](images/image.jpg)
 
 This formula depends on the many Reading fields in the Readings table. It can be set manually or via a template.
 
 After setting it, update the readings and Save. The Status field in the Readings table rows is set automatically based on the formula for acceptance.
 
-Acceptance Criteria Formula
+![image](images/image.jpg)
 
 The status for the entire Quality Inspection can then be decided by the user.
 

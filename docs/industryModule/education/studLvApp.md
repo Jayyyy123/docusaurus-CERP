@@ -27,13 +27,13 @@ Based on the Attendance field, select the Student Group or Course Schedule. Opti
 In case the student is not attending the institute to participate or represent the institute in any event, he/she can be marked as "Present" from the Leave Application itself by checking Mark as Present.
 Save. The 'Total Leave Days' will be calculated and set in the document after excluding the holidays which are part of your default Holiday List.
 
-~~Student Leave Application~~
+![image](images/image.jpg)
 
 ### 1.2 On Submission of Student Leave Application
 
 Once the Student Leave Application is submitted, a Student Attendance record is automatically created with status as 'Absent'. If Mark as Present is checked, then the status of the Attendance Record is set as 'Present'. The Leave Application is linked to this Student Attendance document for reference.
 
-~~Student Attendance~~
+![image](images/image.jpg)
 
 If any of the dates within the leave period is a holiday, then, Student Attendance record creation is skipped for that date.
 

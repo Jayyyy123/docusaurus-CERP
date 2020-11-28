@@ -14,7 +14,7 @@ Home > Accounting > Multi Currency > Currency
 
 For example, this is how the Currency page for Euro:
 
-~~Currency~~
+![image](images/image.jpg)
 
 ## Related Topics
 

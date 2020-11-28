@@ -7,9 +7,9 @@ sidebar_label: Employee Skill Map
 **Employee Skill Map is a record which helps your organization track your Employee's skill sets and trainings. It can be used to rate each skill of the Employee and track their growth after each internal training. This data can be used at the time of appraisals.**
 
 To record an Employee Skill Map go to:
-
+:::note
 Home > Human Resource > Employee Lifecycle > Employee Skill Map
-
+:::
 Make sure you have set the required Skills for designations from the Skill doctype.
 
 Example of Skills for a Designation: Designation Skills
@@ -22,4 +22,4 @@ Example of Skills for a Designation: Designation Skills
 1. If the Employee is lacking in any skill, you can schedule trainings for the Employee.
 1. Under the Trainings table, select the Training Event and the Training Date.
 1. Save.
-~~Employee Skill Map~~
+   ![image](images/image.jpg)

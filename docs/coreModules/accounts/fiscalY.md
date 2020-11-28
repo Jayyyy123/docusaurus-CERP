@@ -26,7 +26,7 @@ Home > Accounting > Setup > Fiscal Year
 1. To set the Fiscal Year as default, click on the Set as Default button.
 1. In case you have multiple companies sharing the same Fiscal Year, you can add it as shown in the following screenshot:
 
-   ~~Fiscal Year~~
+   ![image](images/image.jpg)
 
 ## 2. Related Topics
 

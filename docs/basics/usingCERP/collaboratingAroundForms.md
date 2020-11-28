@@ -14,28 +14,26 @@ If a Document requires some action from a particular user, you can assign that d
 
 E.g., an incoming Lead can e assigned to a particular user to ensure that the same is being pursued by them.
 
-~~Collaborating Around Forms~~
-
+![image](images/image.jpg)
 ### Comments
 
 For a lot of Documents, there can be information that is not a part of the transaction. To record such information, the 'Comments' feature is a great alternative. Checkout Comments for more.
 
-~~Collaborating Around Forms~~
-
+![image](images/image.jpg)
 ### Share
 
 You can share a document with the aspecific user in your CERP account. Irrespective of their roles or permissions, a User will be able to access a document shared with them.
 
-~~Notes~~
+![image](images/image.jpg)
 
 ### Tags
 
 You can also add tags to different Documents to classify them into categories. Click here to know more about tags.
 
-~~Tags~~
+![image](images/image.jpg)
 
 ### Reviews
 
 For every Document, there is an option to add Reviews for any User involved in the Document. This includes all the Users to whom this Document was assigned, and to all the Users who have Commented on this Document. Review Points can be gained by a User using the Energy Point System.
 
-~~Collaborating Around Forms~~
+![image](images/image.jpg)

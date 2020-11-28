@@ -24,7 +24,7 @@ Human Resource > Employee Lifecycle > Employee Transfer
 1. Additionally, 'Create New Employee' checkbox can be checked to create a new Employee ID for the transferred Employee.
 Note: If Create New Employee ID is checked, a new Employee will be created with property changes in Transfer Details table and old Employee will be marked as relieved. Leave allocations for the new Employee has to be manually created from Leave Period.
 
-~~Employee Transfer~~
+![image](images/image.jpg)
 
 Note: Transfer document can be submitted on or after Transfer Date. Once submitted all the changes added to Transfer Details table will applied to Employee.
 

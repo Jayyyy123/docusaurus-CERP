@@ -19,7 +19,7 @@ Home > Retail > Retail Operations > POS
 1. Enter any expenses incurred during the shift like refershments, tea, coffee, etc.
 1. In the Payments table, enter the mode of Payment and the amount received.
 1. Save and Submit.
-   ~~POS Cashier Closing~~
+  ![image](images/image.jpg)
 
 - Custody: The amount in the cash drawer.
 - Returns: The amount for the Items returned by Customers.

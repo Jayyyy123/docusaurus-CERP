@@ -8,7 +8,7 @@ sidebar_label: Instructor
 
 This document can be used to maintain the Instructor Log in the form of a list of topics/courses covered by the Instructor. This log will have the entire history of the courses taught by the Instructor.
 
-~~Instructor~~
+![image](images/image.jpg)
 
 To access the instructor list, go to:
 :::note
@@ -34,7 +34,7 @@ Before creating an instructor, it is advisable to first create the following:
 1. Select the Department for which you are creating an Instructor.
 1. Save.
 
-~~Instructor~~
+![image](images/image.jpg)
 
 ## 3. Features
 
@@ -48,7 +48,7 @@ Before creating an instructor, it is advisable to first create the following:
 - Student Group: The Student Group for which the user is making the Instructor Log.
 - Other Details: Any other details regarding the Instructor Log can be recorded here.
 
-~~Instructor~~
+![image](images/image.jpg)
 
 ## 3.2. After Submitting
 
@@ -58,12 +58,12 @@ Once the Instructor and Instructor Log is saved, you can create the following fr
 - Course Schedule
 - Assessment Plan
 
-~~Instructor~~
+![image](images/image.jpg)
 
 :::note
 Note: While creating an Assessment Plan from the Instructor, the user can select whether the Instructor has to be kept as a Supervisor or as an Examiner for the Assessment plan.
 :::
 
-~~Instructor~~
+![image](images/image.jpg)
 
 ## 4. Video Tutorial for Instructor

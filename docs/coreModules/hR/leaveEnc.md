@@ -32,7 +32,7 @@ Before creating Leave Encashment, it is advisable you create the following docum
 1. Select Encashment Date. Based on the date selected, the amount will be encashed in that particular Payroll Entry.
 1. Save and Submit.
 
-~~Leave Encashment~~
+![image](images/image.jpg)
 
 Note: As you select Employee and Leave Type, Leave Balance and Encashable Days (which is total leave balance minus the threshold days set in Leave Type) will be shown along with the Encashment Amount based on the Leave Encashment per day as configured in the Employee's assigned Salary Structure.
 

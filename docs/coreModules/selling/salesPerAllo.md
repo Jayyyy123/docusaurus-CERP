@@ -20,17 +20,17 @@ Selling > Sales Partners and Territory > Sales Person > Edit
 
 In the Sales Person master, you will find table a called Sales Person Target.
 
-~~Sales person target~~
+![image](images/image.jpg)
 
 In this table, you should select Item Group, Fiscal Year, Target Qty, Target Amount, and Target Distribution.
 
 You can give target in amount or quantity, or both. Item Group can also be left blank. In this case, the system will calculate target based on All Item Groups.
 
-~~Target Distribution~~
+![image](images/image.jpg)
 
 You can spread the target across months. For this create a new monthly distribution, you can see the option when you click on the Target Distribution field in the Targets table. For example, a target of selling 1,000 units for first quarter of the Fiscal Year 2019-2020 as shown in the preceding screenshot.
 
-~~Target Distribution~~
+![image](images/image.jpg)
 
 ### 1.3 Report - Sales Person Target Variance Item Groupwise
 
@@ -42,8 +42,7 @@ This report will provide you variance between target and actual performance of S
 
 Here, as per the report, allocated target to Sales Person was roughly 83 in quantity for a month, but he has achieved a target of 80 when the report is being viewed, hence the variance report is shown accordingly.
 
-~~Target Item Group~~
-
+![image](images/image.jpg)
 Note: For the report to reflect correct details, you need to link a Sales Person to a Sales Order, it's present in the Sales Team section of Sales Order. The Sales Order has also has to be in the submitted stage.
 
 ## 2. Sales Person - Territorywise Target Allocation
@@ -56,7 +55,7 @@ Selling > Settings > Territory > (Edit specific Territory)
 
 In the selected Territory, you will find a field to select Territory Manager. This field is linked to "Sales Person" master.
 
-~~Sales Person Territory Manager~~
+![image](images/image.jpg)
 
 ### 2.2 Allocating Target
 
@@ -67,7 +66,7 @@ This report will provide you variance between target and actual performance of S
 
 Note that the Territory of the Customer/Customers must be set accordingly for this report to work. For example, in the following screenshot, the target was approx eight units and five was achieved, hence the variance is three.
 
-~~Sales Person Territory Report~~
+![image](images/image.jpg)
 
 ## 3. Target Distribution
 
@@ -75,7 +74,7 @@ To create a new Monthly Distribution, go to: Accounting > Monthly Distribution
 
 Target Distribution document allows you to divide allocated targets across multiple months. If your products and services are seasonal, you can distribute the sales target accordingly. For example, if you are into umbrella business, then target allocated in the monsoon season will be higher than in other months.
 
-~~Target Distribution~~
+![image](images/image.jpg)
 
 You can link Monthly Distribution while allocating targets in Sales Person and in Territory master.
 

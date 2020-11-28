@@ -27,7 +27,7 @@ Before creating an Employee Attendance, it is advised that you create the follow
 1. Select the Employees.
 1. Mark Present, Absent or Half Day as required.
 
-~~Attendance upload~~
+![image](images/image.jpg)
 
 :::note
 Note: Attendance cannot be marked for future dates.
@@ -35,7 +35,7 @@ Note: Attendance cannot be marked for future dates.
 
 Once the attendance is marked using the Employee Attendance Tool, the employee attendance is saved in the Attendance record as shown:
 
-~~Attendance~~
+![image](images/image.jpg)
 
 ## 3. Related Topics
 

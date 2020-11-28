@@ -30,9 +30,9 @@ You need to create following ledgers in order to post invoice discounting transa
 1. Select Accounts Receivable Credit Account, Accounts Receivable Discounted Account and Accounts Receivable Unpaid Account.
 1. Click on Save then Submit.
 1. After submitting the Invoice Discounting form, click on the Disburse Loan.
-   ~~Lead~~
+  ![image](images/image.jpg)
 1. You'll be taken to a Journal Entry screen. Save and Submit the Journal Entry.
-   ~~Journal Entry~~
+  ![image](images/image.jpg)
 
 ## 2. Features
 

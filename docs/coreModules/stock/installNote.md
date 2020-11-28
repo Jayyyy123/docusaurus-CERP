@@ -22,7 +22,7 @@ The Customer, Item, and quantity will be fetched from the Delivery Note.
 The date and time are set to when the note is created.
 Save and submit.
 
-Installation Note
+![image](images/image.jpg)
 
 Any additional remarks about the installation can be added. If the Item is serialized, the serial numbers can be added in Items table.
 

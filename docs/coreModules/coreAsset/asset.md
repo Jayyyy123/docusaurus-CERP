@@ -20,7 +20,7 @@ Home > Assets > Assets > Asset
 Before creating and using Asset, it is advised to create the following first:
 
 Item with 'Is fixed Asset' enabled
-~~Asset Category~~
+![image](images/image.jpg)
 
 ## 2. Types of Assets
 
@@ -32,7 +32,7 @@ There are two use cases for creating an asset record. The asset can be an existi
 
 For an existing asset, you can create the asset record directly checking "Is Existing Asset" field. In this case, you also need to enter already booked depreciation amount and number of booked depreciation. And based on the input, the system will create a schedule for remaining depreciation.
 
-~~Existing Asset~~
+![image](images/image.jpg)
 
 ### 2.2 New Asset
 
@@ -42,7 +42,7 @@ When you're buying new assets, an asset ID is created when you make a Purchase R
 
 When you're buying new assets, assets can be created automatically when you make a Purchase Receipt, if you have 'Auto Create Assets on Purchase' ticked in the Item master of the Asset. On submitting the Purchase Receipt for an Asset, you'll see a message like '5 Assets created for Office Phone'. If you don't want to auto create assets, after Purchase Receipt submission you will have to manually create assets and link the Purchase Receipt to the Asset.
 
-~~Asset~~
+![image](images/image.jpg)
 
 After submitting a Purchase Receipt/Invoice for such an Item, in case of asset auto creation, a number of Asset records will be created in the Draft stage. You can then go to these Assets and submit them.
 
@@ -96,7 +96,7 @@ An Asset Category needs to be assigned to that Item. Now the Asset can be create
 
 On booking depreciations against this Asset, the Depreciation Schedule section will be visible. This table has columns for Finance Book, Schedule Date, Depreciation Amount, Amount Deprecated, and Journal Entry.
 
-~~Depreciation Schedule~~
+![image](images/image.jpg)
 
 ### 4.3 Insurance Details
 
@@ -121,7 +121,7 @@ Ticking on Maintenance Required allows recording Asset Maintenance entries for t
 
 Once you create an Asset, you'll see options to transfer, scrap, or sell the asset. From the Make button, you can adjust its value and make a depreciation entry.
 
-~~Asset Submit~~
+![image](images/image.jpg)
 
 ## 5. Related Topics
 

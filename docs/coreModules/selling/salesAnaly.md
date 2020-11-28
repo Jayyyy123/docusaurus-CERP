@@ -15,17 +15,17 @@ Home > Selling > Key Reports
 
 Go to Selling > Analytics > Sales Analytics. The Sales Analytics report looks like this:
 
-~~Sales Analytics Sections~~
+![image](images/image.jpg)
 
 The toolbar provides filters to select what data is to be used. Using the dropdown selections, the data displayed can be refined. As the selections are made, data is reflected in the data window as well as the graph window.
 
-~~Sales Analytics Filters~~
+![image](images/image.jpg)
 
 Within the data window, selections can be made to expand or compress the data to be analyzed. At the left-hand side highlighted in blue are selection boxes. Each box can be selected or unselected. There is no restriction for data comparison, so a higher level can be compared to a lower level.
 
 In the following screenshot, the data column to the right highlighted in orange contains selection boxes with + and minus selections. Selecting a + will expand the data and selecting a – will compress the data. As this is performed, the Graph Window is dynamically altered allowing rapid data analysis.
 
-~~Sales Analytics Result~~
+![image](images/image.jpg)
 
 Using the 'Set Chart' button, you can set values for the X and Y fields, use different type of charts and select a color.
 
@@ -33,7 +33,7 @@ Using the 'Set Chart' button, you can set values for the X and Y fields, use dif
 
 Go to Selling > Analytics. The sales funnel report provides sales generation analysis. It displays the progression of stages in the sales process. There are four stages for leading up to a Sales Order: Active Leads/Customers, Opportunities, Quotations and Sales orders.
 
-~~Sales Funnel~~
+![image](images/image.jpg)
 
 Once a date range has been selected, the graph is updated, the graph reflects the changes and the associated labels.
 
@@ -41,7 +41,7 @@ Once a date range has been selected, the graph is updated, the graph reflects th
 
 Go to Selling > Analytics. To understand revenue, it's often helpful to look at the data from a new customer and existing customers standpoint. This report helps visualize customer loyalty. There are two windows within this report: The Filter Window and the Data Window.
 
-~~WIP report~~
+![image](images/image.jpg)
 
 Accessing the Filter Window, the company and date ranges can be applied. Data is updated in the Data Window as changes are applied.
 
@@ -53,7 +53,7 @@ Within the Data Window, columns of information are accessible.
 
 The following example demonstrates data that has been sorted in ascending order by total (orange) and has been filtered for the year 2018 (blue).
 
-~~WIP report~~
+![image](images/image.jpg)
 
 Under Key Reports there are reports for Inactive Customers, Ordered Items To Be Delivered, Sales Person-wise Transaction Summary, Item-wise Sales History, Quotation Trends, Sales Order Trends in the Selling module.
 

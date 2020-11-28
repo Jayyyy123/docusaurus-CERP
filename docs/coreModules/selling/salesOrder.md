@@ -87,7 +87,7 @@ You will be asked to select a Delivery Warehouse even for a product bundle item,
 
 Here is what a Packing List looks like:
 
-~~Packing List~~
+![image](images/image.jpg)
 
 ### 3.4 Taxes and Charges
 
@@ -95,7 +95,7 @@ To add taxes to your Quotation, you can select a Sales Taxes and Charges Templat
 
 The total taxes and charges will be displayed below the table. Clicking on Tax Breakup will show all the components and amounts.
 
-~~Taxes in Quotation~~
+![image](images/image.jpg)
 
 #### Shipping Rule
 

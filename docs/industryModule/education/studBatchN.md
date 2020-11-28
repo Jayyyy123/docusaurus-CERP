@@ -8,7 +8,7 @@ sidebar_label: Student Batch
 
 For example, A group of students studying the same Program together will be called a Student Batch.
 
-~~Student Batch~~
+![image](images/image.jpg)
 
 To access the Student Batch, go to:
 :::note
@@ -17,6 +17,6 @@ Home > Education > Settings > Student Batch Name
 
 When a student is enrolled for a Program, the batch can be selected for the student, and they shall be a part of that batch.
 
-~~Student~~
+![image](images/image.jpg)
 
 You can also get a Student Batch-Wise Attendance report to view the number of students present from the Batch.

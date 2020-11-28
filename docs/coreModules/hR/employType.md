@@ -20,7 +20,7 @@ Home > Human Resources > Employee > Employment Type
 1. Enter the Name of the Employment Type.
 1. Save.
 
-~~Employment Type~~
+![image](images/image.jpg)
 
 The Employment Type can be linked to the Employee master.
 

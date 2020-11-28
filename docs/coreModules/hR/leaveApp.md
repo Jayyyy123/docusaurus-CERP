@@ -29,7 +29,7 @@ Before you create a Leave Application, it is advisable you have the following do
 Go to Leave Application list, click on New.
 A table of Allocated Leaves will be shown. Based on the Leaves taken, the available leaves are displayed for each Leave Type.
 
-~~Leave Application~~
+![image](images/image.jpg)
 
 Select the Employee Name and Leave Type.
 
@@ -37,7 +37,7 @@ Set the Leave duration using From Date and To Date. Based on the dates selected,
 If the Leave applied is for a half-day, select the 'Half Day' checkbox.
 Enter the Reason for Leave.
 
-~~Leave Application~~
+![image](images/image.jpg)
 
 Select Leave Approver.
 
@@ -45,7 +45,7 @@ Select Leave Approver.
 1. Check the 'Follow via Email' checkbox to send notification of the Leave Application to the Leave Approver.
    You can also link the Salary Slip of the Employee in the Leave Application for the record.
 
-~~Leave Application~~
+![image](images/image.jpg)
 
 1. Click on Save. Once the Employee saves the Leave Application, the status of the Leave Application changes to 'Open', and an email is sent to the Leave Approver for approval. The Leave Approval Notification Template can be configured in HR Settings under the Leave Settings section.
 

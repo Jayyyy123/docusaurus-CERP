@@ -26,7 +26,7 @@ Before creating and using a Process Deferred Accounting, it is advised to create
 1. Expand the posting date.
 1. Enter service Start Date and End Date.
 1. Save and Submit.
-~~Process Deferred Revenue~~
+![image](images/image.jpg)
 
 ## 3. Features 
 ### 3.1 On Submitting 

@@ -36,7 +36,7 @@ Before creating and using a Loyalty Program, it is advised to create the followi
 1. Set the Conversion Factor, eg: 10 USD = 1 point.
 1. Save.
 
-~~Loyalty Program~~
+![image](images/image.jpg)
 
 ### 2.1 Redemption section
 
@@ -50,16 +50,16 @@ Expiry Duration (in days): The collected loyalty points will expire after the nu
 
 Set a Loyalty Program section in the Customer master to assign a Loyalty Program to a Customer.
 
-~~Loyalty Program 1~~
+![image](images/image.jpg)
 
 Loyalty points earned can be viewed in the Customer's dashboard.
 
-~~Loyalty Program 2~~
+![image](images/image.jpg)
 
 ### 2.3 Loyalty Point Entry
 
 Go to: Accounts > Retail Operations > Loyalty Point Entry. This acts as a log to give an overview of which Customer earned how many points against which Sales Invoice. It holds the data Invoice and Customer.
-~~Loyalty Program 3~~
+![image](images/image.jpg)
 
 ## 3. How does a Loyalty Program work?
 

@@ -19,11 +19,11 @@ Home > Healthcare > Consultation Setup > Appointment Type
 1. Set the Default Duration (In Mins) so that when the Appointment Type is selected in Patient Appointment, the duration gets set automatically.
 1. You can also set a color for each Appointment Type.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 The color will help you identify the appointments of a particular type in the Calendar view.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ## 2. Related Topics
 

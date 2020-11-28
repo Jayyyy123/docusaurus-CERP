@@ -8,7 +8,7 @@ sidebar_label: Project Update
 
 Each time you want to update the stakeholders about the project, you can send a Project Update to them.
 
-~~Project Template~~
+![image](images/image.jpg)
 
 To access Project Update, go to:
 

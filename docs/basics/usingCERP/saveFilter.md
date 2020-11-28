@@ -6,7 +6,7 @@ sidebar_label: Save Filter
 
 **Save Filter is a tool that will allow you to save a certain set of filters which are applied often in a document list or a report so that you can reuse them.**
 
-~~Save Filter~~
+![image](images/image.jpg)
 
 To learn more about filters, checkout Search Filter
 
@@ -16,4 +16,4 @@ In this case, you can create a custom filter for it and save the same condition 
 
 To save a Custom Filter, you may go to the 'Save Filter' option in the Left Sidebar of the list or the report.
 
-~~Save Filter~~
+![image](images/image.jpg)

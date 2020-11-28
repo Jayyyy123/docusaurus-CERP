@@ -37,7 +37,7 @@ Before creating a Compensatory Leave Request, it is necessary to create the foll
 1. Enter the Reason.
 1. Save and Submit.
 
-~~Compensatory Leave Request~~
+![image](images/image.jpg)
 
 On submitting the Compensatory Leave Request, CERP updates the Leave Allocation record for the Compensatory leave type, allowing the Employee to apply for leaves of this type later on depending upon the number of leaves left.
 

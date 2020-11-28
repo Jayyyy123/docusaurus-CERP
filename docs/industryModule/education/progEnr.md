@@ -37,7 +37,7 @@ Before creating a Program Enrollment, it is advisable that you create the follow
 1. The Enrollment Date for the form would by default be set on the current date, the same, however, can be changed if needed.
 1. Save and submit.
 
-~~Program Enrollment~~
+![image](images/image.jpg)
 
 ### 2.1. Additional Options while creating a Program Enrollment
 
@@ -47,7 +47,7 @@ Before creating a Program Enrollment, it is advisable that you create the follow
 - Student House: Select the House if the student belongs to a particular student house.
 - Boarding Student: Check this if the Student is residing at the Institute hostel. In this case, the fee structure would accordingly be updated.
 
-~~Program Enrollment~~
+![image](images/image.jpg)
 
 ## 3. Features
 
@@ -59,10 +59,10 @@ Select the mode of transportation for the student to and from the Institute and 
 
 Select and add the courses which the student has opted to study during the course of the program.
 
-~~Program Enrollment~~
+![image](images/image.jpg)
 
 ### 3.3. Fees
 
 Select and add the Academic Term, Fee Structure, Student Category, Fees Due Date and Fees Amount to be paid by the student for the enrollment to the course.
 
-~~Program Enrollment~~ 4. Video
+![image](images/image.jpg) 4. Video

@@ -6,7 +6,7 @@ sidebar_label: Accounts Settings
 
 There are various account settings in CERP to restrict and configure actions in the Accounting module.
 
-~~Account Settings~~
+![image](images/image.jpg)
 
 ## 1. Accounts Frozen Up to
 
@@ -62,7 +62,7 @@ Enabling this will automatically fetch the Payment Terms based on the Supplier.
 
 ## 14. Print Settings
 
-~~Account Settings~~
+![image](images/image.jpg)
 
 Show Inclusive Tax In Print: The applied taxes will be shown in the print view.
 Show Payment Schedule in Print: The Payment Schedule table is visible on using Payment Terms. Enabling this will show this table in print view.

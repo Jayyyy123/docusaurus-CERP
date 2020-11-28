@@ -12,7 +12,7 @@ In order to create Medical Code Standards, go to:
 Home > Healthcare > Masters > Medical Code Standard
 :::
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 Two common medical coding classification systems are in use — the International Classification of Diseases (ICD) and the Current Procedural Terminology (CPT).
 

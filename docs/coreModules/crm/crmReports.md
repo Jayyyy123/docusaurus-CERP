@@ -10,7 +10,7 @@ sidebar_label: CRM Reports
 
 This report provides lead name, address, contact details, lead source, territory, and other details.
 
-~~Lead Details~~
+![image](images/image.jpg)
 
 ## 2. Sales Funnel
 
@@ -22,7 +22,7 @@ For more details check Sales Funnel.
 
 Using this report, user gets the information about the leads who have shown interest in the business with you but due to some reason they were not converted into the customers.
 
-~~Lead Details~~
+![image](images/image.jpg)
 
 ## 4. Minutes to First Response for Opportunity
 
@@ -30,13 +30,13 @@ In this internet era, we all expect a quicker response time to any of our querie
 
 You can input the date range for which you would like to analyse the minutes to first response. The line graph is shown on the top and date wise details at the bottom.
 
-~~Lead Details~~
+![image](images/image.jpg)
 
 ## 5. Inactive Customers
 
 This report shows the list of customers who have not purchased since specific number of days. You can mention the number of days in 'Days Since Last Order' filter. Also you can mention if Sales Order or Sales Invoice is to be considered in DocType filter.
 
-~~Lead Details~~
+![image](images/image.jpg)
 
 ## 6. Address And Contacts
 
@@ -44,10 +44,10 @@ Select Customer in 'Party Type', the report will show address and contact detail
 
 You can also select specific customer in 'Party Name' and report will show address and contact detail of that specific customer.
 
-~~Lead Details~~
+![image](images/image.jpg)
 
 ## 7. Lost Opportunity
 
 This report provides Lost Opportunity details like opportunity from, party, customer name, lost reasons, sales stage, territory, and other details.
 
-~~Lead Details~~
+![image](images/image.jpg)

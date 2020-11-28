@@ -13,7 +13,7 @@ To access the Asset Movement list, go to:
 Home > Asset > Assets > Asset Movement
 :::
 
-~~Asset~~
+![image](images/image.jpg)
 
 ## 1. Prerequisites
 
@@ -35,8 +35,8 @@ Asset Location
 
 To make an Asset Movement of a number of assets, it is advised to go to Asset List, select assets to be moved and click on Make Asset Movement from Actions menu on the top left.
 
-~~Asset~~
+![image](images/image.jpg)
 
 There is also a Transfer Asset button on the top right of the Asset form to initiate Asset Movement. It auto fills available fields from Asset Form.
 
-~~Asset~~
+![image](images/image.jpg)

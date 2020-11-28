@@ -20,4 +20,4 @@ Home > Selling > Settings > Lead Source
 1. Enter 'Details'.
 1. Typical lead sources are contact forms on your website, marketing campaigns, events, references, ads on social media etc.
 
-~~Lead~~
+![image](images/image.jpg)

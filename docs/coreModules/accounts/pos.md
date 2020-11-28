@@ -33,11 +33,11 @@ Once you set up a POS profile, you can start billing on POS.
 1. In order to edit Rate and Discount, you need to enable them in the POS Profile.
 1. A default Warehouse needs to be set to complete the transaction. If Warehouse is set in both Item and POS profile, the one in POS Profile will be given preference.
 1. Do note that you need to have Items in your Warehouse before you can sell. If Items are not available, a red dot will be shown next to the Item when selected.
-   ~~POS Screen~~
+  ![image](images/image.jpg)
 1. When all Items are added, click on Pay. You'll be asked to submit the Sales Invoice.
 1. Select the payment mode, Submit
 1. You can then print the POS invoice.
-   ~~POS Cycle~~
+   ![image](images/image.jpg)
    After the Sales Invoice is submitted, you can either print or email it directly to the customer.
 
 ### 2.2 Adding an Item
@@ -48,7 +48,7 @@ At the billing counter, the retailer needs to select Items which the Customer bu
 
 - Barcode / Serial No: A Barcode / Serial No is an optical machine-readable representation of data relating to the object to which it is attached. Enter Barcode / Serial No in the box as shown in the image below and pause for a second, the item will be automatically added to the cart.
 
-~~POS Item~~
+![image](images/image.jpg)
 
 :::tip
 Tip: To change the quantity of an Item, enter your desired quantity in the quantity box. These are mostly used if the same Item is purchased in bulk.
@@ -60,7 +60,7 @@ If your product list is very long use the Search field, type the product name in
 
 Select row in the cart and click on Delete button in the numeric keypad
 
-~~POS Item~~
+![image](images/image.jpg)
 
 Set Qty as zero to remove Item from the POS invoice. There are two ways to remove an Item.
 
@@ -71,7 +71,7 @@ Set Qty as zero to remove Item from the POS invoice. There are two ways to remov
 
 POS calculates the extra amount paid by the customer, which user can return from the cash account. User has to set the account for the change amount on the POS profile.
 
-~~POS Payment~~
+![image](images/image.jpg)
 
 ### 2.5 Write off Amount
 
@@ -93,15 +93,14 @@ Menu > Change POS Profile
 
 Select the Company and then choose the POS Profile from the list. You can also set the newly selected POS profile as the default for the Company.
 
-~~Change POS Profile~~
-
+![image](images/image.jpg)
 ## 3. Features
 
 ### 3.1 Adding a new Customer
 
 In POS, user can select the existing Customer during making an order or create a new customer. This feature works in the offline mode also. User can also add the customer details like contact number, address details, etc on the form. The Customer which has been created from the POS will be synced when the internet connection is active.
 
-~~POS Customer~~
+![image](images/image.jpg)
 
 ### 3.2 Offline POS
 
@@ -113,7 +112,7 @@ To learn more on how POS Invoices can be created when offline, check here.
 
 All the records from the POS stores into the browser's and syncs submitted records after every minute of the interval if system is connected to internet. User can view the offline records by clicking on Menu > View Offline Records.
 
-~~POS Payment~~
+![image](images/image.jpg)
 
 ### 3.4 Accounting entries (GL Entry) for a Point of Sale:
 
@@ -140,7 +139,7 @@ At the end of the day, the cashier can close his/her PoS by creating a POS Closi
 
 For closing shift wise or cashier wise, use the POS Cashier Closing.
 
-~~POS Payment~~
+![image](images/image.jpg)
 
 Enter the collected amount for each mode of payment. If you notice any difference between the system amount and the actual physical cash collected, create a Difference Posting.
 

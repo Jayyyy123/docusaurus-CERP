@@ -26,14 +26,14 @@ Got to: Appraisal > New.
 :::
 Select the Appraisal Template. If not created, create an Appraisal Template. Enter the Appraisal Template Name and the Key Result Areas (KRAs) along with the weightage of the same.
 
-~~Appraisal~~
+![image](images/image.jpg)
 
 1. After selecting the Appraisal Template, select the Employee, Start Date and End Date.
 
 1. Based on the template selected, the KRAs will be fetched in the Goals section. Enter the score (0-5)for each KRA. Based on the weightage mentioned, the Score Earned will be calculated for each KRA.
 1. Save and Submit.
 
-~~Appraisal~~
+![image](images/image.jpg)
 
 Based on the scores entered for each KRA, the system will calculate the Total Score (out of 5) for the Employee.
 

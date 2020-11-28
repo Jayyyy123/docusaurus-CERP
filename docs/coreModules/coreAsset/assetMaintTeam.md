@@ -28,7 +28,7 @@ Before creating and using Asset Maintenance Team, it is advised to create the fo
 1. In the Maintenance Team Members table, add the team members and select their maintenance roles.
 1. Save.
 
-~~Asset~~
+![image](images/image.jpg)
 
 ## 3. Related Topics
 

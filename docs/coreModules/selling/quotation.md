@@ -16,7 +16,7 @@ Home > Selling > Sales > Quotation
 
 A typical sales flow looks like:
 
-~~Make Quotation from Opportunity~~
+![image](images/image.jpg)
 
 A Quotation contains details about:
 
@@ -54,7 +54,7 @@ Before creating and using a Quotation, it is advised that you create the followi
 
 You can also create a Quotation from an Opportunity shown as follows.
 
-~~Make Quotation from Opportunity~~
+![image](images/image.jpg)
 
 ## 3. Features
 
@@ -118,7 +118,7 @@ Read Applying Discount for more details.
 
 Sometimes payment is not done all at once. Depending on the agreement, half of the payment may be made before shipment and the other half after receiving the goods/services. You can add a Payment Terms template or add the terms manually in this section.
 
-~~Payment Terms in Quotation~~
+![image](images/image.jpg)
 
 To know more about Payment Terms, click here.
 
@@ -150,7 +150,7 @@ Quotation is a “Submittable” transaction. When you click on Save, a draft is
 
 On submitting, you can create a Sales Order or a Subscription from the Quotation using the Create button. In the Dashboard present on the top, you can go to the Sales Order linked with this Quotation. In case it didn't work out, you can set the Quotation as lost by clicking on the 'Set as Lost button'.
 
-~~Submitted Quotation~~
+![image](images/image.jpg)
 
 ## 4. Related Topics
 

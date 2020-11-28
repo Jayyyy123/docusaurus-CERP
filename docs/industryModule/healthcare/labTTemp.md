@@ -34,13 +34,13 @@ The following are the common fields in the Template of every result format.
 
 In this result format, only one result value is interpreted. After filling up the details specified in the first step, the UOM, Secondary UOM, and Normal Range need to be set. For example, the Haemoglobin test is often used to check for anemia, usually along with a hematocrit or as part of a complete blood count (CBC).
 
-~~Single Result Format~~
+![image](images/image.jpg)
 
 ### 1.2 Compound Result Format
 
 In this result format, the sample is tested for multiple events. These events need to be configured in the "Compound" table. You can set the Events and specify the UOM, Secondary UOM, Conversion Factor, and Normal Range for each event. If at all some event's result need not be specified in the Lab Test, you can check "Allow Blank" for that event. If this is not checked, the system will not let you submit the Lab Test unless all the result values are set.
 
-~~Compound Result Format~~
+![image](images/image.jpg)
 
 ### 1.3 Descriptive Result Format
 
@@ -58,7 +58,7 @@ TLC is a test that determines the number of WBCs in our bodies.
 Neutrophils (Event)
 You can configure the UOM, Secondary UOM and, Normal Range in case of events. On selecting other tests in the table, the system automatically fetches the description and rate of those single/compound tests
 
-~~Grouped Result Format~~
+![image](images/image.jpg)
 
 ## 2. Features
 
@@ -66,7 +66,7 @@ You can configure the UOM, Secondary UOM and, Normal Range in case of events. On
 
 Templates allow you to manage the billable item, rate, etc. for a particular lab test. The system automatically creates an Item linked to the template when it is saved. If the template is billable, then item price is also created for it.
 
-~~Lab Test Item~~
+![image](images/image.jpg)
 
 You can change the Item Code linked to the Lab Template if needed, using the Change Template Code button.
 
@@ -78,19 +78,19 @@ You can disable the templates when they are not being used by checking the "Disa
 
 You can also configure the Medical Code Standard and Medical Code for your templates in the Medical Coding section.
 
-~~Medical Code~~
+![image](images/image.jpg)
 
 ### 2.4 Configure Sample Collection
 
 You can configure the Sample that has to be collected while creating the Lab Test. Select the Lab Test Sample, set the UOM and quantity required.
 
-~~Medical Code~~
+![image](images/image.jpg)
 
 ### 2.5 Worksheet Print
 
 You can configure the instructions for Lab Technicians here. These instructions will be visible in the "Lab Test Print" format for Lab Test doctype only when it is not submitted.
 
-~~Worksheet~~
+![image](images/image.jpg)
 
 ### 2.6 Result Legend Print
 
@@ -98,11 +98,11 @@ This Form has been Changed in Version 13
 
 You can configure the sample that has to be collected while creating the Lab Test. Select the Lab Test Sample, set the UOM and quantity required. Select the position where you want to print this legend and configure the legend in the "Result Legend" field.
 
-~~Result Legend~~
+![image](images/image.jpg)
 
 Lab Test Print format:
 
-~~Result Legend Print~~
+![image](images/image.jpg)
 
 ## 3. Related Topics
 

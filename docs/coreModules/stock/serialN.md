@@ -24,7 +24,7 @@ Before creating and using a Serial Number, it is advised that you create the fol
 - Item
 - Enable 'Has Serial No' in the Item master
 
-~~Serial No Enabled~~
+![image](images/image.jpg)
 
 ## 2. How to create a Serial Number
 
@@ -32,7 +32,7 @@ Usually, Serial Numbers are auto-created when transactions are made against a se
 
 For example, a series was set for the following Item as 'PB2L.#####'. Then a Stock Entry was submitted to receive the Item. The Serial Numbers were created accordingly.
 
-~~Serial No Created~~
+![image](images/image.jpg)
 
 However, if you want to create a Serial No manually follow these steps:
 
@@ -43,7 +43,7 @@ However, if you want to create a Serial No manually follow these steps:
 1. Save.
 1. Inventory of an Item can only be affected if the Serial No is transacted via a Stock transaction (Stock Entry, Purchase Receipt, Delivery Note, Sales Invoice). When a new 1. Serial No is created directly, its Warehouse cannot be set.
 
-~~Serial Number~~
+![image](images/image.jpg)
 
 ### 2.1 Notes about Serial Number
 

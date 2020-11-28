@@ -8,7 +8,7 @@ A customer can be billed based on the total number of hours an employee has work
 
 A sales invoice can be generated from each Timesheet submitted by an employee which can be used to bill the customer.
 
-~~Sales Invoice~~
+![image](images/image.jpg)
 
 ## 1. How to Create A Sales Invoice from A Timesheet
 
@@ -20,7 +20,7 @@ A sales invoice can be generated from each Timesheet submitted by an employee wh
 1. Save and Submit.
 To fetch the details automatically in a Sales Invoice, click on the Get items from button. The details can be fetched from a Sales Order, Delivery Note, or a Quotation. The details like Customer PO, Address and Contact Number, Currency and Price List, Items will get auto-populated.
 
-~~Sales Invoice~~
+![image](images/image.jpg)
 
 ## 2. Features
 

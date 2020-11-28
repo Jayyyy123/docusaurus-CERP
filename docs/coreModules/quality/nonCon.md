@@ -3,6 +3,7 @@ id: nonCon
 title: Non Conformance
 sidebar_label: Non Conformance
 ---
+
 :::note
 Introduced in Version 13
 :::
@@ -12,14 +13,18 @@ Once Quality Procedures are defined, the goal of a quality focussed organization
 
 In CERP, you can create a Non Conformance by selecting the Quality Procedure against which it was observed, maintain its status and record corrective and preventive actions
 
-## 1. Prerequisites 
+## 1. Prerequisites
+
 - Quality Procedure
-## 2. How to Create a Non Conformance 
+
+## 2. How to Create a Non Conformance
+
 1. Go to Quality > Non Conformance or find the Quality Procedure and click on + from the dashboard.
 1. Record your observations
 1. Record corrective / preventive actions if any
 1. Update status
-~~Non Conformance~~
+   ![image](images/image.jpg)
 
-## 3. Related Topics 
+## 3. Related Topics
+
 1. Quality Procedure

@@ -41,7 +41,7 @@ Before creating and using a Pricing Rule, it is advisable to create the followin
 1. Select what to Apply On from Item Code, Item Group, Brand, or Transaction.
 1. Select whether you want to apply Price discount or Product discount. If you want to give free products then select the product discount.
 
-   ~~Applicable On~~
+  ![image](images/image.jpg)
 
 1. For a single item, select Item Code and select the items.
 1. If you want Pricing Rule to be applied on all the items, select 'Item Group' and select All Item Group (parent Item Group).
@@ -116,17 +116,17 @@ Specify minimum qty, maximum qty, minimum amount, or maximum amount of an Item w
 
 Note that if the quantity or amount falls short or exceeds the limits set here, the Pricing Rule will not be applied at all. However, it will be applied if you have enabled the options Mixed Conditions or Cumulative.
 
-~~Applicable Qty~~
+![image](images/image.jpg)
 
 ### 3.4 Validity
 
 You can also set a date interval for when the Pricing Rule will be valid. This is useful for a sales promotion. On leaving the dates blank the Pricing Rule will not have any time frame limit.
 
-~~Period~~
+![image](images/image.jpg)
 
 ### 3.5 Margin
 
-~~Pricing Rule Margin~~
+![image](images/image.jpg)
 
 - Margin Type: When selling an Item, you may sell it for a certain margin. If you don't want to add selling prices to Items every time and would like to automatically set a margin, it can be done with this feature.
 
@@ -138,7 +138,7 @@ For more details about adding margins Click Here
 
 The actual rule to be applied is set in this section.
 
-~~Pricing Rule~~
+![image](images/image.jpg)
 
 - Rate: This will be the new rate for an Item. For example, if you sell an Item for 100 and want to sell it for 112 for a specific party, then select Rate and set the Rate as 112.
 - Discount Percentage: A specific discount percentage can be set. The discount percentage can be set to a specific Price List. Leaving the 'For Price List' blank will apply the Pricing Rule to all Price Lists.
@@ -146,7 +146,7 @@ The actual rule to be applied is set in this section.
 
 ### 3.7 Advanced Settings
 
-~~Pricing Rule Advance~~
+![image](images/image.jpg)
 
 - Threshold for Suggestion: This is the threshold based on which the system will notify you to adjust Item Quantity for discount. For example, if the Min Quantity is 10 and the Threshold is 9, the system will notify to add 1 more Item for the discount to be applicable. This also applies to the amount set.
 
@@ -168,26 +168,22 @@ This is useful when the top distributor in the hierarchy decides the discount/ra
 
 1. Rate mentioned in Pricing Rule will be given priority over Item's Price List (Item Price) rate.
 
-~~Applicable Rate~~
+![image](images/image.jpg)
 
 3. Discount Percentage can be applied for a specific Price List (Selling or Buying). To apply it for both, leave the 'For Price List' field blank.
 
-~~Discount~~
-
+![image](images/image.jpg)
 4. Discount can also be set in terms of amount.
 
-~~Discount~~
-
+![image](images/image.jpg)
 ### 4.2 Product Discount
 
 1. "Buy 2 quantities get 1 free quantity of the same item." To configure such type of rules, set the Price or Product Discount as 'Product discount', tick the Same Item checkbox, and set the quantity.
 
-~~Discount~~
-
+![image](images/image.jpg)
 2. "Buy 2 quantities get 1 free quantity of the another item." To configure such type of rules. Set the Price or Product Discount as Product discount, untick the 'Same Item' checkbox and set the 'Free Item' and quantity.
 
-~~Discount~~
-
+![image](images/image.jpg)
 ## 5. Related Topics
 
 1. Promotional Scheme

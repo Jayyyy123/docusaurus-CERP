@@ -16,19 +16,19 @@ Bank accounts in foreign currencies can be for other branches of your own compan
 
 To get started with multi-currency accounting, you need to assign accounting currency in the Account record. You can define Currency from Chart of Accounts while creating an Account.
 
-~~Modify Account Currency~~
+![image](images/image.jpg)
 
 ### 1.2 New account with different currency
 
 You can also assign/modify the currency by opening specific Account records for existing Accounts.
 
-~~Set Currency from Chart of Accounts~~
+![image](images/image.jpg)
 
 ### 1.3 Currency for Customer/Supplier
 
 For Customer/Supplier (Party), you can also define its billing currency in the party record. If the party's accounting currency is different from Company Currency, you should mention Default Receivable/Payable Account in that currency.
 
-~~Customer Accounting Currency~~
+![image](images/image.jpg)
 
 ### 1.4 After setup
 
@@ -63,7 +63,7 @@ Now, in Invoice, Paid Amount will be entered in transaction currency, instead of
 
 Outstanding Amount and Advance Amount will always be calculated and shown in Customer's Account Currency. The paid amounts will be reflected in the Payment Entry:
 
-~~Sales Invoice Outstanding~~
+![image](images/image.jpg)
 
 ### 3.2 Purchase Invoice
 
@@ -77,7 +77,7 @@ Journal Entry Exchange Rate
 
 In the Accounts table, on the selection of a foreign currency account, the system will show the Currency section and fetch Account Currency and Exchange Rate automatically. You can change/modify the Exchange Rate later manually. Debit/Credit amount should be entered in Account Currency, the system will calculate and show the Debit/Credit amount in Company Currency automatically.
 
-~~Journal Entry in multi currency~~
+![image](images/image.jpg)
 
 ## 4. Reports
 
@@ -85,13 +85,13 @@ In the Accounts table, on the selection of a foreign currency account, the syste
 
 In General Ledger, the system shows debit/credit amount in party currency if filtered by an Account and that Account Currency is different from Company Currency.
 
-~~General Ledger Report~~
+![image](images/image.jpg)
 
 ### 4.2 Accounts Receivable/Payable
 
 In Accounts Receivable/Payable report, the system shows all the amounts in Party/Account Currency.
 
-~~Accounts Receivable Report~~
+![image](images/image.jpg)
 
 ## 5. Related Topics
 

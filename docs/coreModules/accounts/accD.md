@@ -27,7 +27,7 @@ Home > Accounting > Settings > Accounting Dimensions
 1. Enter the name of the dimension (This name will appear in the transactions for which dimensions are created).
 1. Inside the Dimension Defaults table you can mention company specific default dimensions as shown in the screenshot below. This dimension will be automatically fetched in the transaction against that specific company.
 1. Check "Mandatory" checkbox if you want the dimension to be mandatory in the transactions.
-   ~~Create custom dimension~~
+   ![image](images/image.jpg)
 
 ## 2. Features
 
@@ -37,15 +37,15 @@ As you create the dimension, custom fields will be created using a background jo
 
 To tag a transaction with a dimension you can select the specific dimension in Accounting Dimensions section as shown in the screenshot below.
 
-~~Create custom dimension~~
+![image](images/image.jpg)
 
-~~Create custom dimension~~
+![image](images/image.jpg)
 
 ### 2.2 Filtering Reports based on dimensions
 
 You can also filter various financial reports like Profit and Loss Statement, Balance Sheet, General Ledger based on these dimensions.
 
-~~Create custom dimension~~
+![image](images/image.jpg)
 
 ### 2.3 Making accounting dimensions mandatory for "Profit and Loss" and "Balance Sheet" Accounts
 
@@ -55,13 +55,13 @@ The Balance Sheet accounts are Application of Funds (Assets) and Sources of Fund
 
 By selecting the check boxes 'Mandatory for Profit and Loss Account' or 'Mandatory for Balance Sheet' you can configure your dimensions to be mandatory for 'Profit and Loss' and 'Balance Sheet Accounts'.
 
-~~Create custom dimension~~
+![image](images/image.jpg)
 
 ### 2.4 Disabling accounting dimensions when no longer required
 
 You can also disable the dimensions if you don't require them anymore. The old transactions having accounting dimensions will remain intact.
 
-~~Create custom dimension~~
+![image](images/image.jpg)
 
 ## Related Topics
 

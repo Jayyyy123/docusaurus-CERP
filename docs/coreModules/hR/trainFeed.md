@@ -28,7 +28,7 @@ Before creating a Training Event, it is advisable you create the following docum
 1. Enter the feedback in the Feedback box.
 1. Save and Submit.
 
-~~Employee~~
+![image](images/image.jpg)
 
 Note: You can also access Training Feedback directly through the Training Event dashboard.
 

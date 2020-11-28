@@ -18,13 +18,13 @@ Internet and broadcasting service providers offer subscription plans on quarterl
 
 In the Item master created for the subscription plan, under Deferred Revenue section, check field Enable Deferred Revenue. You can also select a Deferred Revenue account for this particular item and number of months.
 
-~~Item - Deferred Revenue~~
+![image](images/image.jpg)
 
 ### 1.2 Sales Invoice
 
 On creation of Sales Invoice for the Deferred Revenue Item, instead of posting in the Income Account, Deferred Revenue account is Credited by the sale amount. If you had set the account and period in Item, then the account and service start, end dates will be fetched automatically.
 
-~~Item - Deferred Revenue~~
+![image](images/image.jpg)
 
 ### 1.3 Journal Entry
 
@@ -32,7 +32,7 @@ Based on the From Date and To Date set in the Sales Invoice Item table, Journal 
 
 Following is an example of Income for the Deferred Revenue Item booked via multiple Journal Entries.
 
-~~Item - Deferred Revenue~~
+![image](images/image.jpg)
 
 ## 2. Video
 

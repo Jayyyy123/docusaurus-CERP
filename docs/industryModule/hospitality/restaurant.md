@@ -10,7 +10,7 @@ You can set a unique numbering prefix for each of your restaurants. All invoices
 
 If you have a default Sales Taxes and Charges Template, you can add it so that the same charge + tax will be applicable for all invoices in the restaurant.
 
-~~Restaurant~~
+![image](images/image.jpg)
 
 After your restaurant is created, you can add Tables and Menus for that restaurant
 
@@ -18,4 +18,4 @@ After your restaurant is created, you can add Tables and Menus for that restaura
 
 You can add a Restaurant Table by creating a new Restaurant Table from the dashboard.
 
-~~Restaurant Table~~
+![image](images/image.jpg)

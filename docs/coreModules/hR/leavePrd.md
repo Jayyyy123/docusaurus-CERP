@@ -33,13 +33,13 @@ Note: The 'Holiday List for Optional Leaves' is not the same as the usual 'Holid
 
 Additionally, you can check the 'Is Active' checkbox if you want to enable this particular Leave Period.
 
-~~Leave Period~~
+![image](images/image.jpg)
 
 Once the information is saved, the Leave Period will also be used as a tool to help you grant leaves for a category of employees.
 
 The Grant button will generate Leave Allocations based on the Leave Policy applicable to each Employee. You can allocate leaves based on Employee Grade, Department or Designation as shown below.
 
-~~Leave Period~~
+![image](images/image.jpg)
 
 ## 3. Related Topics
 

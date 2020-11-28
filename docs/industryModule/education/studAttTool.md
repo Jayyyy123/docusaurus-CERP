@@ -19,6 +19,6 @@ To mark the Attendance based on Student Group select the group based on:
 
 Student details will be auto-fetched and you can mark the attendance of the given date.
 
-~~Student Attendance Tool~~
+![image](images/image.jpg)
 
 ## Video for Student Attendance Tool 

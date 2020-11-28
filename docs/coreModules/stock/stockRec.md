@@ -24,16 +24,16 @@ Home > Stock > Tools > Stock Reconciliation
 
 Using stock reconciliation you can update the number of specific items in a warehouse as of specific time. You can also add Items in the stock which have Serial Numbers or the Batch Numbers.
 
-Go to the Stock Reconciliation list, click on New.
-Select the Purpose as 'Opening Stock'. You can edit the posting Date and Time.
-Select Item Code, Warehouse, Quantity, and Valuation Rate. If there is a Serial / Batch No involved, add it.
-If you want to auto-generate Serial No / Batch No then keep those fields blank.
-For auto-generation of Serial No, you need to set "Serial Number Series" in the Item master.
-For auto-generation of Batch no, you need to enable "Automatically Create New Batch" checkbox in the item master.
-The Difference Account will be set as 'Temporary Opening'.
-Save and Submit.
+1. 1o to the Stock Reconciliation list, click on New.
+1. Select the Purpose as 'Opening Stock'. You can edit the posting Date and Time.
+1. Select Item Code, Warehouse, Quantity, and Valuation Rate. If there is a Serial / Batch No involved, add it.
+1. If you want to auto-generate Serial No / Batch No then keep those fields blank.
+1. For auto-generation of Serial No, you need to set "Serial Number Series" in the Item master.
+1. For auto-generation of Batch no, you need to enable "Automatically Create New Batch" checkbox in the item master.
+1. The Difference Account will be set as 'Temporary Opening'.
+1. Save and Submit.
 
-Opening Stock
+![image](images/image.jpg)
 
 Note: Maintain Stock option should be enabled in Item master for this to work.
 
@@ -51,7 +51,7 @@ The expense account in Difference Account will be set to 'Stock Adjustment' by d
 The Cost Center default will be 'Main', change if needed.
 Save and Submit.
 
-Stock Reconciliation
+![image](images/image.jpg)
 
 ## 3. Features
 
@@ -63,25 +63,25 @@ Download Template
 
 Open new Stock Reconciliation and click on Download button to download the template in CSV format.
 
-Stock Reconciliation
+![image](images/image.jpg)
 
 Enter Data in CSV Template.
 
 The CSV format is case-sensitive. Do not edit the headers which are pre-set in the template. In the Item Code and Warehouse column, enter exact Item Code and Warehouse as created in your CERP account. For quantity, enter the stock level you wish to set for that item, in a specific warehouse.
 
-Stock Reconciliation
+![image](images/image.jpg)
 
 Upload the CSV file with the data by clicking on 'Upload' button.
 
-Stock Reconciliation
+![image](images/image.jpg)
 
 Review, Save and Submit.
 
-Stock Reconciliation
+![image](images/image.jpg)
 
 Check Stock Ledger Report for updated stock balance.
 
-Stock Reconciliation
+![image](images/image.jpg)
 
 ### 3.2 Get Stock Balance and Valuation as of Specific Date and Time
 
@@ -118,13 +118,13 @@ For an Item, ITEM-00225 that has has the 6 serial nos HJF00020, HJF00021, HJF000
 
 Select the item ITEM-00225 in the stock reconciliation, on the selection of the Item the system will auto pull the existing serials nos. Then set Qty as 3, Valuation Rate as 530 and serial no as HJF00026, HJF00027, HJF00028.
 
-Stock Reconciliation
+![image](images/image.jpg)
 
 Before reconciliation, the valuation rate was 530 and the available qty was 6, so the total stock value was 3,180. After reconciliation, the valuation rate has changed to 620 and available qty changed to 3, so the new stock value becomes 1,860. To adjust the stock value in the accounting, the system has credited extra amount 3,180 - 1,860 = 1,320 to Warehouse's account and debited to stock adjustment account. The GL entries for the above entry is as follows:
 
 To view GL entries, click on button View > Accounting Ledger
 
-Stock Reconciliation
+![image](images/image.jpg)
 
 The stock balance after submission of the stock reconciliation: Stock Reconciliation
 
@@ -134,7 +134,7 @@ The general ledger for the warehouse account Nagpur after submission of the stoc
 
 Stock reconciliation for batch items will be used to add a new batch or to update the quantity of the existing batch. For example, the batch JHGJH00003 has the current quantity as 60 but if the user wants to make it 100 then by using stock reconciliation, user can update the batch quantity.
 
-Stock Reconciliation
+![image](images/image.jpg)
 
 Batch-Wise Balance History report after submission of the stock reconciliation: Stock Reconciliation
 

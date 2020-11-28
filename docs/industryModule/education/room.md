@@ -20,10 +20,10 @@ Home > Education > Masters > Room
 1. Add the Room Number for the selected room.
 1. Enter the Seating capacity for the room.
 
-~~Room~~
+![image](images/image.jpg)
 
 ## 2. Other Actions
 
 A Room can be further linked to a Course Schedule.
 
-~~Room~~
+![image](images/image.jpg)

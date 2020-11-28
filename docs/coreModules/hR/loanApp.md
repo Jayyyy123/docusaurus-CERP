@@ -12,7 +12,7 @@ Introduced in Version 13
 
 During a loan process, the first step a customer or employee has to do is submit a Loan Application for review. In case of a secured loan, a Loan Application can also contain proposed loan securities.
 
-~~Make Loan Application~~
+![image](images/image.jpg)
 
 To access the Loan Application list, go to:
 
@@ -20,7 +20,7 @@ To access the Loan Application list, go to:
 Home > Loan Management > Loan > Loan Application
 :::
 
-~~Loan Application~~
+![image](images/image.jpg)
 
 ## 1. Prerequisites
 
@@ -48,10 +48,10 @@ Before creating and using a Loan Security, it is advised that you create the fol
 
 1. A Loan Security Pledge based on the proposed securities can be created from the Loan Application itself via Create button on the top right. This Loan Security Pledge can then be pledged against a loan as an initial Loan Security Pledge.
 
-~~Loan Application~~
+![image](images/image.jpg)
 
 ### 3.2 Submitting the Loan Application
 
 Once a Loan Application is submitted and approved, you can create a Loan from the Loan Application using the Create button and all the required details from the Loan Application will be automatically mapped in the loan.
 
-~~Loan Application~~
+![image](images/image.jpg)

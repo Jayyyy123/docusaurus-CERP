@@ -38,4 +38,4 @@ You can specify the confirmation email and welcome email template for the email 
 
 Confirmation Email Template: This email template is used to replace the default template sent for newsletter subscription. The confirmation email generated via this template is sent when someone subscribes to the Email Group Website. Welcome Email Template: Whenever a subscriber is added to an email group after confirmation, the email template set here will be sent to them.
 
-~~Email Group Templates~~
+![image](images/image.jpg)

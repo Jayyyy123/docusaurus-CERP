@@ -8,7 +8,7 @@ sidebar_label: Student Group
 
 For example, if a group of students studying the same program together will be called a student batch, then from within this group, the cluster of students who have taken up the same elective course will be called a Student Group.
 
-~~Student Group~~
+![image](images/image.jpg)
 
 To access Student Group, go to:
 :::note
@@ -34,7 +34,7 @@ Before creating a Student group, it is advisable that you first create the follo
    - Activity: You can select this option when you want to create a group of students for certain activities happening in the school.
    - Student Group Name: Enter the name of the student group.
 1. Save.
-   ~~Student Group~~
+   ![image](images/image.jpg)
 
 ### 2.1. Additional Options while creating a Student Group
 
@@ -45,7 +45,7 @@ Apart from the above mandatory options, the following fields should also be fill
 - Batch: Select the Batch based on which you would want to fetch the list of students for the student group.
 - Max Strength: Enter the Maximum number of students that can be a part of this Student Group. If the number of selected students in the group is more than the Max Strength, the system will not allow you to save this group and an error will be shown.
 
-~~Student Group~~
+![image](images/image.jpg)
 
 Student Category: If you want the students of a specific category to be a part of this group, you can select that.
 
@@ -63,7 +63,7 @@ Note: You have to select the students Manually for an Activity-Based group as th
 
 Instructors: Select the Instructors who will be teaching or mentoring this particular group of students.
 
-~~Student Group~~
+![image](images/image.jpg)
 
 ## 3. After creating a Student Group
 
@@ -74,10 +74,10 @@ Once the student group has been created and saved, the following can be created 
 - Assessment Plan: You will be redirected to Assessment Plan list, where all the assessment plan for your student group will be listed and you will also be allowed to create a New - - Assessment Plan for the group.
 - Update Email Group: Once you select this option if the Email Ids of the Students in this group will be added to the Email Group and you will be able to send newsletters to all the subscribers in this Student Group.
 
-~~Student Group~~
+![image](images/image.jpg)
 
 Newsletters: You will be able to send Newsletters to all the subscribers from within the student group with this option.
 
-~~Student Group~~
+![image](images/image.jpg)
 
 ## 4. Video

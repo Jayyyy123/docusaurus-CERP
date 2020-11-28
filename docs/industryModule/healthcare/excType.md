@@ -25,22 +25,22 @@ Home > Healthcare > Rehabilitation and Physiotherapy > Exercise Type
 1. You can also select the Body Parts for which the Exercise will be prescribed. This linking will help you add exercises automatically to a Therapy Type.
 1. Save.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ## 2. Features
 
 @@@ 2.1 Add Exercise Steps
 You can attach a document for Exercise Instructions or also create a Video document and link it in Exercise Type.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 You can also add instructions with images and descriptions for detailed demonstrations using the Add button under the "Exercise Steps" section.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 Click on the edit button on each card to edit the content.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ## 3. Related Topics
 

@@ -14,7 +14,7 @@ To access Bank Account, go to:
 Home > Accounting > Bank Statement > Bank Account
 :::
 
-~~Bank Account~~
+![image](images/image.jpg)
 
 ## 1. Prerequisites
 

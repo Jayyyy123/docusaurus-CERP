@@ -12,34 +12,33 @@ Goods sold being returned happens commonly in business. They could be returned b
 
 Before creating and using a Sales Return, it is advised that you create the following first:
 
-Item
-Sales Invoice
+- Item
+- Sales Invoice
 
 Or
 
-Delivery Note
+- Delivery Note
 
 ## 2. How to create a Sales Return
 
 First open the original Delivery Note / Sales Invoice, against which Customer returned the Items.
 
-Original Delivery Note
-
+![image](images/image.jpg)
 Then click on 'Create > Sales Return', it will open a new Delivery Note with 'Is Return' checked, Items, Rate, and taxes will negative numbers.
 
-Return Against Delivery Note
+![image](images/image.jpg)
 
 You can also create the return entry against the original Sales Invoice, to return stock along with credit note, check "Update Stock" option in Return Sales Invoice.
 
-Return Against Sales Invoice
+![image](images/image.jpg)
 
 On submission of Return Delivery Note / Sales Invoice, the system will increase stock balance in the mentioned Warehouse. To maintain correct stock valuation, stock balance will go up according to the original purchase rate of the returned items.
 
-Return Stock Ledger
+![image](images/image.jpg)
 
 In case of Return Sales Invoice, Customer account will be credited and associated income and tax account will be debited as shown in the Accounting Ledger.
 
-Return Stock Ledger
+![image](images/image.jpg)
 
 If Perpetual Inventory is enabled, the system will also post accounting entry against warehouse account to sync warehouse account balance with stock balance as per Stock Ledger.
 

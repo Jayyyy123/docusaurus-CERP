@@ -12,7 +12,7 @@ Finance Book is not a mandatory setup. But if you choose to create multiple Fina
 
 Many a times, for fixed asset depreciation, a Company may use different depreciation methods (Straight Line / Written Down Value / Double Declining Balance) for different finance books. You can set up different depreciation schedules for each Finance Book. Then, automatic depreciations will booked against that Finance Book according to the schedule.
 
-~~Finance Book~~
+![image](images/image.jpg)
 
 ## Related Topics 
 1. Cost Center

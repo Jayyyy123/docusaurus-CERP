@@ -9,11 +9,11 @@ To access the Manufacturing Dashboard, go to:
 Home > Customization > Dashboard > Manufacturing
 :::
 
-~~Manufacturing Dashboard~~
+![image](images/image.jpg)
 
 ### Number Cards
 
-~~Number Cards~~
+![image](images/image.jpg)
 
 - Monthly Total Work Order :- You will get the total count of Work Orders which are in Open, In Progress, and Completed state. The Work Orders created one month before the current date will be displayed in the number card.
 - Monthly Completed Work Order :- The user will get the total count of Work Orders which are in the Completed state. The Work Orders created one month before the current date will be displayed in the number card.
@@ -34,7 +34,7 @@ The chart will give the information about the total quantity produced (using Wor
 
 The chart will give information about the total number of operations completed in the last year on Quarterly basis. Users can also view the chart data based on Daily, Weekly, Monthly, Yearly basis.
 
-~~Work Order & Quality Inspction Analysis~~
+![image](images/image.jpg)
 
 ### Work Order Analysis
 
@@ -44,7 +44,7 @@ This chart will give the information about the number of Work Orders based on No
 
 This chart will give information about the number of Quality Inspections based on Accepted and Rejected status. The chart type is a donut and it will provide the information based on the last year's quality inspection data. Your can change the date range by clicking on the Filter button.
 
-~~Pending Work Order & Downtime Analysis~~
+![image](images/image.jpg)
 
 ### Pending Work Orders
 
@@ -54,13 +54,13 @@ The chart will give information about the number of Work Orders that are pending
 
 The chart will give information about the total number of minutes a machine was not working in the last month. This helps the operator to know which machine has not performed well and requires maintenance.
 
-~~Work Order Quantity Analysis~~
+![image](images/image.jpg)
 
 ### Work Order Quantity Analysis
 
 The chart will give information about the total number of quantities that are Pending and Completed based on the Work Orders every month for the last year.
 
-~~Job Card Analysis~~
+![image](images/image.jpg)
 
 ### Job Card Analysis
 

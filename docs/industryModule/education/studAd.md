@@ -27,7 +27,7 @@ Before creating a Student Admission, it is advisable that you first create the f
 
 Once the Student Admission has been saved, you will be bale to see a link on the left sidebar, saying See on Website. This link will allow you to see the Student Admission Portal on CERP generated website.
 
-~~Student Admission~~
+![image](images/image.jpg)
 
 This is what the Student Admission will look like in the website view: Student Admission
 
@@ -39,7 +39,7 @@ This is what the Student Admission will look like in the website view: Student A
 - Admission End Date: Select the last date for applying to online Admission Process.
 - Publish on Website: Check this box when the content of the portal is ready and the Admission Process can be kickstarted on the website.
 
-~~Student Admission~~
+![image](images/image.jpg)
 
 ### 2.2. Eligibility And Details
 
@@ -50,4 +50,4 @@ This is what the Student Admission will look like in the website view: Student A
 - Naming Series: Here you can define the Naming series based which the forms of the Admission Seekers will be named ond ordered.
 - Introduction: You can add a brief introductory information about the admission process so that it is better understood to the admission seekers.
 
-~~Student Admission~~
+![image](images/image.jpg)

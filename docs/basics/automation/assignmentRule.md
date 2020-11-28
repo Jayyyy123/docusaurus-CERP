@@ -37,11 +37,11 @@ To set up an automatic assignment:
     - Round Robin: Assign each document to a User in sequence.
     - Load Balancing: Assign new documents to the User who has the least number of assignments.
 
-    ~~Assignment Rule~~
+    ![image](images/image.jpg)
 
 6. Select the list of Users to whom this Assignment Rule will apply.
 
-    ~~Assign~~
+    ![image](images/image.jpg)
 
 7. Save.
 
@@ -59,7 +59,7 @@ Here is an example of an Assignment Rule.
 
 Set Document Type, Descriptions and Conditions.
 
-~~Assign~~
+![image](images/image.jpg)
 
 ## 2. Related Topics
 

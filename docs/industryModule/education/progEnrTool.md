@@ -26,14 +26,14 @@ Once you click on the Get Students button, the system will fetch the list of all
 
 If the student list is fetched from the Student Applicant list, you can enter a New Student BAtch Name under which all the New Students will be enrolled.
 
-~~Student Enrollment Tool~~
+![image](images/image.jpg)
 
 If the student list is fetched from the existing Program Enrollment, you will be asked to enter the details of the new Program like Program Name, Academic Year, Academic Term and New Student Batch.
 
-~~Student Enrollment Tool~~
+![image](images/image.jpg)
 
 Once all the details have been entered, click on Enroll Students to create Program Enrollment in bulk.
 
-~~Student Enrollment Tool~~
+![image](images/image.jpg)
 
 ## 2. Video Tutorial for Program Enrollment Tool

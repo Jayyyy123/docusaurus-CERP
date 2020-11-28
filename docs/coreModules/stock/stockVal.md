@@ -11,4 +11,4 @@ To view the report, go to:
 :::note
 Home > Stock > Other Reports > Stock and Account Value Comparison
 :::
-Stock Report
+![image](images/image.jpg)

@@ -18,15 +18,15 @@ Home > CRM > Sales Pipeline > Opportunity
 Go to the Opportunity list and click on New.
 In 'Opportunity From', select Lead if opportunity is from a lead.
 
-~~Opportunity~~
+![image](images/image.jpg)
 
 You can also go to an “Open” Lead and select “Opportunity” from the Make dropdown as shown below.
 
-~~Opportunity~~
+![image](images/image.jpg)
 
 In 'Opportunity From', select Customer if opportunity is from a customer.
 
-~~Opportunity~~
+![image](images/image.jpg)
 
 Select Opportunity Type. This indicates the broad category of opportunity like Sales, Support, Maintenance etc.
 
@@ -56,13 +56,13 @@ If you do not receive a response from an opportunity for a certain number of day
 
 You can set the number of days in Selling Settings.
 
-~~Opportunity~~
+![image](images/image.jpg)
 
 ### 2.4 Create a Quotation
 
 You can create a Quotation from the Make dropdown. Relevant field values will be copied over.
 
-~~Opportunity~~
+![image](images/image.jpg)
 
 ### 2.5 Create a Supplier Quotation
 
@@ -74,7 +74,7 @@ Best Practice: Leads and Opportunities are often referred as your “Sales Pipel
 
 When an opportunity is lost, you can capture the reasons for losing. This will help you to analyse the trends over a long period of time and identify the insights needed for improvements at various areas in the organisation.
 
-~~Quotation Lost Reason~~
+![image](images/image.jpg)
 
 ### 2.7 Minutes to First Response
 

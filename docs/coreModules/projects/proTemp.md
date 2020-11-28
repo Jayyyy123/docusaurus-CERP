@@ -12,7 +12,7 @@ To access Project Template, go to:
 :::note
 Home > Projects > Projects > Project Template
 :::
-~~Project Template~~
+![image](images/image.jpg)
 
 ## 1. How to Create A New Project Template:
 

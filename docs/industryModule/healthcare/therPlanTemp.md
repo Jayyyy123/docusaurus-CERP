@@ -25,7 +25,7 @@ Home > Healthcare > Rehabilitation and Physiotherapy > Therapy Plan Template
 1. The Total Sessions and Total Amount is calculated and set in the fields respectively.
 1. Save.
 
-~~Therapy Plan Template~~
+![image](images/image.jpg)
 
 ## 2. Related Topics
 

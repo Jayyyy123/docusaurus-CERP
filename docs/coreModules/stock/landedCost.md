@@ -38,13 +38,13 @@ Select whether Distribute Charges Based On should be on quantity or Amount.
 Enter the Expense Account and the Amount for Additional Costs in the Taxes and Charges table. The amount will be distributed equally based on the quantity or amount as per your selection.
 Save and Submit.
 
-Landed Cost Voucher
+![image](images/image.jpg)
 
 In the document, you can select multiple Purchase Receipts/Invoices and fetch all items from those Purchase Receipts. Then you should add applicable charges in “Taxes and Charges” table. You can easily delete an item if the added charges do not apply to that item.
 
 The added charges are proportionately distributed among all the items based their amount or quantity. If you selected based on the amount, the Item with the highest amount will be allocated the highest proportion of the charges. In case of quantity, Item with the highest quantity will be allocated most of the charges and the other Items will be allocated lesser amounts. This is shown in the following screenshot:
 
-Landed Cost Voucher
+![image](images/image.jpg)
 
 ## 3. Related Actions 
 ### 3.1 Adding Landed Cost in the Purchase Receipt itself 
@@ -58,5 +58,5 @@ Valuation Rate of items is recalculated based on new landed cost.
 If you are using “Perpetual Inventory”, the system will post general ledger entries to correct Stock-in-Hand balance. It will debit (increase) corresponding “warehouse account” and credit (decrease) Expense Account mentioned in Taxes and Charges table. If items are already delivered, the Cost-of-Goods-Sold (CoGS) value has been booked as per the old valuation rate. Hence, general ledger entries are reposted for all future outgoing entries of associated items, to correct CoGS value.
 
 ## 4. Related Topics 
-Delivery Trip
-Purchase Receipt
+1. Delivery Trip
+1. Purchase Receipt

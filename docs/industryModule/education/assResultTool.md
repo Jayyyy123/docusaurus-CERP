@@ -8,7 +8,7 @@ sidebar_label: Assessment Result Tool
 
 Also, Columns for Assessment Criteria will be where marks earned can be entered for each Student.
 
-~~Assessment Result Tool~~
+![image](images/image.jpg)
 
 As you go on entering marks for a Student, and switch to the next student, in the backend, Student Result record will be auto-created for that Student.
 

@@ -6,7 +6,7 @@ sidebar_label: Request for Quotation
 
 **A Request for Quotation is a document that an organization sends to one or more suppliers asking a quotation for items.**
 
-~~Buying Flow~~
+![image](images/image.jpg)
 
 To access Request for Quotation, go to:
 :::note

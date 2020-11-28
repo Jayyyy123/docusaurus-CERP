@@ -18,7 +18,7 @@ Home > Education > Attendance > Student Attendance
 
 Select the Student, Course Schedule, and Student Group for which attendance is to be marked for the given date. Set the Status to Present/Absent and save.
 
-~~Student Attendance~~
+![image](images/image.jpg)
 
 Student Attendance tool can be used for bulk updation of the attendance based on Batch, Course, or Activity.
 

@@ -8,8 +8,7 @@ sidebar_label: Project Type
 
 Internal Projects, External Projects could be examples of Project types and are already created in the system. You can choose to add more Project Types. This comes handy when you are reviewing the Projects, and you want to filter the information based on Project Types.
 
-~~Project Template~~
-
+![image](images/image.jpg)
 To access Project Type, go to:
 ::: note
 Home > Projects > Projects > Project Type

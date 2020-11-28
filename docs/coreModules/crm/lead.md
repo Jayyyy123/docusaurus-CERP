@@ -42,7 +42,7 @@ Home > CRM > Sales Pipeline > Lead
 1. Enter email ID for communication.
 1. Click on 'Save'.
 
-~~Lead~~
+![image](images/image.jpg)
 
 You can also record the details of the conversation in the NOTES section.
 

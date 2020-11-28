@@ -49,13 +49,13 @@ Before creating and using a BOM, it is advised that you create the following fir
 
 In the Items table, you'll see an option 'Include Item in Manufacturing'. Raw Materials need to have this checkbox ticked. In case there are Operations or services you need to include in the BOM that are not necessarily an Item used for manufacturing, uncheck this checkbox. For example, treating the plastic with a chemical involves some cost but it is not an Item and the cost needs to be tracked.
 
-~~Task~~
+![image](images/image.jpg)
 
 ### 2.1 Bill of Materials with Operations
 
 To add Operations tick the 'With Operations' checkbox. Now, an Operations table can be seen. This option is useful for tracking the costing of various Operations performed to manufacture the Item. Operations can be added easily by setting a template with the Routing master.
 
-~~Task~~
+![image](images/image.jpg)
 
 In the “Operations” table, add the operations that need to be performed to manufacture this particular Item.
 For each operation, you will be asked to enter a Workstation where the Operation will be performed. A default Workstation can be set from the Operation document.
@@ -63,8 +63,7 @@ Enter the Operating Hourly Rate, Operation Time in minutes, and the Batch Size c
 Note: Workstations are defined only for product costing and Work Order Operations scheduling purposes not tracking inventory. Inventory is tracked in Warehouses set in the Items table of the BOM.
 
 Transfer Material Against needs to be set for a BOM With Operations. Materials can be transferred against a Work Order in bulk or individual Job Cards. Changing this affects whether the 'Material Transfer for Manufacture' is done against the Work Order at once or multiple times against the individual Job Cards. Setting this option depends on factors like time taken to manufacture the item, value of the items manufactured, number of parts used in manufacturing, the skill of your labor involved, etc.
-
-~~BOM transfer materials against~~
+![image](images/image.jpg)
 
 ### 2.2 Additional options when creating a Bill of Materials
 
@@ -89,11 +88,10 @@ The Costing section in a BOM gives an approximate cost of manufacturing the Item
 
 The costing is calculated from the Valuation Rate of the raw materials/sub-assemblies involved and the Operation costs.
 
-~~Costing~~
+![image](images/image.jpg)
 
 In case the BOM was submitted when the costs for Items/Operations were not updated, you can update the costs using the Update Cost button. This will fetch the latest price/costs.
-
-~~Update Cost~~
+![image](images/image.jpg)
 
 The BOM cost can also be set to be updated automatically via Manufacturing Settings, 'Update BOM Cost Automatically' option.
 
@@ -103,7 +101,7 @@ This table lists down all the raw materials required to manufacture an Item. It 
 
 For example, to manufacture a plastic shaving brush you need some raw materials and the bristles as a sub-assembly. For the handle, you manufacture your own plastic, but for the bristles, you use raw plastic crystals.
 
-~~Exploded Section~~
+![image](images/image.jpg)
 
 ### 3.3 Project and Website
 
@@ -113,21 +111,21 @@ The BOM can also be shown in the Website for Open-source hardware products. Open
 
 ### 3.4 BOM Template
 
-~~BOM Template~~
+![image](images/image.jpg)
 
 With BOM template you can create BOMs for template items (against which you create variant items). These BOMs can be used as the default BOM while making Work Orders against the template Item's variants. You can also add the template items as raw materials in the template BOM. While making Work Order from the BOM Template, CERP gives provision to select the Item Variant against the template Item, for more details check following screenshot.
 
-~~Variant Selection~~
+![image](images/image.jpg)
 
 The user can also make the BOM for the variant item using the template BOM. To make the variant BOM: 1. Go to the BOM Template. 2. Click on Create button. 3. Click on Variant BOM. 4. Select the Variant Item for which you want to make the BOM. 5. If the raw materials in the BOM is a template Item, then system gives provision to select the Item Variant.
 
-~~Variant BOM~~
+![image](images/image.jpg)
 
 ### 3.5 After Submitting
 
 Once the BOM is submitted, the following document types can be created against the BOM from the Dashboard:
 
-~~BOM submit~~
+![image](images/image.jpg)
 
 ## 4. Video
 

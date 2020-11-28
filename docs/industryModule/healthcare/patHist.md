@@ -14,7 +14,7 @@ Home > Healthcare > Records and History > Patient History
 :::
 View > Patient History button is available in all forms which Healthcare Practitioners use so that they can easily switch to the "Patient History" page to view the patient history.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ### Adding Medical Records Manually
 
@@ -22,4 +22,4 @@ Medical Record automatically keeps track of all Complaints, Diagnosis and other 
 
 In the Patient document, Create > Medical Record will allow you to record notes manually. You can also attach files when doing this, and the Medical Record will display links to the attached file alongside the notes. It's also possible to add Medical Records from the Patient Encounter.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)

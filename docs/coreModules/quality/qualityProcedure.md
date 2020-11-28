@@ -28,7 +28,7 @@ Home > Quality > Goal and Procedure > Quality Procedure
 
 The 'Parent Procedure' is linked to the child procedure. For example 'Demo preparation' needs to be done before a demo and hence 'Product Demo' is the parent here:
 
-~~Parent Procedure~~
+![image](images/image.jpg)
 
 ## 2. Features
 
@@ -36,19 +36,19 @@ The 'Parent Procedure' is linked to the child procedure. For example 'Demo prepa
 
 Once a Quality Procedure is created, it can be used in a Quality Goal:
 
-~~Quality management~~
+![image](images/image.jpg)
 
 ### 2.2 Sub Procedures
 
 Process can either be just a instruction or a different Quality Procedure. You can link a Quality Procedure as a sub-procedure to another one: 
 
-~~Quality management~~
+![image](images/image.jpg)
 
 ### 2.3 Hierarchical View
 
 You can you also view Quality Procedures in a tree view for easy organization and navigation
 
-~~Quality Procedure Tree~~
+![image](images/image.jpg)
 
 ## 2. Related Topics
 

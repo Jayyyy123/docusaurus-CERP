@@ -8,6 +8,6 @@ sidebar_label: Assessment Result
 
 An Assessment Result is created in the backend based on the marks entered in the Assessment Result Tool.
 
-~~Assessment Result~~
+![image](images/image.jpg)
 
 ## Video Tutorial on Assessment Result 

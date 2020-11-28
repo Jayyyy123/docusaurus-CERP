@@ -19,7 +19,7 @@ Home > Sales Pipeline > Contract
 1. Choose the Customer.
 1. Enter the Contract Terms. A template can also be created for easily fetching the terms.
 1. Save.
-   ~~Contract~~
+  ![image](images/image.jpg)
    Party User: The employee from your Company who is in contact with the Customer.
 
 ### 1.1 Statuses
@@ -38,7 +38,7 @@ The Start and End date within which the Contract is valid.
 
 This section will appear when the 'Signed' checkbox is ticked to indicate that the Customer has signed and accepted the Contract.
 
-~~Contract Signee~~
+![image](images/image.jpg)
 
 Signee: Enter the name of the person that has signed the Contract.
 Signed On: The date on which the Contract was signed.
@@ -51,7 +51,7 @@ Enter the terms of the Contract in the Contract Terms field. You can create a Co
 
 If the Contract requires some fulfilment from the Supplier's (your) end, their details can be recorded in the Fulfilment Terms table.
 
-~~Contract Fulfilment~~
+![image](images/image.jpg)
 
 Requirement: Enter a requirement that needs to be fulfiled. For example, 'installation'.
 Notes: Any notes about the requirement can be entered here.

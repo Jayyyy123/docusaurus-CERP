@@ -14,7 +14,7 @@ There are various settings available in the HR Settings.
 
 ## 1. Employee Settings
 
-~~Previous Work Experience~~
+![image](images/image.jpg)
 
 ### 1.1. Retirement Age:
 
@@ -38,7 +38,7 @@ In Expense Claim Document the 'Expense Approver' field is set to mandatory on ch
 
 ## 2. Payroll Settings
 
-~~Previous Work Experience~~
+![image](images/image.jpg)
 
 ### 2.1 Calculate Payroll Working Days Based On
 
@@ -81,7 +81,7 @@ Example:
 
 ## 3. Leave Settings
 
-~~Previous Work Experience~~
+![image](images/image.jpg)
 
 ### 3.1 Leave Approval Notification Template
 

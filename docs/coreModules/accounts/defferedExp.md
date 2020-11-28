@@ -26,13 +26,13 @@ Other examples of Deferred Expenses are:
 
 In the Item master, under Deferred Expense section, check field Enable Deferred Expense. In this section, you can also select a Deferred Expense account (Asset Account, preferably Current Asset) for this particular item and no. of months.
 
-~~Item - Deferred Revenue~~
+![image](images/image.jpg)
 
 ### 1.2 Purchase Invoice
 
 On creation of Purchase Invoice for the Deferred Expense Item, instead of posting in the Expense Account, Deferred Expense account (Asset account) is Credited by the purchase amount. Let's consider a simple example of an Internet subscription here:
 
-~~Item - Deferred Revenue~~
+![image](images/image.jpg)
 
 ### 1.3 Journal Entry
 

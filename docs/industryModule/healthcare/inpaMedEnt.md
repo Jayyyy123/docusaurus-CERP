@@ -39,19 +39,19 @@ After setting the filters, click on the Get Pending Medication Orders button to 
 
 Optionally, check/uncheck Update Stock. If checked, specify the Warehouse from where drugs should be consumed.
 
-~~IPMO-PE~~
+![image](images/image.jpg)
 
 ### 2.2 On Submission of Inpatient Medication Entry
 
 The corresponding Inpatient Medication Order Entries are marked as completed.
 
-~~IPMO-PE~~
+![image](images/image.jpg)
 
 If Update Stock is checked, then stock validations are made and orders are processed to make Stock Entry with references updated against each entry. You can check the references for Inpatient Medication Entry in the Stock Entry, and in Stock Entry Detail table for the Patient and corresponding Entry.
 
-~~IPMO-PE~~
+![image](images/image.jpg)
 
-~~IPMO-PE~~
+![image](images/image.jpg)
 
 ### 2.3 On Cancellation of Inpatient Medication Entry
 

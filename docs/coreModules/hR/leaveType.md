@@ -20,7 +20,7 @@ Home > Human Resources > Leaves > Leave Type
 1. Enter Max Leaves Allowed, Applicable After (Working Days), Maximum Continuous Days Applicable (optional).
 1. Save.
 
-~~New Leave Type~~
+![image](images/image.jpg)
 
 Below is a detailed explanation of all the fields and checkboxes in Leave Type.
 
@@ -50,7 +50,7 @@ It is possible that Employees can receive cash from their Employer for unused le
 
 Note: Leave encashment is allowed only in the last month of the Leave Period.
 
-~~Leave Encashment~~
+![image](images/image.jpg)
 
 - Encashment Threshold Days: This field indicates the number of leave days the Employees won't be able to encash. Above the mentioned days, the Employee is eligible to encash leaves.
 
@@ -66,7 +66,7 @@ Earned Leaves are leaves earned by an Employee after working with the company fo
 
 For example, an Employee is allotted 24 Privilege Leaves in a year, wherein the Privilege Leave is set as Earned Leave with Monthly allotment. In this case, the Employee will earn 2 (24 leaves/12 months) Privilege Leaves at the end of every month. The leave allotment process (background job) will only allot leaves considering the max leaves for the leave type and will round to 'Rounding' for fractions.
 
-~~Earned Leave~~
+![image](images/image.jpg)
 
 Note: The initial allocation of this Leave Tye will be 0. Leaves will be updated at the end of the Month (or as per the 'Earned Leave Frequency' set).
 

@@ -20,7 +20,7 @@ Home > Healthcare > Consultation Setup > Clinical Procedure Template
 1. Check "Is Billable" if you want to bill the procedure like a Knee Surgery. If you check this, set a rate for the Procedure. You may not want to bill procedures like Wound Cleaning.
 1. Save.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ## 2. Features
 
@@ -28,7 +28,7 @@ Home > Healthcare > Consultation Setup > Clinical Procedure Template
 
 Templates allow you to manage the billable Item, rate, etc. for a particular procedure. The system automatically creates an Item linked to the template when it is saved.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 You can change the Item Code linked to the Procedure if needed using the Change Item Code button.
 
@@ -36,19 +36,19 @@ You can change the Item Code linked to the Procedure if needed using the Change 
 
 The Consumables section lets you set the consumable Stock Items with default quantities etc. which will be needed during the Procedure so that these items will be preloaded in the Clinical Procedures created based on the template. This allows the performing practitioner to easily input the consumed quantities or add additional items that have been consumed during the actual procedure.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ### 2.3 Invoice Consumables Separately
 
 If the "Invoice Consumables Separately" option is checked, the charges for the consumable Items will be added to the Sales Invoice separately in addition to the "Billing Rate" of the procedure.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ### 2.4 Configure Sample Collection
 
 Note that you can also enable "Sample Collection" for a Clinical Procedure if applicable.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 :::note
 This Form has been Changed in Version 13
 :::

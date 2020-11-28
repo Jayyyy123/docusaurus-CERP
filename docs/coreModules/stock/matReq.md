@@ -14,7 +14,7 @@ A Material Request can have the following purposes:
 - Manufacture: If the material being requested is to be produced.
 - Customer Provided: If the material being requested is to be provided by Customer. To know more about this, visit the Customer Provided Item page.
 
-~~Material Request~~
+![image](images/image.jpg)
 
 To access the Material Request list, go to:
 

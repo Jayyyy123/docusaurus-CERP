@@ -24,7 +24,7 @@ Home > Healthcare > Rehabilitation and Physiotherapy > Patient Assessment Templa
 1. You can optionally add some Assessment Descriptions and instructions about the scoring rules.
 1. Save.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ## 3. Related Topics
 

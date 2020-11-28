@@ -26,7 +26,7 @@ Before creating an Employee Promotion, it is advisable that you create the follo
 1. Enter the Promotion Date.
    In the Employee Promotion Detail table, select the Property and set the Current and New value.
 
-~~Employee Promotion~~
+![image](images/image.jpg)
 
 Note: Promotion document can be submitted on or after Promotion Date. Once submitted all the changes added to Promotion Details table will be applied to the Employee. CERP also keeps a record of all promotions of the Employee in the Employment History table in Employee document.
 

@@ -8,11 +8,11 @@ sidebar_label: Topic
 
 For example, under the program Economics Major, the course Mathematical Methods in Economics would be course whereas, within the course 'Linear Algebra' would be a topic.
 
-~~Topic~~
+![image](images/image.jpg)
 
 The content of the topic could be in the form of an article, a video or a quiz.
 
-~~Topic~~
+![image](images/image.jpg)
 
 To access the Topic list, go to:
 :::note
@@ -34,4 +34,4 @@ Before creating a New Topic, it is advisable that you create the following first
 1. Select the Content for the Topic. You can create a New Article, Video or a Quiz from here itself.
 1. Optionally add a description and Save.
 
-~~Topic~~
+![image](images/image.jpg)

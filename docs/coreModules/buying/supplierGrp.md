@@ -29,7 +29,7 @@ Before creating and using a Supplier Group, it is advised that you create the fo
 1. Ticking the Is Group checkbox will make it a Parent Supplier Group.
 1. You can also assign a default Payment Terms Template to the Supplier Group. Useful in a case where all your hardware suppliers take half payment on sales order and half post shipment.
 1. Save.
-   ~~Supplier Group~~
+   ![image](images/image.jpg)
 
 You can classify your suppliers from a range of choices available in CERP. Choose from a set of given options like Distributor, Electrical, Hardware, Local, Pharmaceutical, Raw Material, Services etc. Classifying your supplier into different types facilitates accounting and payments.
 
@@ -39,7 +39,7 @@ You can also construct Supplier Group in the form of a tree hierarchy, similar t
 
 To view the Tree structure, click on Tree from the sidebar. To go back to the list view, simply select: Menu > View List.
 
-~~Supplier Group~~
+![image](images/image.jpg)
 
 With the new User Permissions in place, you can now apply hierarchy based permissions. That is, if a User is permitted to view parent node of Supplier Group, he/she automatically qualifies to view the child nodes of that parent node.
 

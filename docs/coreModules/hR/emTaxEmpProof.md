@@ -26,7 +26,7 @@ The details are already fetched if you click on 'Submit Proof' from Employee Tax
 1. Enter House Rent Payment Amount, Rented From Date and Rented To Date.
 1. Save and Submit.
 
-~~Employee Tax Exemption Proof Submission~~
+![image](images/image.jpg)
 
 The Total Exemption Amount will be exempted from annual taxable earnings of the employee while calculating the tax deductions in the last payroll.
 :::note

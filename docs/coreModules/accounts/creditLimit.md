@@ -17,7 +17,7 @@ The user can make a Credit Note against the Sales Invoice or they can directly m
 1. If the Customer had paid partially or fully, make a Payment Entry against the original Sales Invoice.
 1. Save and Submit.
 
-~~Sales Invoice~~
+![image](images/image.jpg)
 
 The Item quantity and Payment amount will be negative since it's a return.
 
@@ -39,7 +39,7 @@ Customer Rohan had purchased PVC pipes worth Rs 300 + taxes and at the time of d
 
 Credit Note with payment entry in CERP for above example is as below:
 
-~~Sales Invoice~~
+![image](images/image.jpg)
 
 ## 3. Related Topics
 

@@ -20,7 +20,7 @@ Or
 1. Select the Price List whether Selling/Buying price or any other price list you may have created.
 1. Enter the actual rate in the Rate field.
 1. Save.
-   ~~Item Price list~~
+   ![image](images/image.jpg)
 
 ### 1.1 Selecting the Price List
 

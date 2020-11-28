@@ -8,13 +8,13 @@ sidebar_label: Asset Reports
 
 This report shows the Purchase Amount, Depreciated Amount and accumulated total depreciation for all the assets under the selected date range. It also shows the current value and current depreciation status of the Asset.
 
-~~Asset Depreciation Ledger~~
+![image](images/image.jpg)
 
 ### Asset Depreciations and Balances
 
 This report shows the cost of purchase, selling, and scrapping all assets based on Asset Category. The report also shows the depreciation details based on the selected period and the net value of the asset category.
 
-~~Asset Depreciations and Balances~~
+![image](images/image.jpg)
 
 ### Fixed Asset Register
 
@@ -26,4 +26,4 @@ Types of records based on depreciation:
 
 - \*\* Disposed: All the assets that are currently sold or scrapped come under this category.
 
-~~Asset~~
+![image](images/image.jpg)

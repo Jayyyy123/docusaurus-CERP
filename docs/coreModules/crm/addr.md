@@ -23,7 +23,7 @@ Enter Link DocType and Link Name to link this address to customer, supplier etc.
 Save. Contact
 You can also add an Address from the Customer or Supplier record by clicking on “New Address" button as shown below.
 
-~~Contact~~
+![image](images/image.jpg)
 
 To Import multiple addresses from a spreadsheet, use the Data Import Tool.
 
@@ -35,7 +35,7 @@ An address may be linked to multiple customers or multiple suppliers.
 
 An address can also be linked to customers and suppliers at the same time.
 
-~~Contact~~
+![image](images/image.jpg)
 
 ### 2.2 Address Title
 
@@ -43,7 +43,7 @@ If the address is not linked to any entity you need to manually add a title.
 
 If the address is linked to an entity like a customer or supplier, the title is generated automatically in 'Entity Name-Address Type' format.
 
-~~Contact~~
+![image](images/image.jpg)
 
 ### 2.3 Preferred Billing Address and Shipping Address
 
@@ -57,11 +57,11 @@ If the customer/supplier has registered for GST, enter Party GSTIN and GST State
 
 In sales transactions along with address, GSTIN is also fetched.
 
-~~Contact~~
+![image](images/image.jpg)
 
 You can also add addresses of your own company's facilities. Check 'Is Your Company Address', select Company in Link DocType, and Company Name in Link Name for such addresses and you can select them in GST Sales Invoice to print your own address.
 
-~~Contact~~
+![image](images/image.jpg)
 
 GSTIN is to be added in Address and not in Customer/Supplier, as one Customer/Supplier may have multiple GSTIN (one for each state where he conducts his business).
 

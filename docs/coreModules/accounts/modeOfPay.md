@@ -19,11 +19,11 @@ Home > Accounting > Settings > Mode of Payment
 1. Set a default payment Account for all the companies.
 1. Save.
 
-~~Mode of Payment~~
+![image](images/image.jpg)
 
 Tip: Setting the default Account will this account fetched into Payment Entries.
 
-~~Mode of Payment~~
+![image](images/image.jpg)
 
 :::note
 Note: When making Payment Entries, the default bank account will be fetched in the following order if set:

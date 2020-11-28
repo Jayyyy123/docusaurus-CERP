@@ -24,7 +24,7 @@ The basic information should be entered as such:
 - Planting UOM: Unit
 - Yield UOM: Grams
 
-Click Save
+![image](images/image.jpg)
 
 We will skip the Materials Required, Byproducts and Produce sections. In the Ideal Agriculture Task List we enter some planned tasks such as planting, watering, and harvesting. (Please note, our activity list will be intentionally abbreviated for illustraion purposes. For this example we will prepare our field, plant the next day, water only once, add a cover after germination on day 12, remove weeds at day 19, and harvest at day 90.
 
@@ -50,6 +50,6 @@ Click 'Save'
 
 You form should now look something like this
 
-~~Task~~
+![image](images/image.jpg)
 
 Repeat step 2 for as many crops as you need. You can save some time by duplicating existing crops and modifying only the necessary items

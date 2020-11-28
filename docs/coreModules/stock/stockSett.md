@@ -39,7 +39,7 @@ To fix this, you can check "Convert Item Description to Clean HTML" in Stock Set
 If you want to control your description, views, and allow any HTML to be embedded, you can uncheck this property.
 
 ## 6. Auto insert 
-Stock Settings
+![image](images/image.jpg)
 
 ### 6.1 Auto insert Price List rate if missing 
 Enabling this will insert an Item Price to the Price List of an Item automatically when using the Item in its first transaction. This price is fetched from the 'Rate' set in the first transaction with the Item. The Price List depends on whether you're using a Purchase or Sales transaction.
@@ -58,7 +58,7 @@ This will allow stock items to be displayed in negative values. Using this optio
 The quantity of items will be set according to the serial numbers. For example, if the user has added serial nos like A001, A002, and A003 then the system will set the quantity as 3 in the transaction.
 
 ## 9. Automatic Material Request 
-Stock Settings
+![image](images/image.jpg)
 
 ### 9.1 Raise Material Request when the stock reaches re-order level 
 This option is useful if you want to ensure a constant supply of raw materials/products and avoid shortage. A Material Request will be raised automatically when stock reached the re-order level defined in the Item form.
@@ -80,7 +80,7 @@ To know more about inter warehouse material transfer via Delivery Note and Purch
 ## 11. Freeze Stock Entries 
 The User will not be allowed to make stock postings beyond this date.
 
-Stock Settings
+![image](images/image.jpg)
 
 Stock Frozen Upto: A threshold date till which stocks will be frozen.
 Freeze Stocks Older Than [Days]: Stocks older than x days will be frozen. This is calculated based on the creation date of the item.

@@ -8,14 +8,14 @@ Some of the major accounting reports are:
 
 ## 1. Company and Accounts
 
-General Ledger
+![image](images/image.jpg)
 Go to: Accounts > Company and Accounts > General Ledger.
 
 The General Ledger is a detailed report for all transactions posted to each account and for every transaction there is a Credit and Debit account so it lists them all up.
 
 The report is based on the table GL Entry and can be filtered by many pre-defined filters like Account, Cost Centers, Party, Project and Period etc. This helps you to get a full update for all entries posted in a period against any account. The result can be grouped by Account, Voucher/Transaction and Party with opening and closing balances for each group. In case of multi-currency accounting, there is also an option to check the amounts in any other currency than company's base currency.
 
-General Ledger
+![image](images/image.jpg)
 
 ## 2. Accounting Statements
 
@@ -25,7 +25,7 @@ Go to: Accounts > Accounting Statements > Accounts Receivable.
 
 These reports help you to track the outstanding amount of Customers and Suppliers. It also provides ageing analysis i.e. a break-up of outstanding amount based on the period for which the amount is outstanding.
 
-~~Accounts Receivable~~
+![image](images/image.jpg)
 
 #### 2.1.1 Accounts Receivables based on Payment terms
 
@@ -33,11 +33,11 @@ You can also see Accounts Receivables based on Payment Terms.
 
 Accounts Receivable report based on payment terms can be seen by clicking the checkbox 'Based On Payment Terms' as shown in the following screenshot.
 
-~~Accounts Receivable~~
+![image](images/image.jpg)
 
 Outstanding amount against each payment term can be seen. Invoiced Amount shows each payment term amount and Paid Amount shows paid amount against each payment term. Payment against each term is allocated in FIFO order.
 
-~~Accounts Receivable~~
+![image](images/image.jpg)
 
 ### 2.2 Trial Balance
 
@@ -53,7 +53,7 @@ A Trial Balance is an accounting report which lists account balances for all you
 - Closing (Cr): Closing credit balance as on To Date
   There are some other options as well to include or exclude Period Closing Entries, show / hide accounts with zero balance and to show unclosed previous fiscal year's P&L (Income & Expenses) balances. All the figures in the report are shown in company's base currency.
 
-~~Trial Balance~~
+![image](images/image.jpg)
 
 ### 2.3 Balance Sheet
 
@@ -63,7 +63,7 @@ A Balance Sheet is the financial statement of a company which states assets, lia
 
 The Balance Sheet in CERP gives you more flexibility to analyse your financial position. You can run the report across multiple year to compare values. You can check values for a specific Finance Book or Cost Center. You can also choose any other currency to display the balances.
 
-~~Balance Sheet~~
+![image](images/image.jpg)
 
 ### 2.4 Cash Flow Statement
 
@@ -71,7 +71,7 @@ Go to: Accounts > Accounting Statements > Cash Flow.
 
 A Cash Flow is a financial statement which shows the incoming and outgoing of cash or cash-equivalents for a company. It is used to analyse the liquidity position of the company.
 
-~~Cash Flow Statement~~
+![image](images/image.jpg)
 
 ### 2.5 Profit and Loss Statement
 
@@ -81,7 +81,7 @@ A Profit and Loss Statement is a financial statement which summarizes all the re
 
 In CERP, you can run the report across multiple year / period to compare the values. You can also check values for a specific Finance Book, Project or Cost Center. You can also choose any other currency to display the balances. If you are running the report to see quarterly / monthly balances, you can choose whether you want to show accumulated balances or only for each period.
 
-~~Profit and Loss Statement~~
+![image](images/image.jpg)
 
 ### 2.6 Consolidated Financial Statements
 
@@ -89,7 +89,7 @@ Go to: Accounts > Accounting Statements > Consolidated Financial Statement.
 
 The report shows a consolidated view of Balance Sheet, Profit and Loss Statement and Cash Flow for a group company, by merging financial statements of all the subsidary companies. It shows balances for all individual company and as well as accumulated balances for a group company.
 
-~~Consolidated Financial Statement~~
+![image](images/image.jpg)
 
 ## 3. Taxes
 
@@ -99,7 +99,7 @@ Go to: Accounts > Taxes > Sales Register or Purchase Register.
 
 The Sales and Purchase Register report shows all the Sales and Purchase transactions for a given period with invoiced amount and tax details. In this report, each taxes has a separate column, so you can easily get total taxes collected / paid for a period for each individual tax type, which helps to pay the taxes to government.
 
-~~Sales Register~~
+![image](images/image.jpg)
 
 ## 4. Budget and Cost Center
 
@@ -109,7 +109,7 @@ Go to: Accounts > Budget and Cost Center > Budget Variance Report.
 
 In CERP, you can assign expense budget for an expense account against any specific cost center. This report gives a comparison between budgeted and actual expenses and the variance (the difference between the two) in monthly / quarterly / yearly view.
 
-~~Budget Variance~~
+![image](images/image.jpg)
 
 ## 5. Tax reports for India
 
@@ -119,7 +119,7 @@ Go to: Accounts > Goods and Services Tax (GST India) > GSTR-1.
 
 The GSTR-1 report helps Indian users to file monthly return of outward supplies. This report shows all the sales transactions of the company in Govt specified format. The output of the report is changed based on the selected type of business (B2B, B2C Large, B2C Small, CDNR and Export).
 
-~~GSTR-1~~
+![image](images/image.jpg)
 
 ### 5.2 GSTR-2 (India)
 
@@ -127,7 +127,7 @@ Go to: Accounts > Goods and Services Tax (GST India) > GSTR-2.
 
 The GSTR-2 report helps Indian users to file monthly return of inward supplies. The report gives the details of all inward supplies of goods or services received during a month, in Govt specified format.
 
-~~GSTR-2~~
+![image](images/image.jpg)
 
 ## 6. Analytics
 
@@ -137,11 +137,11 @@ Go to: Accounts > Analytics > Item-wise Sales Register or Item-wise Purchase Reg
 
 The Item Wise Sales and Purchase Register report shows all the Sales and Purchase transactions for a given period with item rate, quantity, amount and tax details. In this report, taxes has a separate column, so you can easily get individual taxes for each individual item. From this report you can have a look of which items are sold or purchase most.
 
-~~Item Wise Sales Register~~
+![image](images/image.jpg)
 
 More detailed analysis can also be done by using the 'Group By' filter which gives sales data for a specific Customer, Supplier, Territory, etc. You can find out which Item is more popular in which region or which Customer is buying which Item more.
 
-~~Group By Sales Register~~
+![image](images/image.jpg)
 
 ### 6.2 Sales or Purchase Invoice Trends
 
@@ -149,7 +149,7 @@ Go to: Accounts > Analytics > Sales Invoice Trends or Purchase Invoice Trends.
 
 Another very useful report is invoice trends, From this report you can easily get the trending items on monthly, quaterly, half yearly or yearly basis. You will get the idea of sales and purchase both in quantity and amount.
 
-~~Sales Invoice Trends~~
+![image](images/image.jpg)
 
 ## 7. To Bill
 
@@ -164,7 +164,7 @@ Another very useful report is invoice trends, From this report you can easily ge
 
 Go to: Accounts > Other Reports > Trial Balance for Party. Usually you might need to see the trial balance for your customesrs and suppliers. You can easily get for all of your customers or suppliers and also for individual.
 
-~~Sales Invoice Trends~~
+![image](images/image.jpg)
 
 ### 8.2 Customer Credit Balance
 

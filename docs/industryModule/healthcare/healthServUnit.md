@@ -23,12 +23,12 @@ Home > Healthcare > Masters > Healthcare Service Unit
 
 For Example, Healthcare Service Unit for the type "Healthcare Practitioner Consulting Rooms":
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ## 2. Healthcare Service Unit Tree View 
 It is also possible that you can group and organize all the service units in a hierarchical manner and edit them from the tree view.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 :::note
 This Form has been Changed in Version 13

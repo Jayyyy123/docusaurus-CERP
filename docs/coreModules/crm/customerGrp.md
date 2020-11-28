@@ -18,11 +18,11 @@ You can define a price a list which will be automatically applied to all custome
 1. Enter 'Customer Group Name'.
 1. Tick 'Group Node' if you would like to add sub customer groups under this.
 1. Click on 'Create New'.
-   ~~Customer Group Tree~~
+   ![image](images/image.jpg)
 
 Tip: If you think all this is too much effort, you can leave it at “Default Customer Group”. But all this effort, will pay off when you start getting reports. An example of a sample report is given below:
 
-~~Customer Group report~~
+![image](images/image.jpg)
 
 ## 2. Features
 

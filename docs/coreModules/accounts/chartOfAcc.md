@@ -12,7 +12,7 @@ Chart of Accounts is a tree view of the names of the Accounts (Ledgers and Group
 
 For each company, Chart of Accounts signifies the way to classify the accounting entries, mostly based on statutory (tax, compliance to government regulations) requirements.
 
-~~CoA Tree~~
+![image](images/image.jpg)
 
 The Chart of Accounts helps you to answer questions like:
 
@@ -41,7 +41,7 @@ CERP comes with a standard set Chart of Accounts. Instead of creating/modifying,
 
 Here you can open group accounts which contain other accounts. There are options to “Add Child” in an account, Edit or Delete the account.
 
-~~Chart of Accounts~~
+![image](images/image.jpg)
 
 1. The option to create a child account will only appear if you click on a Group (folder) type Account.
 
@@ -59,7 +59,7 @@ Typically, you might want to create Accounts for:
 - Product Sales, Service Sales, etc. under Income.
 - Building, machinery, furniture, etc. under Fixed Assets.
 
-~~Chart of Accounts~~
+![image](images/image.jpg)
 
 
 :::tip
@@ -91,7 +91,7 @@ Unlike Balance Sheet accounts, Profit and Loss accounts (or PL accounts) do not 
 
 In CERP it is easy to keep track of Profit and Loss via the Profit and Loss chart.
 
-~~Profit and Loss Report~~
+![image](images/image.jpg)
 
 Note that, on the first day of the year you have not made any profit or loss, but you still have assets, hence balance sheet accounts never become zero at the beginning or end of a period.
 
@@ -108,7 +108,7 @@ The term "Ledger" means a page in an accounting book where entries are made. The
 An Account “Ledger” is also sometimes called as Account “Head”.
 :::
 
-~~Chart of Accounts~~
+![image](images/image.jpg)
 
 #### 2.4 Other Account Types 
 In CERP, you can also specify more information when you create a new Account, this is there to help you select that particular account in a scenario like 'Bank Account' or a 'Tax Account' and has no effect on the Chart itself.
@@ -153,7 +153,7 @@ An Example of various financial statement are given below:
 
 1. Cash Flow Report: ~~Cash Flow Report~~
 
-2. Profit and Loss Report: ~~Profit and Loss Report~~
+2. Profit and Loss Report: ![image](images/image.jpg)
 
 3. Balance Sheet Report: ~~Balance Sheet Report~~
 #### 2.6 Account Number 
@@ -161,7 +161,7 @@ A standard Chart of Accounts is organized according to a numerical system. Each 
 
 You can assign a number while creating an account from Chart of Accounts page. You can also edit a number from account record, by clicking Update Account Name / Number button. On updating account number, the system renames the account name automatically to embed the number in the account name.
 
-~~Account Number~~
+![image](images/image.jpg)
 
 ### 3. Video 
 

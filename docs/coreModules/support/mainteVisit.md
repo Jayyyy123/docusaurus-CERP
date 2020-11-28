@@ -28,7 +28,7 @@ A Maintenance Visit is usually created from a Sales Order of type 'Maintenance'.
 1. Enter a Description of the maintenance, select the Sales Person performing the maintenance, and enter the work done.
 1. Save.
 
-~~Maintenance Visit~~
+![image](images/image.jpg)
 
 ### 2.1 Additional Options when Creating Maintenance Visit
 

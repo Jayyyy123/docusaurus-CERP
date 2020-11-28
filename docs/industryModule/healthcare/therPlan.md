@@ -26,7 +26,7 @@ Home > Healthcare > Rehabilitation and Physiotherapy > Therapy Plan
 1. In order to add therapies to the plan, click on Add Row button in the child table. Select the Therapy Type and set the number of sessions required to complete it.
 1. Save.
 
-~~Therapy~~
+![image](images/image.jpg)
 
 ### 1.2 Therapy Plan from Therapy Plan Template
 
@@ -39,11 +39,11 @@ Therapy Plan Templates are used by some healthcare facilities for prescribing th
 1. The Therapy Types, and No. of Sessions will be fetched automatically.
 1. Save.
 
-~~Therapy Plan from Therapy Template~~
+![image](images/image.jpg)
 
 While fetching Healthcare Services for invoicing, the Therapy Plan is only available for billing if the plan is created using a Therapy Plan Template. If the Therapy Plan is not created from a Therapy Plan Template, individual Therapy Sessions are fetched during billing.
 
-~~Therapy Plan Template Invoice~~
+![image](images/image.jpg)
 
 ## 2. Features
 
@@ -51,13 +51,13 @@ While fetching Healthcare Services for invoicing, the Therapy Plan is only avail
 
 You can prescribe therapies in Patient Encounter and a Therapy Plan will be created automatically on submission of Patient Encounter.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ### 2.2 Create and Track Therapy Sessions
 
 You can create Therapy Session from the Therapy Plan. It will give you options based on the Therapy Types prescribed in the current plan.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 Once the Therapy Session is submitted, the count for Sessions Completed for that Therapy is automatically updated in the Therapy Plan.
 
@@ -65,7 +65,7 @@ Once the Therapy Session is submitted, the count for Sessions Completed for that
 
 If the Therapy Plan is created from Therapy Plan Template and is not invoiced yet, it will give you an option to create a Sales Invoice from the Therapy Plan.
 
-~~Sales Invoice from Therapy Plan~~
+![image](images/image.jpg)
 
 ## 3. Related Topics
 

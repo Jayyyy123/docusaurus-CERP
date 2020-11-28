@@ -10,7 +10,7 @@ Generally, advance payment is done in the case of high value deals. Consider a C
 
 In CERP, advance payment entry is created using Payment Entry. If there exist a Sales Order, you can directly create a Payment Entry for the advance amount. Or else, you can also create a standalone Payment Entry for the Customer. Same way, you can also create advance Payment Entry for Supplier, via Purchase Order.
 
-~~PE from SO~~
+![image](images/image.jpg)
 
 :::note
 Note: If payment is not linked to an invoice, it is considered as an advance payment. The advance payments are reflected in the Accounts Receivable and Payable reports.
@@ -38,7 +38,7 @@ If the Customer has given $5,000 as cash advance, it will be recorded as a credi
 
 When creating an invoice, you can check if there is an Advance Payment against that Party.
 
-~~Advace Payment~~
+![image](images/image.jpg)
 
 On clicking Get Advance Received button, it will fetch the Advance Payment Entries found for that party. Once Advance Payment Entries are fetched, you can allocate the Amount of advance against this invoice. The allocation will reduce the Outstanding Amount for that invoice right-away.
 

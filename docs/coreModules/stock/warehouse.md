@@ -11,9 +11,9 @@ They are usually large plain buildings in industrial areas of cities, towns, and
 The terminology of 'Warehouse' in CERP is a bit broader though and maybe can be regarded as "storage locations". You can create a sub-Warehouse which could be a shelf inside your actual location.
 
 This can become quite a detailed Tree like the following:
-
+:::note
 Warehouse > Room > Row > Shelf > Bin
-
+:::
 To access the Warehouse list, go to:
 
 :::note
@@ -35,7 +35,7 @@ Account: Set a default account here for all transactions with this Warehouse. Se
 Address and contact
 You can add Billing, Shipping, and other types of addresses for the Warehouse. You can also add a contact, this could be the Warehouse Manager for example.
 
-Warehouse
+![image](images/image.jpg)
 
 ### 1.2 After Saving
 
@@ -51,7 +51,7 @@ Non-Group to Group: If the Warehouse is a Non-Group Warehouse, i.e. cannot conta
 
 You can also switch to 'Tree' View which will show all the group and child Warehouses.
 
-Warehouse
+![image](images/image.jpg)
 
 ### 2.2 Warehouse Account
 

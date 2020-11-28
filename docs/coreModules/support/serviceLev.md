@@ -17,11 +17,11 @@ Home > Support > Service Level Agreement > Service Level Agreement
 
 Before creating and using a Service Level Agreement, it is advised that you create/update the following first:
 
-~~Holiday List~~
+![image](images/image.jpg)
 
 Enable Track Service Level Agreement in Support Settings
 
-~~Service Level Agreement~~
+![image](images/image.jpg)
 
 ## 2. How to Create a Service Level Agreement
 
@@ -39,7 +39,7 @@ Enable Track Service Level Agreement in Support Settings
    - Support Hours: Contains the Days of the week on which Support is provided. Has a Start Time and End Time of the Working day. Service Level
 1. Save.
 
-~~SLA~~
+![image](images/image.jpg)
 
 ## 3. Features
 

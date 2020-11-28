@@ -34,13 +34,13 @@ You can create an Inpatient Medication Order in two ways.
 1. Detailed schedule entries for the order beginning from the Start Date are added to the table. Close the dialog.
 1. Save and Submit. The End Date will be set automatically based on the prescription duration.
    You can see the Total Orders and Completed Orders in the Other Details section.
-   ~~IPMO-PE~~
+   ![image](images/image.jpg)
 
 ### 2.2 IPMO from Patient Encounter
 
 After creating a Patient Encounter for an inpatient, with drugs prescribed in the Drug Prescription table, you can see an option for creating Inpatient Medication Order under Create > Inpatient Medication Order.
 You can use this button to create the IPMO. IPMO with an expanded view of the schedule will be created. Save and Submit.
-~~IPMO-PE~~
+![image](images/image.jpg)
 
 ### 2.3 Statuses
 
@@ -51,7 +51,7 @@ The statuses for IPMO are governed by the total completed order entries. The ord
 - In Progress: Some order entries in the Medication Orders table have been completed.
 - Completed: All order entries in the Medication Orders table have been completed.
 - Cancelled: The Inpatient Medication Order has been cancelled.
-  ~~IPMO-PE~~
+  ![image](images/image.jpg)
 
 ## 3. Related Topics
 

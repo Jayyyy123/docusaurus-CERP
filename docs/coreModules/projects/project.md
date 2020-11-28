@@ -19,7 +19,7 @@ To access Projects, go to:
 Home > Projects > Projects > Project
 :::
 
-~~Project~~
+![image](images/image.jpg)
 
 ## 1. How to Create a Project
 
@@ -40,7 +40,7 @@ Home > Projects > Projects > Project
 - Is Active: A Yes/No tab, which lets you change the active status of the project at any later stage.
 - Completion Method: You can track the % completion of your project based on one of the three methods, viz. Manual, Task Completion, Task Progress and Task Weight.
 
-~~Project 2~~
+![image](images/image.jpg)
 
 Some examples of how the Percentage Completion is calculated based on Tasks:
 

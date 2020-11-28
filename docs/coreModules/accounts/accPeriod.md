@@ -18,7 +18,7 @@ Here Accounting Period can be used to limit the time period within which transac
 
 ### 1.1 What is the "Closed" option for the selected transactions used for?
 
-~~Accounting Period Child Table~~
+![image](images/image.jpg)
 
 The "Closed" option in the childtable for transaction doctypes is used to select which of them are to be restricted after the end of the Accounting Period.
 
@@ -29,11 +29,11 @@ Do note that if the Accounting Period ends and if any of the selected transactio
 1. Add or remove transactions from the table. Note that all transactions listed in the table with "Closed" option checked will be restricted after the accounting period ends.
 1. Save and Submit.
 
-~~Accounting Period~~
+![image](images/image.jpg)
 
 If you try to submit a closed transaction after its Accounting Period ends, you will see a validation error preventing you from doing so.
 
-~~Accounting Period~~
+![image](images/image.jpg)
 
 :::note
 Note: No role can submit transactions defined in the Accounting Period, even the Role set in 'Role Allowed to Set Frozen Accounts & Edit Frozen Entries' in Account Settings.

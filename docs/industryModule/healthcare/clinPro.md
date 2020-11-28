@@ -24,15 +24,15 @@ Home > Healthcare > Consultation > Clinical Procedure
 1. Save.
 1. Submit.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ### 1.2 Create a Clinical Procedure from an Appointment
 
 You can lookup and book Patient Appointment from the procedures that have been ordered for a patient in the previous Patient Encounter by using the Get Prescribed Procedures button available in Patient Appointment.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 After the Appointment is booked, the performing practitioner can easily create a new procedure from a booked appointment using the Create > Clinical Procedure button.
 
@@ -46,13 +46,13 @@ The Practitioner can update the procedure status to In Progress by clicking the 
 
 If the procedure has consumables, for the procedure to start, an adequate quantity of all consumables must be present in the Healthcare Service Unit's Warehouse. If this fails, the system will ask you to confirm Stock Transfer. After you confirm, a Stock Entry with Entry Type "Material Transfer" will be created and displayed. Validate the Stock Entry auto-created document, Save and Submit. Then you can start the Procedure.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 #### 2.1.2 Complete Procedure
 
 When the procedure is completed, the practitioner can update the Consumables table with the actual values of the stock quantity that are used. The Complete and Consume button will record consumption by booking a stock entry and update the status of the Clinical Procedure to Completed. If the Procedure does not have any stock items in the Consumables table, the Complete button will be displayed.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ### 2.2 Billing
 

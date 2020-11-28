@@ -8,6 +8,6 @@ sidebar_label: Grading Scale
 
 For example, Students obtaining a score of 90% and above would be graded as A+, students obtaining a score of 80% and above would be graded A- and so on.
 
-~~Grading Scale~~
+![image](images/image.jpg)
 
 ## Video Tutorial on Grading Scale 

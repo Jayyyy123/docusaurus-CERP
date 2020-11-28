@@ -9,6 +9,6 @@ To access the Production Analytics, go to:
 Home > Manufacturing > Reports > Production Analytics
 :::note
 
-~~Task~~
+![image](images/image.jpg)
 
 This report shows the overall analytics of all Work Orders.

@@ -19,7 +19,7 @@ Human Resources > Fleet Management > Vehicle
 1. Enter other additional details such as Fuel Type ad Fuel UOM.
 1. Save.
 
-~~Vehicle~~
+v
 
 ## 2. Features
 
@@ -29,13 +29,13 @@ Apart from the aforementioned mandatory features, some additional features that 
 
 Additional Vehicle details such as Chassis No., Acquisition Date, Vehicle Value (Amount), Location, Employee managing the Vehicle and Insurance details can be captured in the Vehicle master.
 
-~~Vehicle~~
+v
 
 ### 2.2 Vehicle Attributes
 
 Additionally, Vehicle attributes like Color, Wheels, Door, Last Carbon Check, Fuel Type and UOM can be saved in the Vehicle master.
 
-~~Vehicle~~
+v
 
 ## 3. Related Topics
 

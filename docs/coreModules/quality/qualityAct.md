@@ -41,7 +41,7 @@ Or
 
 The Status field indicates whether the Quality Action is Open and ongoing or Closed.
 
-~~Quality management~~
+![image](images/image.jpg)
 
 ## 3. Related Topics
 

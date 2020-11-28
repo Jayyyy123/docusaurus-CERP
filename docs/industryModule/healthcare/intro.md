@@ -6,11 +6,11 @@ sidebar_label: Introduction
 
 Here is what a patient appointment looks like in CERP:
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 Here are some analytics:
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 CERP Healthcare helps you manage your hospital, clinic, or practice efficiently by scheduling Appointments, capturing Vitals, and managing medication and investigation orders by recording Patient Encounters. You can easily pull out a Patient's Medical History anytime to review the patient's past conditions and treatments assisting you in providing effective, high-quality care. CERP Healthcare allows you to manage multiple Medical Code Standards like the ICD 10 and easily search for Medical Codes simplifying the coding process. CERP Healthcare also comes with a Laboratory module with predefined templates for recording common Lab Tests. Reports like Appointment Analytics and Lab Test Report help you get a thorough idea of the operations.
 

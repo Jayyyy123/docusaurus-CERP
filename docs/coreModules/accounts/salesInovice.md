@@ -14,7 +14,7 @@ To access the Sales Invoice list, go to:
 Home > Accounting > Accounts Receivable > Sales Invoice
 :::
 
-~~SO Flow~~
+![image](images/image.jpg)
 
 ## 1. Prerequisites
 
@@ -48,7 +48,7 @@ For manual creation, follow these steps:
 
 - Include Payment (POS): If this invoice is for retail sales / Point of Sale. Know more here.
 - Is Return Credit Note: Tick this if the customer has returned the Items. To know more details, visit the Credit Note page.
-  ~~Sales Invoice~~
+  ![image](images/image.jpg)
 
 For India: e-Way Bill No: According to GST rules, transporters need to carry an e-Way Bill. To know how to generate an e-Way Bill, visit this page.
 
@@ -88,7 +88,7 @@ Note: Project and Cost Center are treated as dimensions by default.
 - Customer's Purchase Order: Track customer's PO No. received, primarily to prevent the creation of duplicate Sales Order or Invoice for the same PO received from the Customer. You can do more configuration related to customer's PO No. validation in Selling Settings
 - Customer's Purchase Order Date: The date on which the Customer placed the Purchase Order.
 
-~~Customer Address~~
+![image](images/image.jpg)
 
 ### 3.4 Address and Contact
 
@@ -161,7 +161,7 @@ If you want to bill Employees working on Projects on an hourly basis (contract b
 
 If your Company's Employees are working at a location and it needs to be billed, you can create an Invoice based on the Timesheet.
 
-~~SI Timesheet~~
+![image](images/image.jpg)
 
 To know more, visit this page.
 
@@ -177,7 +177,7 @@ To add taxes automatically via a Tax Category, visit this page.
 
 Make sure to mark all your taxes in the Taxes and Charges table correctly for an accurate valuation.
 
-~~SI Tax~~
+![image](images/image.jpg)
 
 #### Shipping Rule
 
@@ -217,7 +217,7 @@ If you outsource transporting Items to their delivery location, the transporter 
 - Driver: You can add a Driver here who will drive the mode of transport.
   The details are usually fetched from the Delivery Note.
 
-~~Delivery Note Transport~~
+![image](images/image.jpg)
 
 The following details can be recorded:
 
@@ -259,7 +259,7 @@ The following Sales details can be recorded:
 - Campaign: If this invoice is a part of on ongoing sales Campaign, it can be linked. To know more, visit the Campaign page.
 - Source: A Lead Source can be tagged here to know the source of sales. To know more, visit the Lead Source page.
 
-~~SI More info~~
+![image](images/image.jpg)
 
 ### 3.20 Accounting Details
 
@@ -267,7 +267,7 @@ The following Sales details can be recorded:
 - Is Opening Entry: If this is an opening entry to affect your accounts select 'Yes'. i.e. if you're migrating from another ERP to CERP mid year, you might want to use an Opening Entry to update account balances in CERP.
 - Remarks: Any additional remarks about the Sales Invoice can be added here.
 
-~~SI Accounting Details~~
+![image](images/image.jpg)
 
 ### 3.21 Commission
 
@@ -301,7 +301,7 @@ On submitting a Sales Invoice, the following documents can be created against it
 1. Invoice Discounting
 1. Delivery Note
 
-~~SI Submit~~
+![image](images/image.jpg)
 
 ## 4. More
 
@@ -323,7 +323,7 @@ When booking a sale (accrual):
 - Credit: Income (net total, minus taxes for each Item)
 - Credit: Taxes (liabilities to be paid to the government)
 
-~~SI Ledger~~
+![image](images/image.jpg)
 
 :::note
 To see entries in your Sales Invoice after you “Submit”, click on “View Ledger”.

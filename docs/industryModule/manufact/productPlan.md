@@ -37,11 +37,11 @@ The common steps are:
 
 Select option as Sales Order from the 'Get Items From' drop-down list. The system will show the filters, using that you can pull the Sales Orders for the production. You don't need to use all these filters if you have only a few Sales Orders in a particular time frame.
 
-~~Production Plan fetch items~~
+![image](images/image.jpg)
 
 Click on Get Sales Orders to fetch sales orders based on the above filters.
 
-~~Sales Order Filters~~
+![image](images/image.jpg)
 
 Click on 'Get Items for Work Order' to fetch the items from the above Sales Orders. Items only for which a BOM is present will be fetched. Get items for Production Plan
 
@@ -51,21 +51,21 @@ On expanding a row in the Items to Manufacture table, you'll see an option to 'I
 
 Select option as Material Request from the Get Items From drop-down list. The system will show the filters, using that we can pull the Material Requests for the production.
 
-~~Material Request Filters~~
+![image](images/image.jpg)
 
 Click on 'Get Material Request' to fetch material requests based on the above filters.
 
-~~Material Requests~~
+![image](images/image.jpg)
 
 Click on Get Items for Work Order to fetch the items from the above material requests.
 
-~~Material Request Item~~
+![image](images/image.jpg)
 
 ### 2.3 Planning for Material Requests
 
 Clicking on the 'Get Raw Materials for Production' button will fetch the required raw material Items in the Material Request Plan table. For example, to manufacture 200 plastic canes, you need 100 raw plastic Nos but have only 20 in your Warehouse, then clicking this button will add a row with 80 in the Required Quantity column.
 
-~~Material Request Plan~~
+![image](images/image.jpg)
 
 Use the following checkboxes to perform certain actions:
 
@@ -75,13 +75,13 @@ Use the following checkboxes to perform certain actions:
 - For Warehouse: User can set the Warehouse for which they want to create the material request. When creating Stock Entries during the production process, the system will look for raw material stock in this Warehouse.
 - Download Materials Required:- When this checkbox is ticked, the User will get the Excel sheet with the raw materials that are needed to complete this Production Plan. User can select the Warehouse to check the available quantity in the respective Warehouse. If the User has kept the 'For Warehouse' field as blank then the system will give the Excel sheet with raw materials and Warehouse-wise available quantity of the respective raw materials. Excel sheet will look similar to:
 
-~~Material Request Plan~~
+![image](images/image.jpg)
 
 ### 2.4 After Submitting
 
 Once the Production Plan is submitted, the User gets an option to make Work Orders for the production items and Material Requests for the raw materials. Users can also set the Status as Closed in the Production Plan.
 
-~~Make PO or MR~~
+![image](images/image.jpg)
 
 #### 2.4.1 Closing a Production Plan
 
@@ -91,23 +91,23 @@ There could be occurrences where a Production Plan is partially complete and is 
 1. A change in plans occurred and pending items will not be produced.
 1. In cases like these, Users can set the Production Plan status to Closed, so that no new Work Orders or Material Requests are created against it.
 
-~~Closing a Production Plan~~
+![image](images/image.jpg)
 
 The same can be Re-opened.
 
 ### 2.5 Making work order for the sub-assembly items
 
-~~Make PO or MR~~
+![image](images/image.jpg)
 
 In the above screenshot, the User creates the Nokia Headphone first and then creates the Nokia Charger and then creates final finished goods.
 
 Here, the User wants to make the work order for the Nokia Headphone and Nokia Charger, to do this, the user has to enable the field "Make Work Order for Sub Assembly Items" in the Production Plan against the item Nokia Lumia.
 
-~~Make PO or MR~~
+![image](images/image.jpg)
 
 On clicking make Work Order, the system will generate the Work Order for the sub-assembly items and the finished good items:
 
-~~Make PO or MR~~
+![image](images/image.jpg)
 
 ## 3. Related Topics
 

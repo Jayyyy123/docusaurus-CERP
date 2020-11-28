@@ -18,7 +18,7 @@ Home > Human Resource > Recruitment > Appointment Letter
 
 Before creating an Appointment Letter, it is advisable to create the following:
 
-~~Job Applicant~~
+![image](images/image.jpg)
 
 ## 2. How to Create an Appointment Letter
 
@@ -28,7 +28,7 @@ Before creating an Appointment Letter, it is advisable to create the following:
 1. Click on Save.
 1. After saving, go to the Print View to view and save the PDF of the Appointment letter.
 
-~~Appointment Letter~~
+![image](images/image.jpg)
 
 Note: Appointment Letter can be made only against a Job Applicant
 
@@ -40,7 +40,7 @@ Note: Appointment Letter can be made only against a Job Applicant
 1. Fill Introduction, Terms and, Closing Statement.
 1. Click on Save.
 
-~~Appointment Letter~~
+![image](images/image.jpg)
 
 Note On selecting Appointment Letter Template in Appointment Letter, it autofills the content.
 
@@ -48,4 +48,4 @@ Note On selecting Appointment Letter Template in Appointment Letter, it autofill
 
 You can create new or use existing standard print formats.
 
-~~Appointment Letter~~
+![image](images/image.jpg)

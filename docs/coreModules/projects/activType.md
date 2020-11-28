@@ -6,7 +6,7 @@ sidebar_label: Activity Type
 
 **Activity Type is a list of different types of activities against which a Timesheet can be made.**
 
-~~Activity Type~~
+![image](images/image.jpg)
 
 To access Activity Type, go to,
 

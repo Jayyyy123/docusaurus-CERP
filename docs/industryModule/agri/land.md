@@ -19,11 +19,10 @@ On the top right, click on New to create the first Land Unit.
 - Check the box next to 'Is Group'
 - Location: plot the area as you please
 
-Click Save
+![image](images/image.jpg)
 
 It should look something like this
-
-~~Task~~
+![image](images/image.jpg)
 
 With the farm created, we can now create our first Carrot Field! Click on New
 
@@ -32,6 +31,6 @@ With the farm created, we can now create our first Carrot Field! Click on New
 - Leave the 'Is Group' box unchecked
 - Location: plot the area as you please
 
-Click Save
+![image](images/image.jpg)
 
 Repeat step 3 for as many fields as you need

@@ -31,7 +31,7 @@ In CERP, Tax Withholding Categories for most cases are available by default, how
 1. Add more companies and accounts as needed.
 1. Save.
 
-~~Tax withholding Category~~
+![image](images/image.jpg)
 
 Under accounting details, the TDS account is added for each Company in the system.
 
@@ -55,15 +55,15 @@ In the following example, we have selected 'TDS - 194C - Individual' which has a
 
 If the Supplier has the tax withholding field set, then upon selecting that Supplier, a checkbox will become visible in the Purchase Invoice to select whether to apply tax or not.
 
-~~Tax Withholding Category~~
+![image](images/image.jpg)
 
 Let's create an invoice for 90,000. Saving the invoice automatically calculates tax and appends it in the taxes table.
 
-~~Tax Withholding Category~~
+![image](images/image.jpg)
 
 To see the effect of Cumulative threshold, let's create an invoice with of amount 20,000 and submit it.
 
-~~Tax Withholding Category~~
+![image](images/image.jpg)
 
 Although the invoice amount didn't cross the Single threshold (30,000), we see that tax has been charged. This is because the previous and the current invoice adds up to be 1,10,000 which exceeds the Cumulative threshold. Hence, tax based on the rate provided in the Tax Withholding Category is applied accordingly.
 

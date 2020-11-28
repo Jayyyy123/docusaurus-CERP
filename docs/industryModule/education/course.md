@@ -8,7 +8,7 @@ sidebar_label: Course
 
 For example, if for a particular term, Economics Major is a program taught in the institute, then Mathematical Methods for Economics would be a Course covered under the program.
 
-~~Course~~
+![image](images/image.jpg)
 
 A course will have a set of topics that are to be covered under it's scope.
 
@@ -33,7 +33,7 @@ Before creating a course, it is advised to create:
 1. Add the Description for the course.
 1. Save.
 
-~~Course~~
+![image](images/image.jpg)
 
 ## 3. Features
 
@@ -44,7 +44,7 @@ For every new Course a User can have a New Assessment setting where in they can 
 Default Grading Scale: A default Grading Scale can be set up for the course, wherein you can define what would be the achievement level of the student based on the scores they earn for a course.
 Assessment Criteria: You can define the Assessment Criteria for this course wherein based on the different parameters of assessment, the student's understanding of the subject would be assessed.
 
-~~Course~~
+![image](images/image.jpg)
 
 ## 4. More Actions
 
@@ -55,6 +55,6 @@ Once the course has been created, the following documents can be created from th
 - Course Schedule
 - Assessment Plan
 
-~~Course~~
+![image](images/image.jpg)
 
 ## 5. Video Tutorial for Course

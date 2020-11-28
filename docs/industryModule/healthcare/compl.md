@@ -10,12 +10,12 @@ You can also configure the masters manually by going to,
 :::note
 Home > Healthcare > Consultation > Complaint
 :::
-~~CERP Healthcare~~
+![image](images/image.jpg)
 :::note
 Home > Healthcare > Consultation > Diagnosis
 :::
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 You can then select the Complaints and Diagnosis in the Patient Encounter Screen:
 
-~~CERP Healthcare~~
+![image](images/image.jpg)

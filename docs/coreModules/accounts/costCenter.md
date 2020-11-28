@@ -57,7 +57,7 @@ Home > Accounting > Budget and Cost Center > Chart of Cost Centers
 
 Selecting a different Company will display the Cost Centers for that Company.
 
-~~Cost Center~~
+![image](images/image.jpg)
 
 ## 3. Related Topics
 

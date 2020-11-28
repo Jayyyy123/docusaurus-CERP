@@ -31,7 +31,7 @@ To access LinkedIn Settings, go to:
 Home > CRM > Settings > LinkedIn Settings
 :::
 
-~~LinkedIn Settings~~
+![image](images/image.jpg)
 
 #### Company ID
 
@@ -42,6 +42,6 @@ You get Consumer Key and Consumer Secret from your LinkedIn Developer account go
 
 https://www.linkedin.com/developers/ > My Apps > {Your App} > Auth
 
-~~LinkedIn Client~~
+![image](images/image.jpg)
 
 Once you save the doc by filling Company ID, Consumer Key, and Consumer Secret it will redirect to LinkedIn's sign-in page by providing valid LinkedIn credentials and clicking Allow, the member approves your application's request to access their member data and interact with LinkedIn on their behalf. Authorize LinkedIn

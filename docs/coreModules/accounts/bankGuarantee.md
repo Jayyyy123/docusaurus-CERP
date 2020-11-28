@@ -28,7 +28,7 @@ Home > Accounting > Banking and Payments > Bank Guarantee
 1. Select a Bank and the Bank Account.
 1. Enter a Bank Guarantee number and name of the beneficiary.
 1. Save and Submit.
-   ~~Bank Guarantee~~
+  ![image](images/image.jpg)
    This document allows you to track Bank Guarantees given to Suppliers and received from Customers. You can set Email Alerts as the Bank Guarantee expiry date approaches to remind yourself to get the Bank Guarantee back from your client.
 
 ### 1.1 Additional Options when creating a Bank Guarantee

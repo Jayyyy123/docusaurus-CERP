@@ -19,13 +19,13 @@ Home > Accounting > Multi Currency > Exchange Rate Revaluation
 1. To get started with multi currency accounting, you need to assign the accounting currency in an Account record.
 1. You can define Currency from the Chart of Accounts while creating an account.
 
-~~Set Currency from Chart of Accounts~~
+![image](images/image.jpg)
 
 3. You can also assign/modify the currency for existing accounts by opening the specific Account record.
 
 4. Click on the Account and Click on Edit.
 
-~~Modify Account Currency~~
+![image](images/image.jpg)
 
 ## 2. How to enable Exchange Rate Revaluation
 

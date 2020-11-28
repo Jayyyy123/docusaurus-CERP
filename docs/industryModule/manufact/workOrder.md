@@ -6,7 +6,7 @@ sidebar_label: Work Order
 
 **A Work Order is a document given to the manufacturing shop floor by the Production Planner as a signal to manufacture a certain quantity of a certain Item.**
 
-~~Work Order~~
+![image](images/image.jpg)
 
 The Work Order also helps generate the material requirements (Stock Entry) for the Item to be produced from its Bill of Materials.
 
@@ -108,7 +108,7 @@ In this section, the following are shown:
 - Total Operating Cost: This is calculated as Actual Operating Cost + Additional Operating Cost.
   These values are calculated as per the Job Cards.
 
-~~Work Order Operation Costs~~
+![image](images/image.jpg)
 
 ### 3.4 More Information
 
@@ -156,7 +156,7 @@ Once you are done with the Work Order you need to update the Finished Goods.
 This will create a Stock Entry that will deduct all the items and sub-assemblies from the WIP Warehouse and add them to the Finished Goods Warehouse.
 Click on 'Finish'.
 
-~~Update Finished Goods~~
+![image](images/image.jpg)
 
 Mention the quantity of materials to be transferred.
 
@@ -168,8 +168,7 @@ When you stop a Work Order its status is changed to Stopped indicating that all 
 
 To stop a Work Order, click on the 'Stop' button.
 
-~~PO - stop~~
-
+![image](images/image.jpg)
 You can also re-start a stopped Work Order.
 
 ### 3.10 Capacity Planning in Work Order

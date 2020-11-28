@@ -26,7 +26,7 @@ Home > Healthcare > Rehabilitation and Physiotherapy > Therapy Type
 1. You can also add the Healthcare Service Unit and the Medical Department for the Therapy Type.
 1. Save.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ## 2. Features
 
@@ -38,15 +38,15 @@ For example:
 
 - Exercise "Wall Pushups" is for Hand, Muscles and Joints.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 - Exercise "Sit to Stand" is for Legs and Core.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 - Exercise "Thera-band Upper Body" is for Muscles, Joints, Back, Legs.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 Then while creating the Therapy Type template, you can select the body parts in the "Therapy For" field and exercises for those Body Parts will be added to the Exercise table.
 
@@ -54,25 +54,25 @@ Then while creating the Therapy Type template, you can select the body parts in 
 
 You can also disable some Therapy Types if you are not conducting sessions for them. For example, your Physiotherapy Unit is under renovation and some Healthcare Service Units like the Aquatic Therapy pool are not available, then you can set the document as disabled and it will be filtered out while booking appointments or prescribing therapies in Patient Encounter, etc.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ### 2.3 Change Item Code
 
 You can also change the Item Code which will be used for billing from the Therapy Type screen itself. Click on Change Item Code button, enter the new Item Code and click "Change Item Code" in the dialog. The Item will be renamed.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ### 2.4 Prescribe Therapies in Patient Encounter
 
 You can prescribe therapies in Patient Encounter and a Therapy Plan will be created automatically on submit.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ### 2.5 Book Appointment for Therapy Type
 
 For booking Patient Appointment for any Therapy Type, select the therapy in Therapy field. You can also use the Get Prescribed Therapies button to fetch all therapies prescribed for that Patient in the previous Patient Encounter.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ## 3. Related Topics
 

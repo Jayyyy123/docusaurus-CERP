@@ -29,13 +29,13 @@ Human Resources > Expense Claims > Expense Claim
 1. Additionally, you can also enter the Expense Taxes and Charges.
 1. In Accounting Details, select the Company's Default Payable Account.
 1. Save and Submit.
-   ~~Expense Claim~~
+   ![image](images/image.jpg)
 
 1. Set the Employee ID, date, the list of expenses, and corresponding taxes that are to be claimed and “Submit” the record.
 
-~~Expense Claim~~
+![image](images/image.jpg)
 
-~~Expense Claim~~
+![image](images/image.jpg)
 
 #### Approving Expenses
 
@@ -63,7 +63,7 @@ To make payment against the expense claim, user has to click on Create > Payment
 
 Note: This amount should not be clubbed with Salary because the amount will then be taxable to the Employee.
 
-~~Expense Claim~~
+![image](images/image.jpg)
 
 Alternatively, a Payment Entry can be made for an employee and all outstanding Expense Claims will be pulled in.
 
@@ -74,8 +74,8 @@ Set the Payment Type to "Pay", the Party Type to Employee, the Party to the empl
 ### Linking with Task & Project
 
 To Link Expense Claim with Task or Project specify the Task or the Project while making an Expense Claim
-~~Expense Claim - Project Link~~
+![image](images/image.jpg)
 
 This will update the Project cost with the Expense claim amounts
 
-~~Expense Claim - Project Link~~
+![image](images/image.jpg)

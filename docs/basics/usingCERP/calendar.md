@@ -8,7 +8,7 @@ sidebar_label: Calendar
 
 You can have a Day, Week or Month view in a calendar.
 
-~~Calendar~~
+![image](images/image.jpg)
 
 To access calendar, go to:
 
@@ -21,23 +21,23 @@ Home > Tools > Calendar
 1. Go to Calendar and click on New.
 1. Enter the Subject and the Start Date of the event.
 1. Save.
-   ~~Calendar~~
+   ![image](images/image.jpg)
 
 Alternatively, you can also create an event from the 'Day View' of the Calendar. This view is broken into various slots throughout the day. You can select the slot for the start of the event, enter the subject of the event and drag it own till the event end time.
 
-~~Calendar~~
+![image](images/image.jpg)
 
 ### 1.1. Event Based on a Lead
 
 In the Lead form, you will find a field called Next Contact By and Next Contact Date. Once you specify the date and the User in these fields, an event will automatically be created for the User on the given date and time.
 
-~~Calendar~~
+![image](images/image.jpg)
 
 ### 1.2. Event Based on Job Cards
 
 For every Job Card that gets created for a User in the CERP account, a corresponding event will be created in the Calendar.
 
-~~Calendar~~
+![image](images/image.jpg)
 
 ### 1.3. Birthday Event
 
@@ -51,7 +51,7 @@ When you do this, you will ve asked to enter the periodicity of this event in th
 
 You can also enter the last day of the repeated occurrence in the 'Repeat Till' field. In case of infinite repetitions, you may choose to leave this field blank.
 
-~~Calendar~~
+![image](images/image.jpg)
 
 ### 1.5. Event Reminders
 
@@ -61,7 +61,7 @@ There are two ways you can receive email reminder for an event.
 
     In the Event master, checking "Send an email reminder in the morning" will trigger a notification email to all the participants for this event.
 
-    ~~Calendar~~
+    ![image](images/image.jpg)
 
 2. Create Email Digest
 
@@ -71,4 +71,4 @@ There are two ways you can receive email reminder for an event.
 
     Setup > Email > Email Digest
 
-    ~~Calendar~~
+    ![image](images/image.jpg)

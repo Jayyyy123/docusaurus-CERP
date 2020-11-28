@@ -30,13 +30,13 @@ Home > Healthcare > Rehabilitation and Physiotherapy > Therapy Session
 1. You can then increase the number of Counts Completed, and once a particular exercise has been completed, select the Level of Assistance required for that exercise. The count indicators are shown on the dashboard of the document. Green indicates completion, Orange indicates unreached goals.
    Once you have recorded the entire session with the counts, you can submit the document. The Therapy Plan will then be updated with the number of sessions.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ### 1.2 Create Therapy Session from Patient Appointment
 
 After booking an appointment for a Therapy Type, click on Create > Therapy Session to create a session from Patient Appointment.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 Refer Therapy Plan to understand the creation of Therapy Sessions from Therapy Plan.
 
@@ -53,7 +53,7 @@ In order to invoice Therapy Sessions:
 1. You can also manually add items in the "Items" child table for billing.
 1. Save and Submit.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ## 3. Related Topics
 

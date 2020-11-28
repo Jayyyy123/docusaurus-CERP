@@ -38,6 +38,6 @@ For creating Salary Slip based on timesheet you need to create Salary Structure 
 
 CERP also provides an option to create Salary slip based on working hours based on Timesheet. You can create Salary Slip after submitting the Timesheet by clicking directly on Create Salary Slip button on the top right.
 
-~~Create Salary Slip based on Timesheets~~
+![image](images/image.jpg)
 
 The Payment Amount is calculated based on Hour Rate defined in Salary Structure and is reflected in the Earnings table.

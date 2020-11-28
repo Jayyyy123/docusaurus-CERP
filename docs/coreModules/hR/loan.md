@@ -38,13 +38,13 @@ Before creating and using a Loan, it is advised that you create the following fi
 1. Enter posting date.
 1. If applicant type is Employee then check "Repay from Salary" if loan will be repaid from salary.
 
-~~Make Loan~~
+![image](images/image.jpg)
 
 1. Enter Loan Type. All the loan accounts, mode of payment and other loan details like whether the loan is a term loan or demand loan will be automatically fetched from the loan type master. If loan is a term loan repayment schedule will be auto generated on saving the loan document.
 
-~~Make Loan~~
+![image](images/image.jpg)
 
-~~Make Loan~~
+![image](images/image.jpg)
 
 1. Check 'Is Secured Loan' if the loan is a secured loan. Also select 'Loan Security Pledge' if the loan is a secured loan.
 
@@ -56,7 +56,7 @@ Before creating and using a Loan, it is advised that you create the following fi
 
 You can also create a Loan from an approved Loan Application via the Create button on the top right.
 
-~~Loan Application~~
+![image](images/image.jpg)
 
 ## 3. Features
 
@@ -64,16 +64,16 @@ You can also create a Loan from an approved Loan Application via the Create butt
 
 After submitting the Loan document, if the status is "Sanctioned" and "Repay from Salary" is unchecked, you can create Loan Disbursement from the loan document via Create button on top right.
 
-~~Create Loan Disbursement~~
+![image](images/image.jpg)
 
 ### 3.2 Creation Of Repayment Entry
 
 If the loan is fully or partially disbursed and "Repay from Salary" is unchecked, you can create a Loan Repayment from the loan document via Create button on top right.
 
-~~Create Loan Repayment~~
+![image](images/image.jpg)
 
 ### 3.3 Loan Repayment Deduction from salary
 
 To auto deduct the Loan repayment from Salary, check "Repay from Salary" in Loan. It will appear as Loan Repayment in Salary Slip and a Loan Repayment record will also be automatically created for the it.
 
-~~Salary Slip Loan~~
+![image](images/image.jpg)

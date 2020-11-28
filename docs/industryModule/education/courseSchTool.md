@@ -6,8 +6,7 @@ sidebar_label: Course Scheduling Tool
 
 **A Course Scheduling Tool will allow you to create Course Schedules in bulk for a particular Student Group and an Instructor.**
 
-~~Course Scheduling Tool~~
-
+![image](images/image.jpg)
 To access the Course Scheduling Tool, go to:
 :::note
 Home > Education > Schedule > Course Scheduling Tool

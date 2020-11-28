@@ -20,19 +20,19 @@ Home > Healthcare > Masters > Medical Code
 1. Enter the standard description for the code.
 1. Save.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ### 1.2 Data Import
 
 Medical Codes and Descriptions can also be imported to create the "Medical Code" documents, after ensuring that you have created the Medical Code Standards appropriately.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ## 2. Features
 
 In the Patient Encounter, a practitioner can easily search and select appropriate ones from preconfigured Medical Codes to enable codification based on each of the services your facility offers. In many regions this is mandatory for processing Patient Insurance eligibility, claim processing and billing.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 ## 3. Related Topics
 

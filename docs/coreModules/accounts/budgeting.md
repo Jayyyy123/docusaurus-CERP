@@ -23,7 +23,7 @@ Home > Accounting > Cost Center and Budgeting > Budget
 1. Go to the Budget list and click on New.
 1. Select what to budget against, Cost Center, Project, or an Accounting Dimensions.
 1. In the accounts table, select an income/expense account for which a budget is to be set. Let's set a budget for telephone expenses for the year.
-   ~~Budget~~
+  ![image](images/image.jpg)
 1. Enter the budget amount for that account.
 1. Save and Submit.
 
@@ -44,7 +44,7 @@ Control actions can be triggered when:
 - When an actual expense is being posted (through a journal entry or a purchase invoice).
   You can set a control action in the Budget based on Material Requests, Purchase Orders, or on actual expenses. Further, you can set a control action for annual or monthly budgets.
 
-~~Control Actions~~
+![image](images/image.jpg)
 
 There are three types of control actions.
 
@@ -53,7 +53,7 @@ There are three types of control actions.
 - Ignore: This will neither prevent the user from submitting transactions nor show an error message.
   You can set separate actions for monthly and annual budgets. If you exceed the budget, a warning will be shown:
 
-~~Monthly Distribution~~
+![image](images/image.jpg)
 
 Note that a similar warning will be triggered for any type of transactions set in the budget for the particular Account heads.
 
@@ -67,7 +67,7 @@ To check the Budget Variance report, go to:
 Home > Accounting > Cost Center and Budgeting > Budget Variance Report
 :::
 
-~~Budget Variance Report~~
+![image](images/image.jpg)
 
 ## 4. Video
 

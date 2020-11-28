@@ -29,7 +29,8 @@ Or
 1. Go to the Tax Rule list and click on New.
 1. Under Tax Type select whether the tax will be applied at Sales or Purchase.
 1. Select the Tax Template to be applied.
-1. Save. ~~Tax Rule~~
+1. Save. 
+   ![image](images/image.jpg)
    You can list Items online using the Website module. Selecting 'Use for Shopping Cart' will use this Tax Rule for Shopping Cart transactions also. To know more, visit the Shopping Cart page.
 
 :::note
@@ -73,9 +74,9 @@ While creating a new transaction the system will select and apply tax template b
 
 Let us consider a scenario to understand Tax Rule Better. Suppose we define two Tax Rules as below.
 
-~~Tax Rule~~
+![image](images/image.jpg)
 
-~~Tax Rule~~
+![image](images/image.jpg)
 
 Here In State GST has Billing Country as India and VAT 14% has Billing Country as Germany.
 

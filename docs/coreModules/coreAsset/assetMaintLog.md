@@ -17,7 +17,7 @@ Home > Asset > Maintenance > Asset Maintenance Log
 
 Before creating and using Asset Maintenance Log, it is advised to create the following first:
 
-~~Asset Maintenance~~
+![image](images/image.jpg)
 
 ## 2. Options in Asset Maintenance Log
 
@@ -25,4 +25,4 @@ A Draft of the Asset Maintenance Log is created as scheduled in the Asset Mainte
 
 The status of the Asset Maintenance Log can be 'Planned', 'Completed', 'Canceled', or 'Overdue'.
 Additional notes can be added in the Actions performed section to describe the activity in detail.
-~~Asset~~
+![image](images/image.jpg)

@@ -58,7 +58,7 @@ Select Pricing Rule having coupon code based flag enabled.
 
 Click on Save
 
-~~Coupon Code Doctype~~
+![image](images/image.jpg)
 
 ## 3. Features
 
@@ -69,7 +69,7 @@ Click on Save
 - Used - for each Sales Order submitted with coupon code , the used count increments by 1.
 - Coupon Code Description - can be used while creating Email Template to inform potential customers about the coupon code and scheme information
 
-~~Pricing Rule Coupon Code Based~~
+![image](images/image.jpg)
 
 ### 3.2 Coupon Code can be applied in two ways
 
@@ -79,7 +79,7 @@ http://xyz.CERP.com/products/golden-ring?cc=SAVE5
 
 Explicitly applying the code , by filling the code and clicking on "Apply Coupon Code" button as shown below in shopping cart page
 
-~~Shopping Cart Apply CouponCode~~
+![image](images/image.jpg)
 
 Price will get updated on successful application of the coupon code.
 

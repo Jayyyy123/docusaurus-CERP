@@ -10,7 +10,7 @@ For every sequence of a particular word or a set of characters, you will have a 
 
 ### Using Awesome Bar for Global Search.
 
-~~Tree Master Renaming~~
+![image](images/image.jpg)
 
 Global Search helps users find information quickly. It’s located in the upper right-hand corner in CERP. Simply entering a few characters in the Search Bar will show results from several different record types (Contact, Customer, Issues, etc.) related to that keyword. You can also customize the fields based on which search will be shown.
 
@@ -23,4 +23,4 @@ You can also type in multiple keywords separated by & operator to find your desi
 
 ### Enable Global Search for fields in a Doctype.
 
-~~Tree Master Renaming~~
+![image](images/image.jpg)

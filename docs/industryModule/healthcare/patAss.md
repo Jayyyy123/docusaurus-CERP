@@ -26,7 +26,7 @@ Home > Healthcare > Rehabilitation and Physiotherapy > Patient Assessment
 1. You can also add Time and Comments while evaluating individual parameters in the Assessment table.
 1. Submit.
 
-~~CERP Healthcare CERP Healthcare~~
+![image](images/image.jpg)
 
 ## 2. Related Topics
 

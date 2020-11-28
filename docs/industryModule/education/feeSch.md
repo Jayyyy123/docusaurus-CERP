@@ -26,7 +26,7 @@ Home > Education > Fees > Fee Schedule
 1. Select and add the Student Group.
 1. Save and Submit.
 
-~~Fee Schedule~~
+![image](images/image.jpg)
 
 ## 2. Features
 
@@ -50,4 +50,4 @@ To facilitate that smoothly, you can add your Accounts details in the fee struct
 ### 2.3. Accounting Dimensions
 
 - Cost Center: Select and add the name of the Cost Center of your Institute for Accounting Dimensions.
-  ~~Fees Schedule~~
+ ![image](images/image.jpg)

@@ -21,7 +21,7 @@ Home > Human Resources > Training > Training Program
 1. Select the Supplier n(optional) in case an outside vendor/expert was called to conduct the training.
 1. Additionally, you can also write a short description of the Training Program in the Description box (optional).
 
-~~Training Program~~
+![image](images/image.jpg)
 
 Note: By default, the Status of the Training Program is 'Scheduled'. However, you can change the status to 'Completed' or 'Cancelled' as per the requirement.
 

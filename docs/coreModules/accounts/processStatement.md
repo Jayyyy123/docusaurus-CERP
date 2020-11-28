@@ -84,11 +84,11 @@ They can be used as shown below:
 
 Resulting Email:
 
-~~image~~
+![image](images/image.jpg)
 
 Report PDF:
 
-~~image~~
+![image](images/image.jpg)
 
 ## 4. Related Topics
 

@@ -22,7 +22,7 @@ Home > Human Resources > Employee > Designation
 1. Enter Description and Required Skills (optional).
 1. Save.
 
-~~Designation~~
+![image](images/image.jpg)
 
 :::note
 Note: The skills required for an Employee of a particular Designation that are specified in the "Required Skills" section of the Designation doctype can be directly fetched in the Employee Skill Map to evaluate an employee's performance based on his skills.

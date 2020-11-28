@@ -30,18 +30,19 @@ Home > CRM > Campaign > Social Media Post
    vAttach image(Optional).
 1. Save and Submit.
 
-~~New Social Media Post~~
+![image](images/image.jpg)
 
 ## 3. Features
 
 ### 3.1 Immediate Post
 
 Users can also immediately post just after submitting a Social Media Post by clicking the 'Post Now' button.
-~~Post Now~~
+![image](images/image.jpg)
 
 ### 3.2 Reschedule
 
-Users can change the Scheduled Time of the post. In case there is an error, users can reschedule the post by changing the 'Scheduled Time' of the Social Media Post document. ~~Reschedule Post~~
+Users can change the Scheduled Time of the post. In case there is an error, users can reschedule the post by changing the 'Scheduled Time' of the Social Media Post document.
+![image](images/image.jpg)
 
 ## 4. Related Topics
 

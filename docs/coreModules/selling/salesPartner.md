@@ -21,7 +21,7 @@ Home > Selling > Sales Partner
 1. Enter the Sales Partner name and the Commission Rate.
 1. You can also select the type of Sales Partner you're creating to identify if they're a Reseller or Retailer, and so on.
 1. Save.
-   ~~Sales Partner~~
+   ![image](images/image.jpg)
 
 ## 2. Features
 
@@ -29,7 +29,7 @@ Home > Selling > Sales Partner
 
 You can add and track a Sales Partner's Addresses and Contact details. These can be added in the Address & Contacts section in a Sales Partner:
 
-~~Sales Partner Address~~
+![image](images/image.jpg)
 
 ### 2.2 Sales Partner Target
 
@@ -43,7 +43,7 @@ To see the listing of partners, go to:
 
 https://yourCompanyName.CERP.com/partners
 
-~~Sales Partner~~
+![image](images/image.jpg)
 
 ### 2.4 Track Sales via Sales Partner
 
@@ -53,7 +53,7 @@ URL as shown below should be sent to the sales partner to use in their website/c
 
 e.g. A URL having "sp" as parameter like this http://xyz.CERP.com?sp=speed will capture the Sales Partner Information in the Sales Order generated via Shopping Cart.
 
-~~Sales Partner Referral Code~~
+![image](images/image.jpg)
 
 ## 3. Sales Partner Reports
 
@@ -61,19 +61,18 @@ e.g. A URL having "sp" as parameter like this http://xyz.CERP.com?sp=speed will 
 
 To get Sales Order wise Sales Partner commission data.
 
-~~Sales Partner Target~~
+![image](images/image.jpg)
 
 ### 3.2 Sales Partner Transaction Summary
 
 To get Sales Order item-wise Sales Partner commission data.
 
-~~Sales Partner Target~~
+![image](images/image.jpg)
 
 ### 3.3 Sales Partner Target Variance based on Item Group
 
 This report will provide you variance between target and actual performance of the Sales Partner based on the Sales Order / Sales Invoice / Delivery Note data. User can view this report period wise like Monthly, Quarterly, Half-Yearly, or Yearly.
-
-~~Sales Partner Target~~
+![image](images/image.jpg)
 
 ## Related Topics
 

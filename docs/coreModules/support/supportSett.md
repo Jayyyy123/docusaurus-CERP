@@ -11,7 +11,7 @@ To access Support Settings, go to:
 Home > Support > Settings > Support Settings
 :::
 
-~~Issue~~
+![image](images/image.jpg)
 
 ## 1. Service Level Agreements
 

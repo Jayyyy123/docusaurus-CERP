@@ -14,7 +14,7 @@ If you receive payment in the slab of 30-70, then you can define Payment Term fo
 
 In the Payment Terms Template, you can select all the Payment Terms and define a template which can be easily applied in the sales and purchase transactions.
 
-~~Payment Terms Template~~
+![image](images/image.jpg)
 
 ## 1. Prerequisites
 

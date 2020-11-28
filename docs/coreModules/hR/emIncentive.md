@@ -30,7 +30,7 @@ Before creating an Employee Incentive, it is advisable to create the following:
 1. Save and Submit.
 1. On submit, the 'Additional Salary' document of the specified 'Salary Component' is created. This will be fetched while running the Payroll Entry.
 
-~~Employee Incentive~~
+![image](images/image.jpg)
 
 ## 2. Related Topics
 

@@ -29,7 +29,7 @@ Before creating a Job Opening, it is advisable you create the following:
 1. Select the Designation and Department. Based on Designation selected, appropriate Staffing Plan and Planned Number of Positions will be fetched.
 1. Save.
 
-~~Job Opening~~
+![image](images/image.jpg)
 
 Once the Job Opening is saved, you can directly create a new Job Applicant from the dashboard.
 

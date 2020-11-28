@@ -32,7 +32,7 @@ Once this is set, a new Milestone record is created every time the status of any
 
 The Milestone can be viewed in the timeline of the view:
 
-~~Assign~~
+![image](images/image.jpg)
 
 Note: Milestones work independently of Versions.
 

@@ -111,12 +111,12 @@ Human Resources > Shift Management > Shift Request
 1. Select Approver
 1. Save
 
-~~Shift Request~~
+![image](images/image.jpg)
 
 Shift Assignment
 Once the Shift Request is Approved and submitted it automatically creates the Shift Assignments for an Employee.
 
-~~Shift Assignment~~
+![image](images/image.jpg)
 
 :::note
 Note: The Assignment for active shift-type will be for a fixed period if there is an End Date otherwise, it will be treated as an ongoing shift with no End Date. Users can update End Date and status even after submitting the document.
@@ -128,12 +128,12 @@ A Shift Request Approver is a user who can approve a Shift Request of an Employe
 
 Department Level: Shift Request Approvers for each department can be configured in the Department master. Multiple Shift Request Approver can be set in a Department.
 
-~~Shift Request Approvers~~
+![image](images/image.jpg)
 
 When an Employee belonging to a particular department request for Shift Type, the Shift Request Approver set in that Employee's department master will be considered as his Shift Type Approvers.
 
 Employee Level: Shift Request Approver can also be set Employee-wise in the employee master.
 
-~~Shift Request Approvers~~
+![image](images/image.jpg)
 
 If Shift Request Approver are set at both Employee-level and Department-level, the Employee-level Shift Request Approver will be considered as the default Leave Approver in this case.

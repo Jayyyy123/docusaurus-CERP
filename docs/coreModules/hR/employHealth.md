@@ -19,11 +19,11 @@ Home > Human Resources > Employee > Employee Health Insurance
 1. Enter the Health Insurance Name.
 1. Save.
 
-~~Employee~~
+![image](images/image.jpg)
 
 Additionally, in the Employee master, you can attach the Health Insurance Provider Name and fill in the Health Insurance No.
 
-~~Employee~~
+![image](images/image.jpg)
 
 ## 2. Related Topics
 

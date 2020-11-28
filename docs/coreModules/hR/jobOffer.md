@@ -26,7 +26,7 @@ Before creating a Job Offer, it is advisable to create the following:
 1. Set the Status of the Job Offer (Awaiting Response, Accepted, Rejected).
 1. Save and Submit.
 
-~~Job Offer~~
+![image](images/image.jpg)
 
 Note: A Job Offer can be made only against a Job Applicant
 
@@ -43,5 +43,4 @@ All the Terms and Conditions related to the Job Offer can be specified in this s
 ### 3.3 Printing Details
 
 You can create a pre-designed print format to print you Job Offer. To do so, select the Letter Head and Print Heading in the Printing Details section.
-
-~~Job Offer~~
+![image](images/image.jpg)

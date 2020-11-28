@@ -27,7 +27,7 @@ Creating a Tax Category is simple, go to the Tax Category list, click on New and
 - This will fetch the Sales Tax Template linked to the Tax Rule. Hence, the rows in the Tax table will be automatically filled.
 - Tax Category can be used to group Customers to whom same tax will be applied. For example, Government, NGO, commercial, etc.
 
-~~Tax Category~~
+![image](images/image.jpg)
 
 :::tip
 Tip: One Tax Category can be assigned to multiple Tax Rules. So you can create different combinations to apply taxes automatically to transactions.
@@ -41,7 +41,7 @@ Tax Category is automatically determined in a transaction by either the Party Ad
 1. Supplier
 1. Address Billing or Shipping. You can select whether Billing Address or Shipping Address gets preference by changing the 'Determine Address Tax Category From' option in Accounts Settings. Tax Category is determined from Party Address first. If the Address is not assigned any Tax Category, then the Party's Tax Category is used.
 
-~~Tax Cat Address~~
+![image](images/image.jpg)
 
 4. Item
 5. You can also manually select the Tax Category in a transaction.

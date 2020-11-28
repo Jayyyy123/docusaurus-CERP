@@ -8,7 +8,7 @@ The concept of accounting is explained with an example given below: We will take
 
 Mama (The Tea-stall owner) invests Rs. 25000 to start the business.
 
-~~JE~~
+![image](images/image.jpg)
 
 ## 1. Investment
 
@@ -16,7 +16,7 @@ Mama invested Rs. 25000 in Company, hoping to get some profit. In other words, c
 
 The company needs equipments (stove, teapot, cups, etc.) and raw materials (tea, sugar, milk, etc.) immediately. He decides to buy them from the nearest general store, "Super Bazaar" whose owner is a friend, so that he gets some credit. Equipments cost him Rs. 2800 and raw materials Rs. 2200. He pays Rs. 2000 out of the total cost which is Rs. 5000. This can be recorded in CERP using a Payment Entry.
 
-~~JE~~
+![image](images/image.jpg)
 
 ## 2. Assets
 
@@ -24,7 +24,7 @@ Equipments are "Fixed Assets" (because they have a long life) and raw materials 
 
 Mama (who takes care of all entries) decides to book sales at the end of every day, so that he can analyze daily sales. At the end of the very first day, the tea stall sells 325 cups of tea, which gives net sales of Rs. 1625. The owner happily books his first day sales.
 
-~~JE~~
+![image](images/image.jpg)
 
 ## 3. Income
 
@@ -32,7 +32,7 @@ Income has been booked in "Sales of Tea" account which has been credited to incr
 
 At the end of the month, the company paid the rent amount of stall (Rs. 5000) and salary of one employee (Rs. 8000), who joined from the very first day.
 
-~~JE~~
+![image](images/image.jpg)
 
 ## 4. Booking Profit
 

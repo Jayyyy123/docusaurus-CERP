@@ -29,7 +29,7 @@ Before creating an Attendance record, it is advised that you create the followin
 1. Select the Status (Present, Absent, On Leave, Half Day).
 1. Save and Submit.
 
-~~Attendance~~
+![image](images/image.jpg)
 
 :::note
 Note: Attendance cannot be marked for future dates.
@@ -56,7 +56,7 @@ In case the attendance for some employees is not marked, you can mark them as pr
 1. Select the dates on which you want to mark attendance for a selected Employee.
 1. Click on the Mark Attendance button and click on Yes.
 
-~~Attendance~~
+![image](images/image.jpg)
 
 ## 4. Related Topics
 

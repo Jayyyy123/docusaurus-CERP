@@ -13,7 +13,7 @@ Before creating an Inter Company Journal Entry, you need to set up your Chart of
 1. Go to: Accounts > Company and Accounts > Chart Of Accounts.
 1. Select the Account which you would like to set as an Internal Account for the transaction, and check the 'Inter Company Account' checkbox. This account can now be used for Inter Company Journal Entry transactions. It is recommended to create a new account for inter company transactions.
 
-   ~~Internal Account~~
+   ![image](images/image.jpg)
 
    You need to do the same for all the Companies' Accounts which you want to use for Inter Company Journal Entry transactions.
 
@@ -44,15 +44,15 @@ Before creating an Inter Company Journal Entry, you need the following:
    - The Cost Center (If it is an Income or Expense).
 1. On submitting the Journal Entry, you will find a button on the top right corner, Make Inter Company Journal Entry.
 
-~~Submitted Inter Company Journal Entry~~
+![image](images/image.jpg)
 
 7. Click on the button. Now, you will be asked to select the Company against which you wish to create the linked Journal Entry.
 
-~~Select Company~~
+![image](images/image.jpg)
 
 8. On selecting the Company, you will be routed to another Journal Entry where the relevant fields will be mapped, i.e. Company, Voucher Type, Inter Company Journal Entry Reference etc.
 
-~~Linked Journal Entry~~
+![image](images/image.jpg)
 
 9. Select the Internal accounts for the second Company in the table.
 

@@ -14,7 +14,7 @@ Home > Support > Issues > Issue Type
 :::
 To create an Issue Type, click on New and enter a name for the type. A description can be added.
 
-~~Issue Type~~
+![image](images/image.jpg)
 
 Issue Priority
 Issue Priority indicates the urgency of solving an Issue
@@ -27,11 +27,11 @@ Home > Support > Issues > Issue Priority
 :::
 To create an Issue Priority, click on New and enter a name for the type. A description can be added.
 
-~~Issue~~
+![image](images/image.jpg)
 
-~~Issue Priority list~~
+![image](images/image.jpg)
 
-~~Issue~~
+![image](images/image.jpg)
 
 ## Related Topics 
 1. Issue

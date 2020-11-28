@@ -6,7 +6,7 @@ sidebar_label: Tasks
 
 **In project management, a task is an actionable unit or activity which needs to be completed.**
 
-~~Task~~
+![image](images/image.jpg)
 
 To access Tasks, go to,
 :::note
@@ -19,7 +19,7 @@ Home > Projects > Projects > Task
 1. Add the subject of the task.
 1. Save.
 
-~~Task~~
+![image](images/image.jpg)
 
 1. Alternatively, a task can also be created from a Project in the following way:
 
@@ -28,7 +28,7 @@ Home > Projects > Projects > Task
 1. Add the subject of the task.
 1. Save.
 
-~~Task~~
+![image](images/image.jpg)
 
 ### 1.1 Additional Options while creating a Project
 
@@ -44,7 +44,7 @@ The following additional details can be added when editing a new task:
 - Is Group: This box can be checked to indicate that a task is a parent task, and can be further divided into multiple sub-tasks.
 - Parent Task: If a particular task is a part of a group task, the parent task can be linked to the task from this field.
 
-~~Task~~
+![image](images/image.jpg)
 
 ## 2. Features
 
@@ -57,7 +57,7 @@ The following additional details can be added when editing a new task:
 - Is Milestone: This box can be checked in the cases where a particular task is a Milestone in a Project.
 - Description: You can add a description of the task here.
 
-~~Task~~
+![image](images/image.jpg)
 
 ### 2.2. Dependencies and Actual Time
 
@@ -65,13 +65,13 @@ The following additional details can be added when editing a new task:
 
 Task dependencies can be viewed in the Gantt Charts in the following way.
 
-~~Task~~
+![image](images/image.jpg)
 
 - Actual Start Date: The actual date and time on which the Task is started get recorded basis the Timesheets.
 
 - Actual End Date: The actual date and time on which the task was finished get recorded here via the Timesheets.
 
-~~Task~~
+![image](images/image.jpg)
 
 ### 2.3. Costing
 
@@ -84,7 +84,7 @@ Task dependencies can be viewed in the Gantt Charts in the following way.
 - Department: You can enter the Owner Department for the task. Irrespective of the Owner department of the Project, each task can be carried out by a different department.
 - Company: You can change the Company for which this Task is being carried out. This can be used in cases where A company is carrying out the Task for its Sister Company or its Parent Company or a Subsidiary.
 
-~~Task~~
+![image](images/image.jpg)
 
 ## 3. Video
 

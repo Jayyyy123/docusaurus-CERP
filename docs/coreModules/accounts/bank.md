@@ -12,7 +12,7 @@ To access Bank, go to:
 Home > Accounting > Bank Statement > Bank
 :::
 
-~~Bank~~
+![image](images/image.jpg)
 
 ## 1. How to create a Bank
 

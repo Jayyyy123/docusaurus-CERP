@@ -24,7 +24,7 @@ Home > Asset > Maintenance > Asset Maintenance
 
 Before creating and using Asset Maintenance, it is advised to create the following first:
 
-~~Asset~~
+![image](images/image.jpg)
 Go to an Asset master and check the 'Maintenance Required' checkbox in Asset to enable Asset Maintenance. Asset
 Asset Maintenance Team
 
@@ -42,7 +42,7 @@ For each asset, create an Asset Maintenance record listing all the associated ma
 
 After saving, you can assign the task to a user.
 
-~~Asset~~
+![image](images/image.jpg)
 
 If the Item is serialized, the Serial Number can be entered.
 

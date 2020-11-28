@@ -22,29 +22,29 @@ Home > Selling > Sales > Brand
 1. Enter a Brand name and enter a description if needed.
 1. Save.
 
-~~Brand~~
+![image](images/image.jpg)
 
 Now this Brand can be associated with different Items.
 
-~~Brand in Item~~
+![image](images/image.jpg)
 
 ## 2. Features
 
 ### 2.1 Setting defaults for Items of this Brand
 
-~~Brand Defaults~~
+![image](images/image.jpg)
 
 The following defaults can be set for a Brand. On assigning this brand to an Item, the set defaults will be fetched when performing Sales/Purchase transactions with Item of this Brand.
 
 - Default Warehouse: The Warehouse from which the Item will be sourced/stored depending on the transaction.
 - Default Price List: The Price List set here will be fetched in Purchase/Sales transactions.
-  ~~Purchase Defaults~~
+  ![image](images/image.jpg)
   When performing Purchase transactions like Purchase Order, Purchase Receipt, or Purchase Invoice, the defaults set here will be fetched on selecting Item of this Brand.
 
 - Default Buying Cost Center
 - Default Supplier
 - Default Expense Account
-  ~~Sales Defaults~~
+  ![image](images/image.jpg)
   When performing Sales transactions like Sales Order, Delivery Note, or Sales Invoice, the defaults set here will be fetched on selecting Item of this Brand.
 
 - Default Selling Cost Center

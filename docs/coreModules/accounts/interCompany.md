@@ -18,7 +18,7 @@ For example, you can create a Purchase Invoice for a company say 'Company ABC', 
 1. Select the Customer who you would want to choose for the inter-linked invoice.
 1. Enable the checkbox, Is Internal Customer shown as follows:
 
-~~Internal Customer~~
+![image](images/image.jpg)
 
 4. Add the company which the Customer represents in the Represents Company field. This the company for which the Sales Invoice will be created.
 
@@ -31,7 +31,7 @@ For example, you can create a Purchase Invoice for a company say 'Company ABC', 
 11. In the table Allowed To Transact With for the Supplier, add the company which the Customer represents. This is the company against which you are going to make an inter-linked Purchase Invoice.
 12. Here is a screenshot of the Supplier company to avoid any confusion:
 
-~~Internal Supplier~~
+![image](images/image.jpg)
 
 ### 1.2 Creating the Invoice
 
@@ -39,7 +39,7 @@ For example, you can create a Purchase Invoice for a company say 'Company ABC', 
 1. Remember to select the Customer who is an internal customer and company from which he's buying.
 1. Save and Submit the Invoice.
 
-~~Inter company invoice~~
+![image](images/image.jpg)
 
 4. Before you make an Inter Company Invoice you need to do the following:
 

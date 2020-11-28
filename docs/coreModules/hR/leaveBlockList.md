@@ -31,7 +31,7 @@ Before you create a Leave Block List, it is advisable you have the following doc
 1. Enter Users to approve Leave Applications for Blocked Days in the 'Leave BLock List Allowed' table.
 1. Save.
 
-~~Leave Block List~~
+![image](images/image.jpg)
 
 Note: Enable the 'Applies to Company' option if you want the Leave Block List to be applicable for the entire Company. If not checked, the list will have to be added to each Department where it has to be applied.
 

@@ -35,7 +35,7 @@ To create 'Item Variants' against a 'Template' click on 'Create'. From there, ch
 
 Creating multiple variants in CERP:
 
-Make Variants
+![image](images/image.jpg)
 
 To learn more about setting attributes check out Item Attributes
 

@@ -24,7 +24,7 @@ On the top right, click on New to create the first Crop Cycle. A new Crop Cycle 
 
 It should now look something like this
 
-~~Task~~
+![image](images/image.jpg)
 
 Repeat these for every Crop Cycle you need
 
@@ -34,4 +34,4 @@ As you can see a Project was created, with the same name as the Crop Cycle and l
 Projects > Project
 :::
 
-~~Task~~
+![image](images/image.jpg)

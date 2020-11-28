@@ -15,11 +15,11 @@ Home > Healthcare > Consultation > Vital Signs
 :::
 Select the Patient, enter Date and Time and Save. You can capture various Vital Signs as shown below:
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 Normal values or ranges are provided for ease of assessment. An automated BMI calculator is also made available.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 You can also create and record Vitals for a Patient from Patient Appointment, Patient Encounter or the Patient master documents by using the Create > Vital Signs button.
 

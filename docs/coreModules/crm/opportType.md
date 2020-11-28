@@ -18,4 +18,4 @@ Home > CRM > Settings > Opportunity Type
 1. Go to the Opportunity list and click on New.
 1. Enter 'Name'.
 1. Enter 'Description'
-   ~~Opportunity~~
+   ![image](images/image.jpg)

@@ -18,11 +18,11 @@ Home > Healthcare > Settings > Healthcare Settings
 1. Enter "Valid number of days"
 1. For example, as shown below, a patient can have 3 free follow-ups within 30 days:
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 1. After this is configured, as soon as you create an Appointment for a new patient, a Fee Validity document will be created.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 This Fee Validity document will be updated with every appointment:
 
@@ -33,7 +33,7 @@ This Fee Validity document will be updated with every appointment:
 - Valid Till: The last date of Fee Validity. This is calculated as Start Date + Valid Number of Days (from Healthcare Settings).
 - Reference Appointments: Links to all the appointments covered under the Fee Validity document.
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 :::note
 This Form has been Changed in Version 13
 :::

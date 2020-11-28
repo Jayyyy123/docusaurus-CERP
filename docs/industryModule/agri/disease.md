@@ -20,10 +20,8 @@ The basic information should be entered as such:
 - Treatment Task: This may contain a list of all the Tasks which need to to be executed in orfer to get rid of the Disease
   Once you fill the form, click Save
 
-~~Click Save~~
-
+![image](images/image.jpg)
 Now it should look something like this
 
-~~Task~~
-
+![image](images/image.jpg)
 These Tasks will be imported into the Crop Cycle Project if you choose to add this Disease to the list of Detected Diesase in Crop Cycle

@@ -6,7 +6,7 @@ sidebar_label: Setting up the Masters for Learning Management System
 
 The CERP Learning Management System uses the following masters to show content on the portal.
 
-~~LMS Setting~~
+![image](images/image.jpg)
 
 ## 1. Programs
 
@@ -18,9 +18,9 @@ On the portal, for students to be able to view the programs on the portal, a pro
 
 If 'Allow Self Enroll' is not checked, the program will be visible to only those students who are already enrolled in the program, this way you can host private programs on your portal.
 
-~~LMS Setting~~
+![image](images/image.jpg)
 
-~~LMS Setting~~
+![image](images/image.jpg)
 
 Learn more about Programs here.
 
@@ -28,7 +28,7 @@ Learn more about Programs here.
 
 For each of the courses in a particular program, you can set a course intro and a course hero image to be used on the portal. There is a table to add topics too, these topics will be displayed on the LMS to all enrolled students.
 
-~~LMS Setting~~
+![image](images/image.jpg)
 
 Learn more about courses here.
 
@@ -36,7 +36,7 @@ Learn more about courses here.
 
 Similar to the course, Topic has a table where you can add the content. You can add three different types of content viz. Video, Article and a Quiz.
 
-~~LMS Setting~~
+![image](images/image.jpg)
 
 Learn more about topics here.
 
@@ -51,11 +51,11 @@ Education > Content Masters > Article > New Article
 
 Adding articles is pretty straight forward, the content field is a rich-text field, you can add images, tables, links, and more to your articles. There is a title field that is used as the name of the article to be used in links, this title will be displayed on the portal. Other details include Author and Publish Date, these are optional fields and can be used for attributing resources.
 
-~~LMS Setting~~
+![image](images/image.jpg)
 
 The article is published if its parent program is published, it looks as follows on the portal.
 
-~~LMS Setting~~
+![image](images/image.jpg)
 
 ### 5.2 Videos
 
@@ -63,11 +63,11 @@ Videos can be added from both Vimeo and YouTube, using the Video DocType. The ap
 
 Title field stores the name of the document as well as the title to be displayed on the portal. You can also add a publish date as well as the duration of the video in minutes.
 
-~~LMS Setting~~
+![image](images/image.jpg)
 
 Just like articles, video is published if its parent program is published, it looks as follows on the portal.
 
-~~LMS Setting~~
+![image](images/image.jpg)
 
 ### 5.3 Quizzes
 
@@ -80,16 +80,16 @@ You need to set a passing score, max attempts as well as a grading basis for the
 - Grading Basis: Once the max number of attempts are exhausted, the final score is taken based on the grading basis. The following are the available options:
 - Latest Highest Score: Highest Score from all attempts
 - Latest Attempt: Score from the last attempts
-  ~~LMS Setting~~
+  ![image](images/image.jpg)
 
 ### Questions
 
 You can add questions to be listed in quizzes. Based on the number of options marked correct, the type of the question is automatically set to either Single Correct Answer or Multiple Correct Answers.
 
-~~LMS Setting~~
+![image](images/image.jpg)
 
-~~LMS Setting~~
+![image](images/image.jpg)
 
 Quizzes are also automatically published with its parent program, it looks as follows on the portal.
 
-~~LMS Setting~~
+![image](images/image.jpg)

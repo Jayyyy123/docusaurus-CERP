@@ -14,7 +14,7 @@ Home > Accounting > General Ledger > Journal Entry Template
 
 ## 1. How to Create and use a Journal Entry Template:
 
-~~Journal Entry Template~~
+![image](images/image.jpg)
 
 1. Go to the Journal Entry Template List and click on New.
 1. Add the following details:
@@ -32,7 +32,7 @@ Home > Accounting > General Ledger > Journal Entry Template
 
 3. Save and go to Journal Entry and click on new.
 4. In the 'From Template' field when you select the template, it will load the accounts and other options set in it. Please note it will clear the Accounting Entries table first, but you can add more accounts to the table apart from those fetched from the template.
-   ~~Journal Entry Template~~
+   ![image](images/image.jpg)
 
 ## 3. Related Topics
 

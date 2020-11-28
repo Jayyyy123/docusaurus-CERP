@@ -6,7 +6,7 @@ sidebar_label: Asset Depreciation
 
 The system automatically creates a schedule for depreciation based on depreciation method and other related inputs like 'Available to Use Date' in the Asset record. It is also possible to create multiple depreciation schedules for different Finance Books. You need to tick the 'Calculate Depreciation' checkbox while creating an asset for calculating its depreciation and adding entries to the depreciation table in the Asset record.
 
-~~Asset~~
+![image](images/image.jpg)
 
 Types of depreciations in CERP:
 
@@ -31,7 +31,7 @@ Manual: In this method, you can define the Schedule Date and Depreciation Amount
 
 On the scheduled date, system creates a depreciation entry by creating a Journal Entry and the same Journal Entry is shown in the depreciation table for reference. Next Depreciation Date and Current Value are also updated on submission of depreciation entry.
 
-~~Asset~~
+![image](images/image.jpg)
 
 ## 2. Accounting entries on depreciation
 
@@ -47,13 +47,13 @@ You can enable booking of depreciation entry automatically from Accounts Setting
 
 The system will automatically set the Fiscal Year end date as the next depreciation date and calculate the depreciation amount pro rata temporis based on the Available-for-use Date (IFRS16).
 
-~~Asset~~
+![image](images/image.jpg)
 
 ## 4. An example
 
 For better understanding, net value of the asset on different depreciation dates are shown in a line graph.
 
-~~Asset~~
+![image](images/image.jpg)
 
 ## 5. Related Topics
 

@@ -11,7 +11,7 @@ Inpatient Record is automatically created when a practitioner order an admission
 Healthcare > Patient Care > Inpatient Record
 :::
 
-~~CERP Healthcare~~
+![image](images/image.jpg)
 
 Healthcare Practitioner can order a patient admission from the Patient Encounter document using the Schedule Admission button. This will automatically create an Inpatient Record for the Patient in Admission Scheduled status. The IP admission officer can then allot a vacant room to the Patient as recommended by the referring practitioner in the admission order.
 

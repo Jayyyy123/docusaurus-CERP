@@ -4,7 +4,7 @@ title: Unit of Measure (UoM)
 sidebar_label: Unit of Measure (UoM)
 ---
 
-A UoM is a unit using which an Item is measured.
+**A UoM is a unit using which an Item is measured.**
 
 By default, there are many UoMs created in CERP. However, more can be added depending on your business use case. In the UoM there is an option 'Must be Whole Number'. If this is checked, you cannot use fraction numbers in this UoM. To know more about fractions and UoMs, check out this page.
 
@@ -12,4 +12,4 @@ The UoM list by itself only stores the name. The actual conversion rates are sto
 
 For example, here 1 Kg is approximately 2.2 Pounds and the exact conversion factor is stored:
 
-~~UoM conversion factor~~
+![image](images/image.jpg)

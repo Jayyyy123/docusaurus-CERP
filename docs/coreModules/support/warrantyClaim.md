@@ -28,7 +28,7 @@ Before creating and using Warranty Claim, it is advised that you create the foll
 1. Select the Serial Number of the Item on which Warranty Claim is to be recorded. The system will then automatically fetch the Serial No’s details and indicate whether this is under warranty or AMC.
 1. Enter a description of the Issue. User can upload and image and create a table.
 1. Save.
-   ~~Warranty Claim~~
+   ![image](images/image.jpg)
 
 ### 2.1 Additional Options when Creating a Warranty Claim
 
@@ -53,7 +53,7 @@ Once a Serial Number is selected, the following details about the Item will be f
 - Warranty Expiry Date
 - AMC Expiry date
 
-~~Warranty Serial~~
+![image](images/image.jpg)
 
 ### 3.2 Resolution
 
@@ -61,7 +61,7 @@ Once a Serial Number is selected, the following details about the Item will be f
 - Resolved By: Set the Email ID of the User who has resolved the Warranty Claim. The email ID is linked with User created in the system.
 - Resolved Details: This is a text field. User can enter details about the Warranty or AMC claim. A User can also upload the image, enter or create a table.
 
-~~Warranty Resolution~~
+![image](images/image.jpg)
 
 ### 3.3 Customer Details
 
@@ -74,7 +74,7 @@ The following details of the Customer will be fetched:
 - Customer Addresss
 - Service Address: User can enter the Service Address if it is different from Customer Address.
 
-~~Warranty Customer~~
+![image](images/image.jpg)
 
 ### 3.4 More Information
 

@@ -31,7 +31,7 @@ To create a new Employee Tax Exemption Declaration:
 1. Enter the Maximum Exemption Amount and Declared Amount.
 1. Save and Submit.
 
-~~Employee Tax Exemption Declaration~~
+![image](images/image.jpg)
 
 The Total Exemption Amount will be exempted from annual taxable earnings of the employee while calculating the tax deductions in Payroll.
 
@@ -45,7 +45,7 @@ Exemptions from taxable salary are usually restricted to spendings on particular
 
 You can configure Employee Tax Exemption Category by going to, Employee Tax and Benefits > Employee Tax Exemption Category
 
-~~Employee Tax Exemption Category~~
+![image](images/image.jpg)
 
 ### 3.2 Employee Tax Exemption Sub-Category
 
@@ -53,7 +53,7 @@ Under each category, there could be many heads for which the exemptions are allo
 
 You can configure Employee Tax Exemption Category by going to, Employee Tax and Benefits > Employee Tax Exemption Sub-Category
 
-~~Employee Tax Exemption Category~~
+![image](images/image.jpg)
 
 ### 3.3 HRA Exemption (Regional - India)
 
@@ -68,7 +68,7 @@ Enter the Monthly House Rent and check the 'Rented in Metro City' checkbox if ap
 
 Once the declaration is submitted, you can submit the proof of your tax exemption by clicking on the Submit Proof button.
 
-~~Employee Tax Exemption Declaration~~
+![image](images/image.jpg)
 
 Note: HRA component needs to be configured in Company master under HRA Settings sections for the HRA exemption to work.
 

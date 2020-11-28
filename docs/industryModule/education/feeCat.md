@@ -8,7 +8,7 @@ sidebar_label: Fee Category
 
 For example, Tuition Fees and Hostel fees would make the different categories of fees.
 
-~~Fee Category~~
+![image](images/image.jpg)
 
 To access Fee Category, go to:
 
@@ -18,11 +18,11 @@ Home > Education > Fees > Fee Category
 
 To create a new Fee Category, go to the Fee Category list, and click on new. Add the Name and Description of the Fee Category.
 
-~~Fee Category~~
+![image](images/image.jpg)
 
 For example, Tuition Fees and Hostel fees would make the different categories of fees.
 
-~~Fee Category~~
+![image](images/image.jpg)
 To access Fee Category, go to:
 
 :::note
@@ -31,4 +31,4 @@ Home > Education > Fees > Fee Category
 
 To create a new Fee Category, go to the Fee Category list, and click on new. Add the Name and Description of the Fee Category.
 
-~~Fee Category~~
+![image](images/image.jpg)

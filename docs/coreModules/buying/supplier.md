@@ -16,7 +16,7 @@ Home > Buying > Supplier > Supplier
 1. Enter a name for the supplier.
 1. Select the supplier group whether Pharmaceutical, Hardware etc.
 1. Save.
-   ~~Supplier Master~~
+   ![image](images/image.jpg)
    The options to Warn RFQs, POs, Prevent RFQs, POs will be available once you create a Supplier Scorecard and transactions are made.
 
 ## 2. Features
@@ -39,7 +39,7 @@ Fields in future transactions will be auto-populated if the 'Default' fields lik
 
 If the "Purchase Order Required" or "Purchase Receipt Required" option is configured as "Yes" in Buying Settings, it can be overridden for a particular supplier by enabling the "Allow Purchase Invoice Creation Without Purchase Order" or "Allow Purchase Invoice Creation Without Purchase Receipt" in the Supplier Master.
 
-~~Supplier Master~~
+![image](images/image.jpg)
 
 ### 2.3 Currency and Price List
 
@@ -71,7 +71,7 @@ You can integrate a supplier with an account. For all Suppliers, "Creditor" acco
 
 If you want to customize payable account for the Supplier, you should first add a payable Account in the Chart of Account, and then select that Payable Account in the Supplier master.
 
-~~Supplier Master~~
+![image](images/image.jpg)
 
 If you don't want to customize payable account, and proceed with default payable account "Creditor", then do not update any value in the Default Supplier Account's table.
 
@@ -87,7 +87,7 @@ You can add the supplier's website and any additional details about your supplie
 
 Contacts and Addresses in CERP are stored separately so that you can create multiple Contacts and Addresses for one Supplier. Once Supplier is saved, you will find the option to create Contact and Address for that Supplier.
 
-~~Supplier Master~~
+![image](images/image.jpg)
 
 :::tip
 Tip: When you select a Supplier in any transaction, Contact for which "Is Primary" field id checked, it will auto-fetch with the Supplier details.
@@ -104,7 +104,7 @@ Once all the necessary details are filled, save the document. On saving, options
 - Purchase Invoice: Purchase Invoices you've made against this supplier.
 - Payment Entry: Payment Entries for the Purchase Invoices against this supplier.
 - Pricing Rule: Any Pricing Rules linked with this supplier. See section 2.2 Currency and Price List to know how it works.
-  ~~Supplier Save~~
+ ![image](images/image.jpg)
 
 By clicking on the View button, you can view the Accounting Ledger or Accounts Payable directly for this supplier.
 

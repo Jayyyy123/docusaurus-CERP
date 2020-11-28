@@ -33,7 +33,7 @@ Before creating a new template, note that templates are already created for many
 1. Select an account head which has pre set tax rates or create your own.
 1. Selecting default will apply this template by default for new Sales transactions.
 1. Save.
-   ~~Sales taxes~~
+   ![image](images/image.jpg)
 
 - Is Inter State: For India. On selection of a customer in Sales Invoice or Delivery Note, if the GST codes of place of supply and customer shipping address don't match, the template with 'Is Inter State' ticked will be set as the taxes template. If the place of supply and shipping address are the same, the default taxes template will be applied. This also applies to Purchase Invoice, on selection of Supplier, the templates are set depending on the addresses. For example, IGST.
 

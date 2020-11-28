@@ -26,7 +26,7 @@ Once a Payment Entry is created against the original Purchase Invoice, the amoun
 
 This is how the ledger is affected after a payment entry against a returned invoice:
 
-~~Debit Note Ledger~~
+![image](images/image.jpg)
 
 Refer the Purchase Invoice page for any other details.
 
@@ -40,7 +40,7 @@ From Supplier Blue Mills, you had purchased Cotton worth Rs 2400 + taxes and at 
 
 Debit Note with payment entry in CERP for above example is as below:
 
-~~Sales Invoice~~
+![image](images/image.jpg)
 
 ## 3. Related Topics
 

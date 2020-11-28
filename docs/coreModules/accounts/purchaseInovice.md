@@ -41,7 +41,7 @@ For manual creation, follow these steps:
 1. The Rate and Amount will be fetched.
 1. Save and Submit.
 
-~~Purchase Invoice~~
+![image](images/image.jpg)
 
 ### 2.1 Additional options when creating a Purchase Invoice
 
@@ -76,13 +76,13 @@ Sometimes you may need to hold an invoice from being submitted.
 
 Hold Invoice: Enable this checkbox to put the Purchase Invoice on hold. This can be done only before submitting the invoice. Once 'Hold Invoice' is enabled and the Purchase Invoice is submitted, the status will change to 'Temporarily on Hold'.
 
-~~PI Hold~~
+![image](images/image.jpg)
 
 Once the purchase invoice gets submit and you want to change 'Release Date' then you can take the help of the 'Hold Invoice' button, which is available on the top right.
 
 If you want to hold submitted purchase invoice then you can hold using 'Block Invoice' option and If you want to unblock again then use 'Unblock Invoice' option.
 
-~~Block PI~~
+![image](images/image.jpg)
 
 This is invoice level holding, Suppliers can be put on hold. Learn more here.
 
@@ -106,7 +106,7 @@ This is invoice level holding, Suppliers can be put on hold. Learn more here.
 
 You can set the currency in which the Purchase Invoice order is to be sent. This is fetched from the Purchase Order. If you set a Pricing List, then the item prices will be fetched from that list. Ticking on 'Ignore Pricing Rule' will ignore the Pricing Rules set in Accounts > Pricing Rule.
 
-~~PI Price List~~
+![image](images/image.jpg)
 
 To know about Price Lists, click here.
 
@@ -158,7 +158,7 @@ The Update Stock checkbox should be checked if you want CERP to automatically up
 
 The Taxes and Charges will be fetched from the Purchase Order or Purchase Receipt.
 
-~~PI Tax~~
+![image](images/image.jpg)
 
 Visit the Purchase Taxes and Charges Template page to know more about taxes.
 
@@ -176,7 +176,7 @@ A Shipping Rule helps set the cost of shipping an Item. The cost will usually in
 
 Any additional discounts to the whole Invoice can be set in this section. This discount could be based on the Grand Total i.e., post tax/charges or Net total i.e., pre tax/charges. The additional discount can be applied as a percentage or an amount.
 
-~~PI Discount~~
+![image](images/image.jpg)
 
 Visit the Applying Discount page for more details.
 
@@ -188,7 +188,7 @@ For high-value Items, the seller can request an advance payment before processin
 
 The payment for an invoice may be made in parts depending on your understanding with the Supplier. This is fetched if set in the Sales Order.
 
-~~PI Payment Terms~~
+![image](images/image.jpg)
 
 To know more, visit the Payment Terms page.
 
@@ -243,8 +243,7 @@ On submitting a Sales Invoice, the following documents can be created against it
 1. Landed Cost Voucher
 1. Asset
 
-~~PI Submit~~
-
+![image](images/image.jpg)
 ## 4. More
 
 ### 4.1 Accounting Impact
@@ -303,7 +302,7 @@ Date span hold holds the purchase invoice until a specified date. To do it, in t
 
 After the invoice has been saved, you can change the release date by clicking on the "Hold Invoice" drop down button and then "Change Release Date". This action will cause a dialog to appear.
 
-~~Purchase Invoice on hold~~
+![image](images/image.jpg)
 
 Select the new release date and click "Save". You should also enter a comment in the "Reason For Putting On Hold" field.
 

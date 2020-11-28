@@ -12,7 +12,7 @@ When the guest places an order, the waiter will select the table number and add 
 
 To place an order you can select an item and click the enter key so that the item will be updated in the items table.
 
-~~Order Entry~~
+![image](images/image.jpg)
 
 You can also choose items with the POS style item selector.
 
@@ -20,10 +20,10 @@ You can also choose items with the POS style item selector.
 
 When it is time for billing, you just choose the bill and you can select the customer and mode of payment. On saving, a Sales Invoice is generated and the order section becomes empty.
 
-~~Order Entry~~
+![image](images/image.jpg)
 
 ### Sales Invoice
 
 To print the invoice, you can click on the Invoice Link and print the invoice
 
-~~Sales Invoice~~
+![image](images/image.jpg)

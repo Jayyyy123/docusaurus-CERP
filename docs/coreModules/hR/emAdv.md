@@ -27,7 +27,7 @@ Human Resources > Expense Claims > Employee Advance
 1. Select the Advance Account and Mode of Payment.
 1. Save.
 
-~~Expense Claim~~
+![image](images/image.jpg)
 
 :::note
 Note: The Employee can only Save the Employee Advance but cannot Submit it. It can be only submitted by the Expense Approver.

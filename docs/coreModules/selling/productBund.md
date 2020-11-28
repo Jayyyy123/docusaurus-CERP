@@ -21,7 +21,7 @@ Home > Selling > Items and Pricing > Product Bundle
 
 Before creating and using a Product Bundle, it is advised that you create the following first:
 
-~~Item~~
+![image](images/image.jpg)
 
 ## 2. How to create a Product Bundle
 
@@ -48,7 +48,7 @@ In the Items table, you will list all the child items for which we maintain stoc
 
 When making Sales transactions (Sales Invoice, Sales Order, Delivery Note) the Parent Item will be selected in the main item table.
 
-~~Product Bundle~~
+![image](images/image.jpg)
 
 On selection of a Parent Item in the main item table, its child items will be fetched in Packing List table of the transaction. If child item is the serialized item, you will be able to specify its Serial No. in packing List table itself. On submission of the transaction, the system will reduce the stock level of child items from warehouse specified in Packing List table.
 

@@ -17,7 +17,7 @@ There are three main types of entries:
 
 Here's a view of Item Stock Summary in ERPNext.
 
-~~ERPNext Stock~~
+![image](images/image.jpg)
 
 ## 2. A Distributor talks about ERPNext Implementation
 

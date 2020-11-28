@@ -8,7 +8,7 @@ sidebar_label: Selling Settings
 
 Let's see each option available under Selling Settings in CERP.
 
-~~Selling Settings~~
+![image](images/image.jpg)
 
 To access Selling Settings, go to:
 :::note
@@ -60,7 +60,7 @@ If you wish to make Sales Order creation mandatory before the creation of a Sale
 
 This configuration can be overridden for a particular customer by enabling the "Allow Sales Invoice Creation Without Sales Order" checkbox in customer master
 
-~~Sales Order Required~~
+![image](images/image.jpg)
 
 ### 3.2 Delivery Note Required
 
@@ -68,7 +68,7 @@ To make Delivery Note creation as mandatory before Sales Invoice creation, you s
 
 This configuration can be overridden for a particular customer by enabling the "Allow Sales Invoice Creation Without Delivery Note" checkbox in customer master
 
-~~Delivery Note Required~~
+![image](images/image.jpg)
 
 ### 3.3 Sales Update Frequency
 

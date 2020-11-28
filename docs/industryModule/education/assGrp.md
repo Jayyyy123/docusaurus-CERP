@@ -8,7 +8,7 @@ sidebar_label: Assessment Group
 
 For example, if you wish to conduct an assessment for each Academic Term within an Academic Year, then setup Assessment Group as follows.
 
-~~Assessment Group~~
+![image](images/image.jpg)
 
 To access the Assessment Group, go to
 

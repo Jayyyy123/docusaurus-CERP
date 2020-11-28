@@ -18,7 +18,7 @@ Home > Selling > Settings > Territory
 1. Tick 'Group Node' if there'll be sub-territories under this Territory. For example, France is a group Territory and Paris is a sub-territory.
 1. Save.
 
-~~Territory List~~
+![image](images/image.jpg)
 
 You can add multiple sub-territories under a parent territory. On saving, a territory can be selected in transactions and reports.
 

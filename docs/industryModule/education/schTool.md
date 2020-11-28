@@ -6,7 +6,7 @@ sidebar_label: Scheduling Tool
 
 **This tool can be used to create 'Course Schedules'.**
 
-~~Scheduling Tool~~
+![image](images/image.jpg)
 
 ## 1. Creating Course Schedules
 

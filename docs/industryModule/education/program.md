@@ -8,7 +8,7 @@ sidebar_label: Program
 
 For example, Economics Major would be a Program taught at an institution that will have various courses within.
 
-~~Program~~
+![image](images/image.jpg)
 
 An Economics major would look something like this: Program
 
@@ -32,13 +32,13 @@ To create a New Program, it is advised to create the following first:
 1. Select and add the courses within the Program.
 1. Save.
 
-~~Program~~
+![image](images/image.jpg)
 
 ### 2.1 Alternate ways of creating a new Program
 
 A new program can also be created from a course, in the following way:
 
-~~Program~~
+![image](images/image.jpg)
 
 ### 2.2 Additional Options while creating a new Program
 
@@ -50,6 +50,6 @@ Portal Settings
 - Intro Video: Enter the link for the video that you wish to add an Introductory Video for the Program.
 - Description: Add the description of the Program which you want to be visible on the portal.
 
-~~Program~~
+![image](images/image.jpg)
 
 ## 3. Video Tutorial on Program and Courses

@@ -8,7 +8,7 @@ sidebar_label: Salary Slip from Timesheet
 
 To enable the same, you may choose to create the Employee's Salary Slip directly from a Timesheet.
 
-~~Salary Slip~~
+![image](images/image.jpg)
 
 ## 1. How to Create A Salary Slip from A Timesheet
 
@@ -18,7 +18,7 @@ To enable the same, you may choose to create the Employee's Salary Slip directly
    - Salary Slip Timesheet: The details of the Timesheet from which the Salary Slip was created will be captured. You can also more Timesheets here to create a single Salary Slip against multiple Timesheets.
 1. Save and Submit.
 
-~~Salary Slip~~
+![image](images/image.jpg)
 
 ### 1.1. Additional Details while Creating a Salary Slip form a Time Sheet:
 

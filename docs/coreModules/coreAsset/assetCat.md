@@ -23,7 +23,7 @@ Home > Asset > Assets > Asset Category
 1. Check 'Enable Capital Work in Progress Accounting' if you want to maintain records of assets under a temporary balance sheet account instead of the corresponding asset account. To know more, visit this page.
 1. Save.
 
-~~Asset Category~~
+![image](images/image.jpg)
 
 ### 1.1 Additional options when creating an Asset Category
 

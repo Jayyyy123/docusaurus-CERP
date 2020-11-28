@@ -27,7 +27,7 @@ Select the Territory.
 If the customer is being created against a lead, you can select the same in From Lead field.
 Save.
 
-~~Create Customer~~
+![image](images/image.jpg)
 
 You can disallow sales orders and sales invoices against a customer by clicking on 'Disabled'.
 
@@ -39,7 +39,7 @@ You can also upload customer details via the Data Import Tool.
 
 General flow of transactions for a customer is as following:
 
-~~Customer~~
+![image](images/image.jpg)
 
 Note: Customers are separate from Contacts and Addresses. A Customer can have multiple Contacts and Addresses.
 
@@ -51,7 +51,7 @@ Contacts and Addresses are stored separately so that you can attach multiple Con
 
 If the "Delivery Note Required" or "Sales Order Required" option is configured as "Yes" in Selling Settings, it can be overridden for a particular customer by enabling the "Allow Sales Invoice Creation Without Sales Order" or "Allow Purchase Invoice Creation Without Delivery Note" in the Customer Master.
 
-~~Supplier Master~~
+![image](images/image.jpg)
 
 ### 2.3 Default Currency and Price List
 
@@ -101,7 +101,7 @@ Naming Series: If you would like a unique id to be generated for each customer b
 
 Customer Name: If customer name itself should be used as an id then select 'Customer Name' in Customer Naming By. In this case, if you create two customers with identical names, - 1 will be suffixed to the second customer.
 
-~~Customer~~
+![image](images/image.jpg)
 
 You can set the default customer group, territory and price list in Selling Settings.
 

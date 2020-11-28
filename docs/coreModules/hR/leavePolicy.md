@@ -19,7 +19,7 @@ Home > Human Resources > Leaves > Leave Policy
 1. Select the Leave Type and enter its Annual Allocation.
 1. Save and Submit.
 
-~~Leave Policy~~
+![image](images/image.jpg)
 
 Once submitted, you can enforce the Leave Policy through the dashboard, either to an Employee or an Employee Grade.
 

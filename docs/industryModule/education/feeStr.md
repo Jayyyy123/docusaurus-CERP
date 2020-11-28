@@ -8,7 +8,7 @@ sidebar_label: Fee Structure
 
 The Fee structure can be fetched while creating the Fees for each student.
 
-~~Fee Structure~~
+![image](images/image.jpg)
 
 To access fee Structure, go to:
 :::note
@@ -31,7 +31,7 @@ Before creating a Fee Structure, it is advisable to create the following first:
 1. In the Components Table, enter the Fees Category and Amount.
 1. Save and Submit.
 
-~~Fee Structure~~
+![image](images/image.jpg)
 
 ### 2.1. Additional Options while creating a Fee Structure.
 
@@ -53,12 +53,12 @@ To facilitate that smoothly, you can add your Accounts details in the fee struct
 ### 2.2. Accounting Dimensions
 
 Cost Center: Select and add the name of the Cost Center of your Institute for Accounting Dimensions.
-~~Fee Structure~~
+![image](images/image.jpg)
 
 ## 3. After submitting the Fee Structure
 
 Once you have submitted the Fee Structure, you will be able to create the Fee Schedule from within Fee Structure.
 
-~~Fee Structure~~
+![image](images/image.jpg)
 
 ## 4. Video Tutorial for Fee Structure

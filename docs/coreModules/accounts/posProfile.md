@@ -24,7 +24,7 @@ Home > Retail > Retail Operations > Point-of-Sale Profile
 1. Set a Write Off Account and Write Off Cost Center to which the transactions will be recorded.
 1. Set up payment modes in the table, the default will be cash if nothing is set here. Only the modes set here will be available when using POS. After adding payment modes, set one of them as the default payment method by ticking the checkbox.
 
-~~POS Setting~~
+![image](images/image.jpg)
 
 6. Set the default amounts for the payment methods (recommended: 0).
 7. Save. POS Setting
@@ -53,7 +53,7 @@ By default, all Sales Users can access the POS Profiles created in CERP. However
 
 Setting POS Profile as default: On ticking the Default checkbox in the table, the current POS Profile becomes the default POS Profile for that User. So, the next time the User logs into the system, the POS Profile will be set by default.
 
-~~POS User~~
+![image](images/image.jpg)
 
 :::note
 Note: If you specify a particular User, the POS setting will be applied only to that User. If the User option is left blank, the setting will be set for all users. To understand how POS works, visit the Point of Sale page.
@@ -63,11 +63,11 @@ Note: If you specify a particular User, the POS setting will be applied only to 
 
 On setting an Item Group/Customer Group in a POS Profile, the group will be automatically selected when making transactions with the POS Profile.
 
-~~POS Setting~~
+![image](images/image.jpg)
 
 ### 2.3 Print Settings
 
-~~POS Print~~
+![image](images/image.jpg)
 
 #### Print Format for Online
 
@@ -96,7 +96,7 @@ Then the following can be configured in the POS Profile:
 - Territory
 - Print Format
 - Customer Group
-  ~~POS Offline~~
+  ![image](images/image.jpg)
 
 ### 2.5 Accounting
 

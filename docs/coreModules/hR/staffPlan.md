@@ -28,7 +28,7 @@ Before creating a Staffing Plan, it is necessary you create the following:
 1. Enter the Staffing Plan Details such as Designation, Vacancies, Estimated Cost Per Position, Total Estimated Cost and Number of Positions.
 1. Save and Submit.
 
-~~Staffing Plan~~
+![image](images/image.jpg)
 
 ## 3. Features
 

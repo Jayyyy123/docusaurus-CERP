@@ -22,7 +22,7 @@ Go to the Manufacturer list and click on New.
 Enter a Manufacturer name and enter a description if needed.
 Save.
 
-Manufacturer
+![image](images/image.jpg)
 
 After creating a Manufacturer, it can be set in the Item form with a Manufacturer Part Number for identification. Manufacturer
 

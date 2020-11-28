@@ -27,17 +27,17 @@ Home > Customization > Dashboards > Dashboard
 
 When you click on Show Dashboard, you will be able to see the Dashboard giving the graphic representation of your transactions.
 
-~~Accounting Dashboard~~
+![image](images/image.jpg)
 
 ## 2. Adding Charts to Dashboard
 
 Add charts to this dashboard by either selecting existing Dashboard Chart or creating new ones.
 
-~~Add Chart To Dashboard~~
+![image](images/image.jpg)
 
 Save changes and click on Show Dashboard button to see the dashboard.
 
-~~Show Dashboard Button~~
+![image](images/image.jpg)
 
 ## 3. Creating a New Dashboard Chart
 
@@ -51,30 +51,30 @@ Provide a name for the chart, this will show up in the dashboard as the chart la
 
 Note: New Dashboard Chart Source can only be created by the Administrator User in Developer Mode.
 
-~~Select Dashboard Chart Source~~
+![image](images/image.jpg)
 
 After setting the Chart Source field, the filters table will be shown.
 
 Click the table to edit filters.
 
-~~Filters Table~~
+![image](images/image.jpg)
 
 A modal will be shown to set filters. Click Set to set filters.
 
-~~Filters Modal~~
+![image](images/image.jpg)
 
 After setting Chart Source field, Filters table will be updated with selected filter values.
 
-~~Filters Table With Selected Filter Values~~
+![image](images/image.jpg)
 
 ## 4. Using Dashboards
 
 Every chart will be shown according to the fields set in the corresponding Dashboard Chart. The result from the dashboard chart source is cached to avoid redundant queries. Since the chart data can be stale, each chart will also show the last synced time.
 
-~~Chart Options~~
+![image](images/image.jpg)
 
 The filters used to generate the chart data can also be changed by clicking Set Filters. The chart will be refreshed automatically according to the recently set filters.
 
-~~Modal For Chart Filters~~
+![image](images/image.jpg)
 
 To get the most recent data each chart has to be refreshed forcefully by clicking Force Refresh button from the dropdown menu.

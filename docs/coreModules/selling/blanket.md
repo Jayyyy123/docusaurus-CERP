@@ -28,7 +28,7 @@ Before creating and using a Blanket Order, it is advised that you create the fol
 1. Specify the validity period of the order by selecting From Date and To Date.
 1. Enter Item Code, Quantity and Rate in the Item table. You can also mention the Terms and Conditions for each item.
 1. Submit.
-~~Blanket Order Selling~~
+![image](images/image.jpg)
 
 ## 3. Features
 
@@ -48,7 +48,7 @@ Once a Blanket Order is submitted, you can create new Quotations by clicking on 
 
 You can view Purchase Orders, Sales Orders and Quotations against this Blanket Order through the Dashboard.
 
-~~Blanket Order Dashboard~~
+![image](images/image.jpg)
 
 Note- Multiple Sales Orders, Purchase Orders, and Quotations can be created against one Blanket Order.
 

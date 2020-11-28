@@ -29,7 +29,7 @@ Before creating a Job Applicant, it is advisable you create the following:
 1. Select Source (Campaign, Employee Referral, Walk In, Website Listing).
    Note: If you select the Source as Employee Referral, you will have to select the Employee name in the Source Name Field.
 
-~~Job Applicant~~
+![image](images/image.jpg)
 
 ## 3. Features
 
@@ -44,7 +44,7 @@ Enter the Email Address and the password, and select 'Enable Incoming'
 
 In 'Append To' select 'Job Applicant'
 
-~~Email Account~~
+![image](images/image.jpg)
 
 ## 4. Related Topics
 

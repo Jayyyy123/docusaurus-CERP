@@ -37,7 +37,7 @@ Before creating an Employee Onboarding, it is advisable that you create the foll
 1. Enter Date of Joining.
 1. Save and Submit.
 
-~~Onboarding Template~~
+![image](images/image.jpg)
 
 Note 1: If an Employee Onboarding Template isn't created, you can directly fill the onboarding information in the Employee Onboarding doctype itself.
 
@@ -55,7 +55,7 @@ To create a new Employee Onboarding Template:
    Enter the Department, Designation and Employee Grade (optional).
    Mention the Activities for onboarding. For each Activity, you can also mention the User or Role, or one of it, to whom this Activity will be assigned.
 
-~~Onboarding Template~~
+![image](images/image.jpg)
 
 ### 3.2 Tasks and Assignments
 
@@ -63,7 +63,7 @@ On submission of the Employee Onboarding, a Project will be created. Within the 
 
 You can view the created Projects and Tasks as shown below:
 
-~~Onboarding Template~~
+![image](images/image.jpg)
 
 Additionally, each Activity can be assigned weights based on its importance.
 
@@ -75,7 +75,7 @@ Based on the progress on the Tasks, progress can be updated in the Employee Onbo
 
 You can directly create an Employee through the Employee Onboarding doctype (if not already created) once all the mandatory onboarding tasks are complete.
 
-~~Onboarding Template~~
+![image](images/image.jpg)
 
 ## 4. Related Topics
 

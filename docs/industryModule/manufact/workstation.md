@@ -29,7 +29,7 @@ Home > Manufacturing > Bill of Materials > Workstation
 1. Save.
    Optionally, you can enter a description for the Workstation.
 
-~~Workstation~~
+![image](images/image.jpg)
 
 The hours when the Workstation will be Operational can be added. On adding a Holiday list, the days listed as holidays won't be counted as working for the Workstation. Workstation Hours
 
@@ -41,7 +41,7 @@ After saving the Workstation, the following actions can be performed against it:
 
 Production Capacity is the total number of jobs can be executed at the same time in the respective workstation.
 
-~~Work Order~~
+![image](images/image.jpg)
 
 ### 2.2 Working Hours
 

@@ -16,7 +16,7 @@ The Bank Reconciliation Report provides the difference between the bank balance 
 
 This is what a Bank Reconciliation statement looks like:
 
-~~Bank Reconciliation statement~~
+![image](images/image.jpg)
 
 In the report, check whether the field 'Balance as per bank' matches the Bank Account Statement. If it is matching, it means that the Clearance Date is correctly updated for all the bank entries. If there is a mismatch, it's because of bank entries for which Clearance Date is not yet updated.
 
@@ -37,7 +37,7 @@ Home > Accounting > Banking and Payments > Update Bank Transaction Date
 1. In each of the entries, on the rightmost column, update the “Clearance Date” field and click on the Update Clearance Date button.
    By doing this you will be able to sync your bank statements and entries into the system.
 
-~~Bank Reconciliation~~
+![image](images/image.jpg)
 
 ## 3. Types of reconciliation tools
 
@@ -57,18 +57,18 @@ You can upload a Bank Statement in CSV or XLS format into CERP using the Bank Re
 
 1. Download a bank statement from your bank's website
 
-~~Reconcile bank transactions~~
+![image](images/image.jpg)
 Make sure you have at least the date, the debit/credit and the currency on every row of your bank statement.
 
 2. Configure the import format in the Bank DocType
 
-~~Reconcile bank transactions~~
+![image](images/image.jpg)
 
 3. Your file will be read and then CERP will use this mapping to dispatch all information into the corresponding fields in the Bank Transaction DocType.
 
 Upload your file into CERP
 
-~~Reconcile bank transactions~~
+![image](images/image.jpg)
 
 Bank account synchronization
 You can use Plaid (see Plaid Integrations page) to automatically synchronize your bank account with CERP. All your bank transactions will be automatically imported into CERP.
@@ -77,11 +77,12 @@ Once all your bank transactions are imported into CERP, you can reconcile them w
 
 If that payment matches, just click on reconcile to reconcile it with this bank transaction.
 
-~~Reconcile bank transactions~~
+![image](images/image.jpg)
 
 If CERP doesn't propose you any payment, you can always select the corresponding payment manually:
 
-~~Reconcile bank transactions~~ manually
+![image](images/image.jpg)
+manually
 
 You can also create a new payment or invoice directly from the bank reconciliation dashboard.
 

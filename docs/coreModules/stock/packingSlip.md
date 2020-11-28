@@ -20,7 +20,7 @@ Note: In order to create Packing Slips from a Delivery Note, the Delivery Note n
 ## 1. Prerequisites 
 Before creating and using a Packing Slip, it is advised that you create the following first:
 
-Delivery Note
+![image](images/image.jpg)
 ## 2. How to create a new Packing Slip 
 Usually, you should create a Packing Slip from a Delivery Note when it is in the Draft stage, however, if you want to create a Packing Slip manually, follow these steps.
 
@@ -31,7 +31,7 @@ Click on the Get Items button to fetch the Items and Quantities into the Items t
 Save.
 Most of these details will be fetched if you create the Packing Slip from the Delivery Note.
 
-Packing Slip
+![image](images/image.jpg)
 
 ### 1.1 Additional options when creating a Packing Slip 
 To Package No: If there are multiple packages of the same type to be shipped at once then set the From and To Package numbers. For example, package numbers 1 to 5 in one Packing Slip, then package numbers 6 to 10 in the next Packing Slip and so on. This will be shown if you print then Packing Slip. Note that this will only work if you Shipment has that many quantities of the Items.

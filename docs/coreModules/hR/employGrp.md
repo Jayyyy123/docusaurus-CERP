@@ -20,7 +20,7 @@ Before creating an Employee Group, it is advisable you create the following docu
 1. Select and add Employee ID to the group. The Employee Name will get automatically fetched.
 1. Save.
 
-~~Employee Group~~
+![image](images/image.jpg)
 
 ## 3. Features 
 ### 3.1 Service Level Agreement 

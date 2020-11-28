@@ -21,7 +21,7 @@ Home > Selling > Items and Pricing > Shipping Rule
 1. Under Calculate Based On, you can also change the calculation on which the Shipping Rule will be applied like net total quantity or net total weight, by default it is "Fixed".
 1. Save.
 
-~~Shipping Rule~~
+![image](images/image.jpg)
 
 ## 2. Features
 

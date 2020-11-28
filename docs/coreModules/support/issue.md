@@ -15,7 +15,7 @@ To access the Issue list, go to:
 Home > Support > Issues > Issue
 :::
 
-~~Issue~~
+![image](images/image.jpg)
 
 ## 1. Prerequisites
 
@@ -78,7 +78,7 @@ First Responded on: When a Support team member first replies to the issue, first
 
 Average Response Time: The average time taken to respond to the Customer. This is calculated by taking the average of all time spans between Received and Sent Communications. This field will be updated on every reply sent to the customer.
 
-~~Issue~~
+![image](images/image.jpg)
 
 ### 3.4 Reference
 
@@ -103,7 +103,7 @@ User can filter the issues based on these fields linked to the Issue:
 
 The Resolution Time and User Resolution Time metrics are set on "Close". These metrics reset automatically when the Issue reopens or splits.
 
-~~Issue~~
+![image](images/image.jpg)
 
 Via Customer Portal
 If the Customer raising the Issue is a Website User (no access to modules), this checkbox will be ticked to indicate that.
@@ -133,7 +133,7 @@ Issues can be assigned automatically among Users using Assignment Rule.
 
 You can assign an Issue to a specific User by clicking on "Assign" feature in the left sidebar. This will add a new To Do to the user and also send a message indicating that this Issue is allocated.
 
-~~Assign Issue~~
+![image](images/image.jpg)
 
 ### 4.5 Closing
 

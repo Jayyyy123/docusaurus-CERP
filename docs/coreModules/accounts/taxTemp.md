@@ -33,7 +33,7 @@ Before creating and using an Item Tax Template, it is advised to create the foll
 1. Save.
    Now the Item Tax Template is ready to be assigned to an Item. To do this, go the Item, Item Tax section and select an Item Tax Template:
 
-~~Item Tax In Item~~
+![image](images/image.jpg)
 
 :::note
 Note: It is advised to not use the Sales/Purchase Template selected here in Tax Rule, it may cause interference. If you want to use same tax rates for Tax Rule and Item Tax Template, use a different name for the Sales/Purchase Tax Templates.
@@ -43,11 +43,11 @@ Note: It is advised to not use the Sales/Purchase Template selected here in Tax 
 
 Tax templates are preset with values. For items which have a different tax rate than the others, you need to change it in the Item master. Go to the tax table in the Item, add a row, select the tax type and change the rate. Now, this new rate will over ride the template when creating an order/invoice. For example, in the below screenshot you can see that the tax rate is set as 5 and that's the rate which will be applied in transactions.
 
-~~Opening Account~~
+![image](images/image.jpg)
 
 For the Item which is exempted from tax entirely, mention 0% as tax rate in the Item master.
 
-~~Opening Account~~
+![image](images/image.jpg)
 :::note
 Note: For Item Tax Template to work, you need to ensure that the tax types (accounts) set in Item Tax Template (with changed tax rates) are present in the Sales Taxes and Charges Template.
 

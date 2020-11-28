@@ -24,13 +24,13 @@ Save.
 After saving all the data configured in the template will be fetched and set in the lab test document.
 You can change the pre-configured data according to your requirements. Add comments if any, in the Comments section.
 
-~~Lab Test~~
+![image](images/image.jpg)
 
 As the results get ready, you can enter the details of the results in the Lab Test document. All presets, Normal Values etc. as configured in the Lab Test Template are made available Lab Test for easy data capture.
 
 For example, Grouped Test: Lab Result
 
-~~Descriptive Test: Lab Result~~
+![image](images/image.jpg)
 
 Components for which Allow Blank is not checked, will throw a validation if left blank on submit.
 
@@ -44,13 +44,13 @@ It is also possible to use the "Create Multiple" option from the Lab Test list v
 
 You can select the Patient and then the Encounter or Invoice from which you need to pull the tests without having to open the Encounter/Sales Invoice to look up the orders.
 
-~~Lab Test~~
+![image](images/image.jpg)
 
 The tests prescribed in the Investigations section of that Patient Encounter would be pulled.
 
-~~Lab Test~~
+![image](images/image.jpg)
 
-~~Lab Test~~
+![image](images/image.jpg)
 
 In the case of Sales Invoice, the items (Lab Test Template items) billed in the invoice will be pulled to create Lab Tests.
 
@@ -78,9 +78,9 @@ Sensitivity
 
 CERP also allows you to format test result for each test/event in your result.
 
-~~Format Test Result~~
+![image](images/image.jpg)
 
-~~Formatted Result~~
+![image](images/image.jpg)
 
 ### 2.7 Laboratory SMS Alerts
 
